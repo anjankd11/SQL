@@ -1,0 +1,3616 @@
+name,year,region,area,population,gdp
+Afghanistan,1989,Asia,647500,14825013,0
+Afghanistan,1990,Asia,647500,15862293,0
+Afghanistan,1991,Asia,647500,16450304,0
+Afghanistan,1992,Asia,647500,16095664,0
+Afghanistan,1993,Asia,647500,16494145,
+Afghanistan,1994,Asia,647500,16903400,
+Afghanistan,1995,Asia,647500,21251821,
+Afghanistan,1996,Asia,647500,22664136,
+Afghanistan,1997,Asia,647500,23738085,
+Afghanistan,1998,Asia,647500,24792375,
+Afghanistan,1999,Asia,647500,25824882,
+Afghanistan,2000,Asia,647500,25838797,
+Afghanistan,2001,Asia,647500,26813057,
+Afghanistan,2002,Asia,647500,27755775,
+Afghanistan,2003,Asia,647500,28717213,
+Afghanistan,2004,Asia,647500,28513677,0.28999999
+Afghanistan,2005,Asia,647500,29928987,7.5000003E-2
+Afghanistan,2006,Asia,647500,31056997,0.14
+Afghanistan,2007,Asia,647500,31889923,7.9999998E-2
+Afghanistan,2008,Asia,647500,31889923,7.5000003E-2
+Afghanistan,2009,Asia,647500,33609937,7.5000003E-2
+Afghanistan,2010,Asia,647500,29121286,0.22499999
+Afghanistan,2011,Asia,647500,29835392,8.2000002E-2
+Albania,1989,Ethnic Groups in Eastern Europe, Europe,28750,3208033,
+Albania,1990,Ethnic Groups in Eastern Europe, Europe,28750,3273131,
+Albania,1991,Ethnic Groups in Eastern Europe, Europe,28750,3335044,
+Albania,1992,Ethnic Groups in Eastern Europe, Europe,28750,3285224,
+Albania,1994,Ethnic Groups in Eastern Europe, Europe,28750,3374085,0.11
+Albania,1995,Ethnic Groups in Eastern Europe, Europe,28750,3413904,0.11
+Albania,1996,Ethnic Groups in Eastern Europe, Europe,28750,3249136,5.9999999E-2
+Albania,1997,Ethnic Groups in Eastern Europe, Europe,28750,3299757,5.0000001E-2
+Albania,1999,Ethnic Groups in Eastern Europe, Europe,28750,3364571,0.07
+Albania,2000,Ethnic Groups in Eastern Europe, Europe,28750,3490435,7.9999998E-2
+Albania,2001,Ethnic Groups in Eastern Europe, Europe,28750,3510484,7.5000003E-2
+Albania,2002,Ethnic Groups in Eastern Europe, Europe,28750,3544841,7.2999999E-2
+Albania,2003,Ethnic Groups in Eastern Europe, Europe,28750,3582205,7.2999999E-2
+Albania,2004,Ethnic Groups in Eastern Europe, Europe,28750,3544808,0.07
+Albania,2005,Ethnic Groups in Eastern Europe, Europe,28750,3563112,5.6000002E-2
+Albania,2006,Ethnic Groups in Eastern Europe, Europe,28750,3581655,0.055
+Albania,2007,Ethnic Groups in Eastern Europe, Europe,28750,3600523,5.0000001E-2
+Albania,2008,Ethnic Groups in Eastern Europe, Europe,28750,3600523,5.0000001E-2
+Albania,2009,Ethnic Groups in Eastern Europe, Europe,28750,3639453,6.1000001E-2
+Albania,2010,Ethnic Groups in Eastern Europe, Europe,28750,2986952,0.033
+Albania,2011,Ethnic Groups in Eastern Europe, Europe,28750,2994667,0.035
+Algeria,1989,Africa,2381740,24946073,0.02
+Algeria,1991,Africa,2381740,26022188,0.025
+Algeria,1992,Africa,2381740,26666921,0.025
+Algeria,1993,Africa,2381740,27256252,2.8000001E-2
+Algeria,1994,Africa,2381740,27895068,9.9999998E-3
+Algeria,1995,Africa,2381740,28539321,2.0000001E-3
+Algeria,1996,Africa,2381740,29183032,0.035
+Algeria,1997,Africa,2381740,29830370,3.9999999E-2
+Algeria,1998,Africa,2381740,30480793,0.025
+Algeria,1999,Africa,2381740,31133486,3.2000002E-2
+Algeria,2000,Africa,2381740,31193917,3.9000001E-2
+Algeria,2001,Africa,2381740,31736053,5.0000001E-2
+Algeria,2002,Africa,2381740,32277942,3.7999999E-2
+Algeria,2003,Africa,2381740,32818500,0.033
+Algeria,2004,Africa,2381740,32129324,7.4000001E-2
+Algeria,2005,Africa,2381740,32531853,6.1000001E-2
+Algeria,2006,Africa,2381740,32930091,0.055
+Algeria,2007,Africa,2381740,33333216,2.9999999E-2
+Algeria,2008,Africa,2381740,33333216,0.046
+Algeria,2009,Africa,2381740,34178188,2.9999999E-2
+Algeria,2010,Africa,2381740,34586184,0.022
+Algeria,2011,Africa,2381740,34994937,0.033
+American Samoa,1989,Oceania,199,40625,
+American Samoa,1990,Oceania,199,41840,
+American Samoa,1991,Oceania,199,43052,
+American Samoa,1992,Oceania,199,51115,
+American Samoa,1993,Oceania,199,53139,
+American Samoa,1994,Oceania,199,55223,
+American Samoa,1995,Oceania,199,57366,
+American Samoa,1996,Oceania,199,59566,
+American Samoa,1997,Oceania,199,61819,
+American Samoa,1998,Oceania,199,62093,
+American Samoa,1999,Oceania,199,63786,
+American Samoa,2000,Oceania,199,65446,
+American Samoa,2001,Oceania,199,67084,
+American Samoa,2002,Oceania,199,68688,
+American Samoa,2003,Oceania,199,70260,
+American Samoa,2004,Oceania,199,57902,
+American Samoa,2005,Oceania,199,57881,
+American Samoa,2006,Oceania,199,57794,2.9999999E-2
+American Samoa,2007,Oceania,199,87663,2.9999999E-2
+American Samoa,2008,Oceania,199,57663,2.9999999E-2
+American Samoa,2009,Oceania,199,65628,2.9999999E-2
+American Samoa,2010,Oceania,199,66432,2.9999999E-2
+American Samoa,2011,Oceania,199,67242,2.9999999E-2
+Andorra,1989,Europe,450,49974,
+Andorra,1990,Europe,450,51895,
+Andorra,1991,Europe,450,53197,
+Andorra,1992,Europe,450,54428,
+Andorra,1993,Europe,450,61962,
+Andorra,1994,Europe,450,63930,
+Andorra,1995,Europe,450,65780,
+Andorra,1996,Europe,450,72766,
+Andorra,1997,Europe,450,64000,
+Andorra,1998,Europe,450,64716,
+Andorra,1999,Europe,450,65939,
+Andorra,2000,Europe,450,66824,
+Andorra,2001,Europe,450,67627,
+Andorra,2002,Europe,450,68403,3.7999999E-2
+Andorra,2003,Europe,450,69150,3.7999999E-2
+Andorra,2004,Europe,450,69865,3.7999999E-2
+Andorra,2005,Europe,450,70549,0.02
+Andorra,2006,Europe,450,71201,3.9999999E-2
+Andorra,2007,Europe,450,101822,0.035
+Andorra,2008,Europe,450,71822,0.035
+Andorra,2009,Europe,450,83888,0.02
+Andorra,2010,Europe,450,84525,2.6000001E-2
+Andorra,2011,Europe,450,84825,3.7999999E-2
+Angola,1989,Africa,1246700,8533989,0.02
+Angola,1990,Africa,1246700,8534483,0.092
+Angola,1991,Africa,1246700,8668281,0.02
+Angola,1992,Africa,1246700,8902076,1.7000001E-2
+Angola,1993,Africa,1246700,9545235,1.7000001E-2
+Angola,1996,Africa,1246700,10342899,3.9999999E-2
+Angola,1997,Africa,1246700,10548847,9.0000004E-2
+Angola,1998,Africa,1246700,10864512,9.0000004E-2
+Angola,1999,Africa,1246700,11177537,4.9999999E-3
+Angola,2000,Africa,1246700,10145267,3.9999999E-2
+Angola,2001,Africa,1246700,10366031,4.8999999E-2
+Angola,2002,Africa,1246700,10593171,5.4000001E-2
+Angola,2003,Africa,1246700,10766471,9.3999997E-2
+Angola,2004,Africa,1246700,10978552,0.015
+Angola,2005,Africa,1246700,11190786,0.117
+Angola,2006,Africa,1246700,12127071,0.199
+Angola,2007,Africa,1246700,12263596,0.15000001
+Angola,2008,Africa,1246700,12263596,0.163
+Angola,2009,Africa,1246700,12799293,0.132
+Angola,2011,Africa,1246700,13338541,1.6000001E-2
+Anguilla,1989,Central America and the Caribbean,91,6847,
+Anguilla,1990,Central America and the Caribbean,91,6883,8.2000002E-2
+Anguilla,1991,Central America and the Caribbean,91,6922,8.2000002E-2
+Anguilla,1992,Central America and the Caribbean,91,6963,8.2000002E-2
+Anguilla,1993,Central America and the Caribbean,91,7006,6.4999998E-2
+Anguilla,1994,Central America and the Caribbean,91,7052,7.5000003E-2
+Anguilla,1995,Central America and the Caribbean,91,7099,7.5000003E-2
+Anguilla,1996,Central America and the Caribbean,91,10424,6.4999998E-2
+Anguilla,1998,Central America and the Caribbean,91,11147,3.4000002E-2
+Anguilla,1999,Central America and the Caribbean,91,11510,6.4999998E-2
+Anguilla,2000,Central America and the Caribbean,91,11797,6.4999998E-2
+Anguilla,2001,Central America and the Caribbean,91,12132,0.07
+Anguilla,2002,Central America and the Caribbean,91,12446,0
+Anguilla,2003,Central America and the Caribbean,91,12738,2.8000001E-2
+Anguilla,2004,Central America and the Caribbean,91,13008,2.8000001E-2
+Anguilla,2005,Central America and the Caribbean,91,13254,2.8000001E-2
+Anguilla,2006,Central America and the Caribbean,91,13477,0.102
+Anguilla,2007,Central America and the Caribbean,91,43677,0.102
+Anguilla,2008,Central America and the Caribbean,91,13677,0.102
+Anguilla,2009,Central America and the Caribbean,91,14436,0.102
+Argentina,1989,South America,2766890,31914473,
+Argentina,1990,South America,2766890,32290966,
+Argentina,1991,South America,2766890,32663983,
+Argentina,1992,South America,2766890,32901234,0.055
+Argentina,1993,South America,2766890,33533256,0.07
+Argentina,1994,South America,2766890,33912994,5.9999999E-2
+Argentina,1995,South America,2766890,34292742,5.9999999E-2
+Argentina,1997,South America,2766890,35797985,0.044
+Argentina,1998,South America,2766890,36265463,8.3999999E-2
+Argentina,1999,South America,2766890,36737664,4.3000001E-2
+Argentina,2001,South America,2766890,37384816,8.0000004E-3
+Argentina,2004,South America,2766890,39144753,8.6999997E-2
+Argentina,2005,South America,2766890,39537943,8.2999997E-2
+Argentina,2006,South America,2766890,39921833,0.092
+Argentina,2007,South America,2766890,40301927,8.5000001E-2
+Argentina,2008,South America,2766890,40301927,8.5000001E-2
+Argentina,2009,South America,2766890,40913584,7.1000002E-2
+Argentina,2010,South America,2766890,41343201,8.9999996E-3
+Argentina,2011,South America,2766890,41769726,7.5000003E-2
+Armenia,1989,Commonwealth of Independent States - European States,29800,,
+Armenia,1990,Commonwealth of Independent States - European States,29800,,
+Armenia,1991,Commonwealth of Independent States - European States,29800,,
+Armenia,1992,Commonwealth of Independent States - European States,29800,3415566,0.1
+Armenia,1996,Commonwealth of Independent States - European States,29800,3463574,5.2000001E-2
+Armenia,1997,Commonwealth of Independent States - European States,29800,3433629,3.9999999E-2
+Armenia,1998,Commonwealth of Independent States - European States,29800,3421775,2.7000001E-2
+Armenia,1999,Commonwealth of Independent States - European States,29800,3409234,5.9999999E-2
+Armenia,2000,Commonwealth of Independent States - European States,29800,3344336,5.0000001E-2
+Armenia,2001,Commonwealth of Independent States - European States,29800,3336100,5.0000001E-2
+Armenia,2002,Commonwealth of Independent States - European States,29800,3330099,9.6000001E-2
+Armenia,2003,Commonwealth of Independent States - European States,29800,3326448,0.12899999
+Armenia,2004,Commonwealth of Independent States - European States,29800,2991360,9.8999999E-2
+Armenia,2005,Commonwealth of Independent States - European States,29800,2982904,9.0000004E-2
+Armenia,2006,Commonwealth of Independent States - European States,29800,2976372,0.139
+Armenia,2007,Commonwealth of Independent States - European States,29800,2971650,0.134
+Armenia,2008,Commonwealth of Independent States - European States,29800,2971650,0.13699999
+Armenia,2009,Commonwealth of Independent States - European States,29800,2967004,7.5999998E-2
+Armenia,2011,Commonwealth of Independent States - European States,29800,2967975,2.6000001E-2
+Aruba,1989,Central America and the Caribbean,193,62500,
+Aruba,1990,Central America and the Caribbean,193,62656,0.167
+Aruba,1991,Central America and the Caribbean,193,64052,0.088
+Aruba,1992,Central America and the Caribbean,193,64692,0.1
+Aruba,1993,Central America and the Caribbean,193,65117,5.9999999E-2
+Aruba,1994,Central America and the Caribbean,193,,
+Aruba,1995,Central America and the Caribbean,193,65974,5.0000001E-2
+Aruba,1996,Central America and the Caribbean,193,67794,6.1000001E-2
+Aruba,1997,Central America and the Caribbean,193,68031,5.0000001E-2
+Aruba,1998,Central America and the Caribbean,193,68325,3.9999999E-2
+Aruba,1999,Central America and the Caribbean,193,68675,5.9999999E-2
+Aruba,2000,Central America and the Caribbean,193,69539,2.9999999E-2
+Aruba,2001,Central America and the Caribbean,193,70007,0.035
+Aruba,2002,Central America and the Caribbean,193,70441,0.025
+Aruba,2006,Central America and the Caribbean,193,71891,0.024
+Aruba,2007,Central America and the Caribbean,193,130018,0.024
+Aruba,2008,Central America and the Caribbean,193,100018,0.024
+Aruba,2009,Central America and the Caribbean,193,103065,0.024
+Aruba,2010,Central America and the Caribbean,193,104589,0.024
+Aruba,2011,Central America and the Caribbean,193,106113,0.024
+Australia,1989,Oceania,7686850,16451955,
+Australia,1990,Oceania,7686850,16923478,
+Australia,1991,Oceania,7686850,17288044,0.022
+Australia,1992,Oceania,7686850,17576354,6.0000001E-3
+Australia,1993,Oceania,7686850,17827204,0.025
+Australia,1994,Oceania,7686850,18077419,3.9999999E-2
+Australia,1995,Oceania,7686850,18322231,6.4000003E-2
+Australia,1996,Oceania,7686850,18260863,0.033
+Australia,1997,Oceania,7686850,18438824,3.5999998E-2
+Australia,1998,Oceania,7686850,18613087,0.033
+Australia,1999,Oceania,7686850,18783551,4.5000002E-2
+Australia,2000,Oceania,7686850,19169083,4.3000001E-2
+Australia,2001,Oceania,7686850,19357594,4.6999998E-2
+Australia,2002,Oceania,7686850,19546792,0.023
+Australia,2003,Oceania,7686850,19731984,3.5999998E-2
+Australia,2004,Oceania,7686850,19913144,2.9999999E-2
+Australia,2005,Oceania,7686850,20090437,0.035
+Australia,2006,Oceania,7686850,20264082,2.7000001E-2
+Australia,2007,Oceania,7686850,20434176,2.7000001E-2
+Australia,2008,Oceania,7686850,20434176,3.9999999E-2
+Australia,2009,Oceania,7686850,21262641,0.022
+Australia,2010,Oceania,7686850,21515754,0.012
+Australia,2011,Oceania,7686850,21766711,2.7000001E-2
+Austria,1989,Europe,83850,7585766,0.013
+Austria,1990,Europe,83850,7644275,4.1999999E-2
+Austria,1991,Europe,83850,7665804,4.5000002E-2
+Austria,1992,Europe,83850,7867541,2.9999999E-2
+Austria,1993,Europe,83850,7915145,1.7999999E-2
+Austria,1995,Europe,83850,7986664,0.025
+Austria,1996,Europe,83850,8023244,0.024
+Austria,1997,Europe,83850,8132505,0.011
+Austria,1998,Europe,83850,8133611,0.021
+Austria,1999,Europe,83850,8139299,2.8999999E-2
+Austria,2000,Europe,83850,8131111,0.02
+Austria,2001,Europe,83850,8150835,3.0999999E-2
+Austria,2002,Europe,83850,8169929,0.012
+Austria,2003,Europe,83850,8188207,0.011
+Austria,2004,Europe,83850,8174762,7.0000002E-3
+Austria,2005,Europe,83850,8184691,1.8999999E-2
+Austria,2006,Europe,83850,8192880,1.7999999E-2
+Austria,2007,Europe,83850,8199783,0.033
+Austria,2008,Europe,83850,8199783,0.033
+Austria,2009,Europe,83850,8210281,1.6000001E-2
+Austria,2011,Europe,83850,8217280,0.02
+Azerbaijan,1989,Commonwealth of Independent States - European States,86600,,
+Azerbaijan,1990,Commonwealth of Independent States - European States,86600,,
+Azerbaijan,1991,Commonwealth of Independent States - European States,86600,,
+Azerbaijan,1992,Commonwealth of Independent States - European States,86600,7450787,7.0000002E-3
+Azerbaijan,1997,Commonwealth of Independent States - European States,86600,7797476,0.012
+Azerbaijan,1998,Commonwealth of Independent States - European States,86600,7855576,5.7999998E-2
+Azerbaijan,1999,Commonwealth of Independent States - European States,86600,7908224,0.1
+Azerbaijan,2000,Commonwealth of Independent States - European States,86600,7748163,0.07
+Azerbaijan,2001,Commonwealth of Independent States - European States,86600,7771092,0.114
+Azerbaijan,2002,Commonwealth of Independent States - European States,86600,7798497,9.8999999E-2
+Azerbaijan,2003,Commonwealth of Independent States - European States,86600,7830764,0.106
+Azerbaijan,2004,Commonwealth of Independent States - European States,86600,7868385,0.112
+Azerbaijan,2005,Commonwealth of Independent States - European States,86600,7911974,9.7999997E-2
+Azerbaijan,2006,Commonwealth of Independent States - European States,86600,7961619,0.264
+Azerbaijan,2007,Commonwealth of Independent States - European States,86600,8120247,0.345
+Azerbaijan,2008,Commonwealth of Independent States - European States,86600,8120247,0.31
+Azerbaijan,2009,Commonwealth of Independent States - European States,86600,8238672,0.116
+Azerbaijan,2010,Commonwealth of Independent States - European States,86600,8303512,9.3000002E-2
+Azerbaijan,2011,Commonwealth of Independent States - European States,86600,8372373,5.0000001E-2
+Bahrain,1989,Middle East,620,496759,0
+Bahrain,1990,Middle East,620,520186,0
+Bahrain,1991,Middle East,620,536974,0.025
+Bahrain,1992,Middle East,620,551513,6.7000002E-2
+Bahrain,1993,Middle East,620,,2.9999999E-2
+Bahrain,1994,Middle East,620,585683,3.9999999E-2
+Bahrain,1995,Middle East,620,575925,0.022
+Bahrain,1997,Middle East,620,603318,2.9999999E-2
+Bahrain,1998,Middle East,620,616342,2.7000001E-2
+Bahrain,2000,Middle East,620,634137,3.9999999E-2
+Bahrain,2001,Middle East,620,645361,5.0000001E-2
+Bahrain,2002,Middle East,620,656397,3.9999999E-2
+Bahrain,2003,Middle East,620,667238,2.8999999E-2
+Bahrain,2004,Middle East,620,677886,4.8999999E-2
+Bahrain,2005,Middle East,620,688345,5.6000002E-2
+Bahrain,2006,Middle East,620,698585,0.059
+Bahrain,2007,Middle East,620,738573,7.8000002E-2
+Bahrain,2008,Middle East,620,708573,0.066
+Bahrain,2009,Middle East,620,727785,6.1000001E-2
+Bahrain,2010,Middle East,620,738004,3.0999999E-2
+Bahrain,2011,Middle East,620,1214705,4.1000001E-2
+Bangladesh,1990,Asia,144000,118433062,0.021
+Bangladesh,1991,Asia,144000,116601424,3.9999999E-2
+Bangladesh,1992,Asia,144000,119411711,3.2000002E-2
+Bangladesh,1993,Asia,144000,122254849,3.7999999E-2
+Bangladesh,1994,Asia,144000,125149469,4.3000001E-2
+Bangladesh,1995,Asia,144000,128094948,4.5000002E-2
+Bangladesh,1996,Asia,144000,123062800,0.046
+Bangladesh,1997,Asia,144000,125340261,4.6999998E-2
+Bangladesh,1998,Asia,144000,127567002,0.055
+Bangladesh,1999,Asia,144000,127117967,3.9999999E-2
+Bangladesh,2000,Asia,144000,129194224,5.2000001E-2
+Bangladesh,2001,Asia,144000,131269860,5.2999999E-2
+Bangladesh,2002,Asia,144000,133376684,5.6000002E-2
+Bangladesh,2003,Asia,144000,138448210,0.048
+Bangladesh,2004,Asia,144000,141340476,5.2999999E-2
+Bangladesh,2005,Asia,144000,144319628,4.8999999E-2
+Bangladesh,2006,Asia,144000,147365352,6.4000003E-2
+Bangladesh,2007,Asia,144000,150448339,0.066
+Bangladesh,2008,Asia,144000,150448339,5.9999999E-2
+Bangladesh,2009,Asia,144000,156050883,4.8999999E-2
+Bangladesh,2010,Asia,144000,156118464,0.057
+Bangladesh,2011,Asia,144000,158570535,5.9999999E-2
+Barbados,1989,Central America and the Caribbean,430,258122,6.0000001E-3
+Barbados,1990,Central America and the Caribbean,430,262688,0.037
+Barbados,1991,Central America and the Caribbean,430,254626,3.5999998E-2
+Barbados,1992,Central America and the Caribbean,430,254934,3.0999999E-2
+Barbados,1995,Central America and the Caribbean,430,256395,2.9999999E-2
+Barbados,1996,Central America and the Caribbean,430,257030,0.02
+Barbados,1997,Central America and the Caribbean,430,258756,0.035
+Barbados,1998,Central America and the Caribbean,430,259025,2.9999999E-2
+Barbados,1999,Central America and the Caribbean,430,259191,2.9999999E-2
+Barbados,2000,Central America and the Caribbean,430,274540,0.044
+Barbados,2001,Central America and the Caribbean,430,275330,2.8000001E-2
+Barbados,2004,Central America and the Caribbean,430,278289,0.022
+Barbados,2005,Central America and the Caribbean,430,279254,0.023
+Barbados,2006,Central America and the Caribbean,430,279912,4.1000001E-2
+Barbados,2007,Central America and the Caribbean,430,310946,0.035
+Barbados,2008,Central America and the Caribbean,430,280946,3.9999999E-2
+Barbados,2009,Central America and the Caribbean,430,284589,0.015
+Belarus,1989,Commonwealth of Independent States - European States,207600,,
+Belarus,1990,Commonwealth of Independent States - European States,207600,,
+Belarus,1991,Commonwealth of Independent States - European States,207600,,
+Belarus,1992,Commonwealth of Independent States - European States,207600,10373881,0.02
+Belarus,1997,Commonwealth of Independent States - European States,207600,10412219,2.9999999E-2
+Belarus,1998,Commonwealth of Independent States - European States,207600,10409050,8.5000001E-2
+Belarus,1999,Commonwealth of Independent States - European States,207600,10401784,0.07
+Belarus,2000,Commonwealth of Independent States - European States,207600,10366719,0.015
+Belarus,2001,Commonwealth of Independent States - European States,207600,10350194,3.9999999E-2
+Belarus,2002,Commonwealth of Independent States - European States,207600,10335382,4.1000001E-2
+Belarus,2003,Commonwealth of Independent States - European States,207600,10322151,4.6999998E-2
+Belarus,2004,Commonwealth of Independent States - European States,207600,10310520,6.8000004E-2
+Belarus,2005,Commonwealth of Independent States - European States,207600,10300483,6.4000003E-2
+Belarus,2006,Commonwealth of Independent States - European States,207600,10293011,0.092
+Belarus,2007,Commonwealth of Independent States - European States,207600,9724723,9.8999999E-2
+Belarus,2008,Commonwealth of Independent States - European States,207600,9724723,6.8999998E-2
+Belarus,2009,Commonwealth of Independent States - European States,207600,9648533,0.092
+Belarus,2010,Commonwealth of Independent States - European States,207600,9612632,2.0000001E-3
+Belarus,2011,Commonwealth of Independent States - European States,207600,9577552,7.5999998E-2
+Belgium,1989,Europe,30510,9887998,
+Belgium,1990,Europe,30510,9909285,4.5000002E-2
+Belgium,1991,Europe,30510,9921910,0.033
+Belgium,1992,Europe,30510,10016623,0.014
+Belgium,1993,Europe,30510,,8.0000004E-3
+Belgium,1995,Europe,30510,10081880,0.023
+Belgium,1996,Europe,30510,10170241,0.023
+Belgium,1997,Europe,30510,10165059,0.014
+Belgium,1998,Europe,30510,10174922,0.023
+Belgium,1999,Europe,30510,10182034,2.8000001E-2
+Belgium,2000,Europe,30510,10241506,1.7999999E-2
+Belgium,2001,Europe,30510,10258762,4.1000001E-2
+Belgium,2002,Europe,30510,10274595,0.011
+Belgium,2003,Europe,30510,10289088,7.0000002E-3
+Belgium,2004,Europe,30510,10348276,0.011
+Belgium,2005,Europe,30510,10364388,2.6000001E-2
+Belgium,2006,Europe,30510,10379067,0.015
+Belgium,2007,Europe,30510,10392226,2.9999999E-2
+Belgium,2008,Europe,30510,10392226,2.7000001E-2
+Belgium,2009,Europe,30510,10414336,0.013
+Belgium,2011,Europe,30510,10431477,0.02
+Belize,1989,Central America and the Caribbean,22960,175555,6.4999998E-2
+Belize,1990,Central America and the Caribbean,22960,219737,5.9999999E-2
+Belize,1991,Central America and the Caribbean,22960,228069,9.0000004E-2
+Belize,1992,Central America and the Caribbean,22960,229143,0.1
+Belize,1993,Central America and the Caribbean,22960,203957,0.1
+Belize,1994,Central America and the Caribbean,22960,208949,5.2999999E-2
+Belize,1995,Central America and the Caribbean,22960,214061,0.02
+Belize,1996,Central America and the Caribbean,22960,219296,0.02
+Belize,1997,Central America and the Caribbean,22960,224663,2.9999999E-2
+Belize,1998,Central America and the Caribbean,22960,230160,2.8999999E-2
+Belize,1999,Central America and the Caribbean,22960,235789,4.9999999E-3
+Belize,2000,Central America and the Caribbean,22960,249183,3.9999999E-2
+Belize,2001,Central America and the Caribbean,22960,256062,3.9999999E-2
+Belize,2002,Central America and the Caribbean,22960,262999,2.9999999E-2
+Belize,2003,Central America and the Caribbean,22960,266440,0.037
+Belize,2004,Central America and the Caribbean,22960,272945,0.037
+Belize,2005,Central America and the Caribbean,22960,279457,0.035
+Belize,2006,Central America and the Caribbean,22960,287730,3.7999999E-2
+Belize,2007,Central America and the Caribbean,22960,294385,0.035
+Belize,2008,Central America and the Caribbean,22960,294385,2.9999999E-2
+Belize,2009,Central America and the Caribbean,22960,307899,0.048
+Belize,2010,Central America and the Caribbean,22960,314522,0
+Belize,2011,Central America and the Caribbean,22960,321115,0.02
+Benin,1990,Africa,112620,4673964,1.7999999E-2
+Benin,1991,Africa,112620,4831823,2.6000001E-2
+Benin,1992,Africa,112620,4997599,2.9999999E-2
+Benin,1993,Africa,112620,5166735,2.9999999E-2
+Benin,1994,Africa,112620,5341710,2.9999999E-2
+Benin,1995,Africa,112620,5522677,3.9999999E-2
+Benin,1996,Africa,112620,5709529,5.9999999E-2
+Benin,1997,Africa,112620,5902178,0.055
+Benin,1998,Africa,112620,6100799,5.7999998E-2
+Benin,1999,Africa,112620,6305567,0.044
+Benin,2000,Africa,112620,6395919,5.0000001E-2
+Benin,2001,Africa,112620,6590782,5.0000001E-2
+Benin,2002,Africa,112620,6787625,5.4000001E-2
+Benin,2003,Africa,112620,7041490,5.9999999E-2
+Benin,2004,Africa,112620,7250033,0.055
+Benin,2005,Africa,112620,7460025,5.0000001E-2
+Benin,2006,Africa,112620,7862944,0.035
+Benin,2007,Africa,112620,8078314,3.9999999E-2
+Benin,2008,Africa,112620,8078314,4.5000002E-2
+Benin,2009,Africa,112620,8791832,0.048
+Benin,2010,Africa,112620,9056010,2.7000001E-2
+Benin,2011,Africa,112620,9325032,0.025
+Bermuda,1989,North America,50,58238,2.7000001E-2
+Bermuda,1990,North America,50,58337,0.02
+Bermuda,1991,North America,50,58433,0.02
+Bermuda,1992,North America,50,60213,0.02
+Bermuda,1995,North America,50,61629,0.025
+Bermuda,1996,North America,50,62099,0.025
+Bermuda,1997,North America,50,62569,0.024
+Bermuda,1998,North America,50,62009,0.024
+Bermuda,1999,North America,50,62472,2.9999999E-2
+Bermuda,2000,North America,50,62997,0.025
+Bermuda,2001,North America,50,63503,0.015
+Bermuda,2002,North America,50,63960,2.8999999E-2
+Bermuda,2003,North America,50,64482,4.9999999E-3
+Bermuda,2004,North America,50,64935,0.02
+Bermuda,2005,North America,50,65365,0.02
+Bermuda,2006,North America,50,65773,0.046
+Bermuda,2007,North America,50,96163,0.046
+Bermuda,2008,North America,50,66163,0.046
+Bermuda,2009,North America,50,67837,0.046
+Bermuda,2010,North America,50,68265,0.046
+Bermuda,2011,North America,50,68679,0.046
+Bhutan,1989,Asia,47000,1534122,0.14
+Bhutan,1990,Asia,47000,1565969,6.3000001E-2
+Bhutan,1991,Asia,47000,1598216,3.9999999E-2
+Bhutan,1992,Asia,47000,1660167,3.0999999E-2
+Bhutan,1993,Asia,47000,700000,3.0999999E-2
+Bhutan,1994,Asia,47000,716380,5.0000001E-2
+Bhutan,1995,Asia,47000,1780638,5.0000001E-2
+Bhutan,1996,Asia,47000,1822625,5.9999999E-2
+Bhutan,1997,Asia,47000,1865191,6.8999998E-2
+Bhutan,1998,Asia,47000,1908307,6.8999998E-2
+Bhutan,1999,Asia,47000,1951965,6.4999998E-2
+Bhutan,2000,Asia,47000,2005222,0.07
+Bhutan,2001,Asia,47000,2049412,5.9999999E-2
+Bhutan,2002,Asia,47000,2094176,5.9999999E-2
+Bhutan,2003,Asia,47000,2139549,0.077
+Bhutan,2004,Asia,47000,2185569,0.077
+Bhutan,2005,Asia,47000,2232291,5.2999999E-2
+Bhutan,2006,Asia,47000,2279723,0.059
+Bhutan,2007,Asia,47000,2327849,0.088
+Bhutan,2008,Asia,47000,2327849,0.088
+Bhutan,2009,Asia,47000,691141,0.066
+Bhutan,2010,Asia,47000,699847,0.057
+Bhutan,2011,Asia,47000,708427,6.7000002E-2
+Bolivia,1989,South America,1098580,6588601,
+Bolivia,1990,South America,1098580,6706854,
+Bolivia,1991,South America,1098580,7156591,2.7000001E-2
+Bolivia,1992,South America,1098580,7323048,3.9999999E-2
+Bolivia,1993,South America,1098580,7544099,3.7999999E-2
+Bolivia,1994,South America,1098580,7719445,0.022
+Bolivia,1995,South America,1098580,7896254,4.1999999E-2
+Bolivia,1996,South America,1098580,7165257,0.037
+Bolivia,1997,South America,1098580,7669868,3.9000001E-2
+Bolivia,1998,South America,1098580,7826352,0.044
+Bolivia,1999,South America,1098580,7982850,4.6999998E-2
+Bolivia,2000,South America,1098580,8152620,0.02
+Bolivia,2001,South America,1098580,8300463,0.025
+Bolivia,2002,South America,1098580,8445134,0
+Bolivia,2003,South America,1098580,8586443,2.8000001E-2
+Bolivia,2004,South America,1098580,8724156,0.025
+Bolivia,2005,South America,1098580,8857870,0.037
+Bolivia,2006,South America,1098580,8989046,4.1000001E-2
+Bolivia,2007,South America,1098580,9119152,4.5000002E-2
+Bolivia,2008,South America,1098580,9119152,3.9999999E-2
+Bolivia,2009,South America,1098580,9775246,5.6000002E-2
+Bolivia,2010,South America,1098580,9947418,3.4000002E-2
+Bolivia,2011,South America,1098580,10118683,4.1999999E-2
+Botswana,1989,Africa,600370,1232183,8.3999999E-2
+Botswana,1990,Africa,600370,1224527,8.3999999E-2
+Botswana,1991,Africa,600370,1258392,6.3000001E-2
+Botswana,1992,Africa,600370,1292210,6.3000001E-2
+Botswana,1993,Africa,600370,1325920,5.7999998E-2
+Botswana,1994,Africa,600370,1359352,2.9999999E-2
+Botswana,1995,Africa,600370,1392414,9.9999998E-3
+Botswana,1996,Africa,600370,1477630,9.9999998E-3
+Botswana,1997,Africa,600370,1500765,5.0000001E-2
+Botswana,1998,Africa,600370,1448454,5.9999999E-2
+Botswana,1999,Africa,600370,1464167,2.9999999E-2
+Botswana,2000,Africa,600370,1576470,6.4999998E-2
+Botswana,2001,Africa,600370,1586119,5.9999999E-2
+Botswana,2002,Africa,600370,1591232,4.6999998E-2
+Botswana,2003,Africa,600370,1573267,4.1999999E-2
+Botswana,2004,Africa,600370,1561973,7.1999997E-2
+Botswana,2005,Africa,600370,1640115,0.035
+Botswana,2006,Africa,600370,1639833,0.055
+Botswana,2007,Africa,600370,1815508,5.4000001E-2
+Botswana,2008,Africa,600370,1815508,4.6999998E-2
+Botswana,2009,Africa,600370,1990876,3.2000002E-2
+Botswana,2011,Africa,600370,2065398,8.6000003E-2
+Brazil,1989,South America,8511965,150750232,
+Brazil,1990,South America,8511965,152505077,2.9999999E-2
+Brazil,1992,South America,8511965,158202019,0.012
+Brazil,1994,South America,8511965,158739257,5.0000001E-2
+Brazil,1995,South America,8511965,160737489,5.2999999E-2
+Brazil,1996,South America,8511965,162661214,4.1999999E-2
+Brazil,1997,South America,8511965,164511366,2.8999999E-2
+Brazil,1998,South America,8511965,169806557,2.9999999E-2
+Brazil,1999,South America,8511965,171853126,4.9999999E-3
+Brazil,2000,South America,8511965,172860370,8.0000004E-3
+Brazil,2001,South America,8511965,174468575,4.1999999E-2
+Brazil,2002,South America,8511965,176029560,1.8999999E-2
+Brazil,2003,South America,8511965,182032604,0.015
+Brazil,2005,South America,8511965,186112794,5.0999999E-2
+Brazil,2006,South America,8511965,188078227,0.023
+Brazil,2007,South America,8511965,190010647,0.037
+Brazil,2008,South America,8511965,190010647,4.8999999E-2
+Brazil,2009,South America,8511965,198739269,5.2000001E-2
+Brazil,2011,South America,8511965,203429773,7.5000003E-2
+Bulgaria,1989,Ethnic Groups in Eastern Europe, Europe,110910,8972724,
+Bulgaria,1990,Ethnic Groups in Eastern Europe, Europe,110910,8933544,
+Bulgaria,1991,Ethnic Groups in Eastern Europe, Europe,110910,8910622,
+Bulgaria,1992,Ethnic Groups in Eastern Europe, Europe,110910,8869161,
+Bulgaria,1995,Ethnic Groups in Eastern Europe, Europe,110910,8775198,2.0000001E-3
+Bulgaria,1996,Ethnic Groups in Eastern Europe, Europe,110910,8612757,0.024
+Bulgaria,1999,Ethnic Groups in Eastern Europe, Europe,110910,8194772,3.9999999E-2
+Bulgaria,2000,Ethnic Groups in Eastern Europe, Europe,110910,7796694,0.025
+Bulgaria,2001,Ethnic Groups in Eastern Europe, Europe,110910,7707495,5.0000001E-2
+Bulgaria,2002,Ethnic Groups in Eastern Europe, Europe,110910,7621337,3.9999999E-2
+Bulgaria,2003,Ethnic Groups in Eastern Europe, Europe,110910,7537929,0.048
+Bulgaria,2004,Ethnic Groups in Eastern Europe, Europe,110910,7517973,4.3000001E-2
+Bulgaria,2005,Ethnic Groups in Eastern Europe, Europe,110910,7450349,5.2999999E-2
+Bulgaria,2006,Ethnic Groups in Eastern Europe, Europe,110910,7385367,0.055
+Bulgaria,2007,Ethnic Groups in Eastern Europe, Europe,110910,7322858,6.3000001E-2
+Bulgaria,2008,Ethnic Groups in Eastern Europe, Europe,110910,7322858,6.1000001E-2
+Bulgaria,2009,Ethnic Groups in Eastern Europe, Europe,110910,7204687,5.9999999E-2
+Bulgaria,2011,Ethnic Groups in Eastern Europe, Europe,110910,7093635,2.0000001E-3
+Burundi,1989,Africa,27830,5456112,3.9999999E-2
+Burundi,1990,Africa,27830,5645997,2.8000001E-2
+Burundi,1991,Africa,27830,5831233,0.015
+Burundi,1992,Africa,27830,6022341,3.4000002E-2
+Burundi,1993,Africa,27830,5985308,5.0000001E-2
+Burundi,1996,Africa,27830,5943057,2.7000001E-2
+Burundi,1998,Africa,27830,5537387,0.044
+Burundi,1999,Africa,27830,5735937,4.5000002E-2
+Burundi,2001,Africa,27830,6223897,1.7999999E-2
+Burundi,2002,Africa,27830,6373002,0.014
+Burundi,2003,Africa,27830,6096156,4.5000002E-2
+Burundi,2005,Africa,27830,6370609,2.9999999E-2
+Burundi,2006,Africa,27830,8090068,0.011
+Burundi,2007,Africa,27830,8390505,3.7999999E-2
+Burundi,2008,Africa,27830,8390505,0.055
+Burundi,2009,Africa,27830,8988091,4.5000002E-2
+Burundi,2010,Africa,27830,9863117,0.035
+Burundi,2011,Africa,27830,10216190,3.9000001E-2
+Cambodia,1989,Southeast Asia,181040,6838033,
+Cambodia,1990,Southeast Asia,181040,6991107,0
+Cambodia,1991,Southeast Asia,181040,7146386,0
+Cambodia,1992,Southeast Asia,181040,7295706,
+Cambodia,1993,Southeast Asia,181040,9898900,
+Cambodia,1994,Southeast Asia,181040,10264628,7.5000003E-2
+Cambodia,1995,Southeast Asia,181040,10561373,5.0000001E-2
+Cambodia,1996,Southeast Asia,181040,10861218,6.7000002E-2
+Cambodia,1997,Southeast Asia,181040,11163861,7.4000001E-2
+Cambodia,1998,Southeast Asia,181040,11339562,0.015
+Cambodia,1999,Southeast Asia,181040,11626520,0
+Cambodia,2000,Southeast Asia,181040,12212306,3.9999999E-2
+Cambodia,2001,Southeast Asia,181040,12491501,3.9999999E-2
+Cambodia,2002,Southeast Asia,181040,12775324,5.2999999E-2
+Cambodia,2003,Southeast Asia,181040,13124764,4.5000002E-2
+Cambodia,2004,Southeast Asia,181040,13363421,5.0000001E-2
+Cambodia,2005,Southeast Asia,181040,13607069,5.4000001E-2
+Cambodia,2006,Southeast Asia,181040,13881427,0.134
+Cambodia,2007,Southeast Asia,181040,13995904,7.1999997E-2
+Cambodia,2008,Southeast Asia,181040,13995904,9.0999998E-2
+Cambodia,2009,Southeast Asia,181040,14494293,6.8000004E-2
+Cambodia,2011,Southeast Asia,181040,14701717,5.9999999E-2
+Cameroon,1989,Africa,475440,10816514,6.0000001E-3
+Cameroon,1991,Africa,475440,11390374,7.0000002E-3
+Cameroon,1992,Africa,475440,12658439,7.0000002E-3
+Cameroon,1993,Africa,475440,12755873,2.9999999E-2
+Cameroon,1994,Africa,475440,13132191,
+Cameroon,1996,Africa,475440,14261557,1.7999999E-2
+Cameroon,1997,Africa,475440,14677510,3.4000002E-2
+Cameroon,1998,Africa,475440,15029433,5.0000001E-2
+Cameroon,1999,Africa,475440,15456092,5.0000001E-2
+Cameroon,2000,Africa,475440,15421937,5.2000001E-2
+Cameroon,2001,Africa,475440,15803220,0.044
+Cameroon,2002,Africa,475440,16184748,4.8999999E-2
+Cameroon,2003,Africa,475440,15746179,3.9999999E-2
+Cameroon,2004,Africa,475440,16063678,4.1999999E-2
+Cameroon,2005,Africa,475440,16380005,4.8999999E-2
+Cameroon,2006,Africa,475440,17340702,0.024
+Cameroon,2007,Africa,475440,18060382,0.035
+Cameroon,2008,Africa,475440,18060382,3.2000002E-2
+Cameroon,2009,Africa,475440,18879301,3.9000001E-2
+Cameroon,2010,Africa,475440,19294149,8.9999996E-3
+Cameroon,2011,Africa,475440,19711291,2.9999999E-2
+Canada,1989,North America,9976140,26310836,
+Canada,1990,North America,9976140,26538229,2.8999999E-2
+Canada,1991,North America,9976140,26835036,8.9999996E-3
+Canada,1993,North America,9976140,27769993,8.9999996E-3
+Canada,1994,North America,9976140,28113997,0.024
+Canada,1995,North America,9976140,28434545,4.5000002E-2
+Canada,1996,North America,9976140,28820671,0.021
+Canada,1997,North America,9976140,30337334,0.014
+Canada,1998,North America,9976140,30675398,0.035
+Canada,1999,North America,9976140,31006347,2.9999999E-2
+Canada,2000,North America,9976140,31281092,3.5999998E-2
+Canada,2001,North America,9976140,31592805,4.3000001E-2
+Canada,2002,North America,9976140,31902268,1.8999999E-2
+Canada,2003,North America,9976140,32207113,0.033
+Canada,2004,North America,9976140,32507874,1.7000001E-2
+Canada,2005,North America,9976140,32805041,0.024
+Canada,2006,North America,9976140,33098932,2.8999999E-2
+Canada,2007,North America,9976140,33390141,2.7000001E-2
+Canada,2008,North America,9976140,33390141,2.7000001E-2
+Canada,2009,North America,9976140,33487208,6.0000001E-3
+Canada,2011,North America,9976140,34030589,3.0999999E-2
+Cape Verde,1989,World,4030,364207,5.7999998E-2
+Cape Verde,1990,World,4030,374984,6.1000001E-2
+Cape Verde,1991,World,4030,386501,3.2000002E-2
+Cape Verde,1992,World,4030,398276,3.9999999E-2
+Cape Verde,1993,World,4030,410535,3.9999999E-2
+Cape Verde,1994,World,4030,423120,0.033
+Cape Verde,1995,World,4030,435983,0.035
+Cape Verde,1996,World,4030,449066,0.046
+Cape Verde,1997,World,4030,393943,4.6999998E-2
+Cape Verde,1998,World,4030,399857,4.5000002E-2
+Cape Verde,1999,World,4030,405748,0.07
+Cape Verde,2000,World,4030,401343,5.0000001E-2
+Cape Verde,2001,World,4030,405163,5.9999999E-2
+Cape Verde,2002,World,4030,408760,2.9999999E-2
+Cape Verde,2003,World,4030,412137,3.9999999E-2
+Cape Verde,2004,World,4030,415294,3.9999999E-2
+Cape Verde,2005,World,4030,418224,5.0000001E-2
+Cape Verde,2006,World,4030,420979,0.055
+Cape Verde,2007,World,4030,453613,0.055
+Cape Verde,2008,World,4030,423613,0.07
+Cape Verde,2009,World,4030,429474,5.9999999E-2
+Cape Verde,2010,World,4030,508659,1.7999999E-2
+Cape Verde,2011,World,4030,516100,5.4000001E-2
+Cayman Islands,1989,Central America and the Caribbean,260,23768,4.8999999E-2
+Cayman Islands,1990,Central America and the Caribbean,260,26356,0.12
+Cayman Islands,1991,Central America and the Caribbean,260,27489,0.15000001
+Cayman Islands,1992,Central America and the Caribbean,260,29139,7.9999998E-2
+Cayman Islands,1993,Central America and the Caribbean,260,30440,0.044
+Cayman Islands,1994,Central America and the Caribbean,260,31790,0.044
+Cayman Islands,1995,Central America and the Caribbean,260,33192,0.014
+Cayman Islands,1996,Central America and the Caribbean,260,34646,4.5000002E-2
+Cayman Islands,1997,Central America and the Caribbean,260,36153,4.5000002E-2
+Cayman Islands,1998,Central America and the Caribbean,260,37716,4.5000002E-2
+Cayman Islands,1999,Central America and the Caribbean,260,39335,0.055
+Cayman Islands,2000,Central America and the Caribbean,260,34763,5.0000001E-2
+Cayman Islands,2001,Central America and the Caribbean,260,35527,4.8999999E-2
+Cayman Islands,2002,Central America and the Caribbean,260,36273,4.5000002E-2
+Cayman Islands,2003,Central America and the Caribbean,260,41934,1.7000001E-2
+Cayman Islands,2004,Central America and the Caribbean,260,43103,1.7000001E-2
+Cayman Islands,2005,Central America and the Caribbean,260,44270,1.7000001E-2
+Cayman Islands,2006,Central America and the Caribbean,260,45436,8.9999996E-3
+Cayman Islands,2007,Central America and the Caribbean,260,76600,8.9999996E-3
+Cayman Islands,2008,Central America and the Caribbean,260,46600,8.9999996E-3
+Cayman Islands,2009,Central America and the Caribbean,260,49035,8.9999996E-3
+Cayman Islands,2010,Central America and the Caribbean,260,50209,0.011
+Cayman Islands,2011,Central America and the Caribbean,260,51384,0.011
+Central African Republic,1989,Africa,622980,2806467,0.014
+Central African Republic,1990,Africa,622980,2877365,0.02
+Central African Republic,1991,Africa,622980,2952382,0.02
+Central African Republic,1995,Africa,622980,3209759,0.055
+Central African Republic,1996,Africa,622980,3274426,4.1000001E-2
+Central African Republic,1997,Africa,622980,3342051,0.048
+Central African Republic,1998,Africa,622980,3375771,
+Central African Republic,1999,Africa,622980,3444951,0.055
+Central African Republic,2000,Africa,622980,3512751,5.0000001E-2
+Central African Republic,2001,Africa,622980,3576884,0.035
+Central African Republic,2002,Africa,622980,3642739,1.7999999E-2
+Central African Republic,2003,Africa,622980,3683538,0.015
+Central African Republic,2005,Africa,622980,3799897,4.9999999E-3
+Central African Republic,2006,Africa,622980,4303356,0.022
+Central African Republic,2007,Africa,622980,4369038,0.035
+Central African Republic,2008,Africa,622980,4369038,3.9999999E-2
+Central African Republic,2009,Africa,622980,4511488,0.035
+Central African Republic,2010,Africa,622980,4844927,1.7000001E-2
+Central African Republic,2011,Africa,622980,4950027,0.033
+Chad,1990,Africa,1,5017431,0.07
+Chad,1991,Africa,1,5122467,8.9999996E-3
+Chad,1992,Africa,1,5238908,8.9999996E-3
+Chad,1993,Africa,1,5350971,8.3999999E-2
+Chad,1994,Africa,1,5466771,8.3999999E-2
+Chad,1995,Africa,1,5586505,0.035
+Chad,1996,Africa,1,6976845,3.9999999E-2
+Chad,1997,Africa,1,7166023,2.6000001E-2
+Chad,1998,Africa,1,7359512,0.055
+Chad,1999,Africa,1,7557436,2.8999999E-2
+Chad,2000,Africa,1,8424504,6.0000001E-3
+Chad,2001,Africa,1,8707078,3.9999999E-2
+Chad,2002,Africa,1,8997237,7.9999998E-2
+Chad,2003,Africa,1,9253493,7.4000001E-2
+Chad,2004,Africa,1,9538544,0.15000001
+Chad,2005,Africa,1,9826419,0.38
+Chad,2006,Africa,1,9944201,5.9999999E-2
+Chad,2007,Africa,1,9915661,9.9999998E-3
+Chad,2009,Africa,1,10329208,1.7000001E-2
+Chad,2011,Africa,1,10758945,5.0999999E-2
+Chile,1989,South America,756950,12827411,6.8000004E-2
+Chile,1990,South America,756950,13082842,9.8999999E-2
+Chile,1991,South America,756950,13286620,0.02
+Chile,1992,South America,756950,13528945,0.055
+Chile,1993,South America,756950,13739759,
+Chile,1994,South America,756950,13950557,5.7999998E-2
+Chile,1995,South America,756950,14161216,4.3000001E-2
+Chile,1996,South America,756950,14333258,8.5000001E-2
+Chile,1997,South America,756950,14508158,6.4999998E-2
+Chile,1998,South America,756950,14787781,7.1000002E-2
+Chile,1999,South America,756950,14973843,0.035
+Chile,2001,South America,756950,15328467,0.055
+Chile,2002,South America,756950,15498930,3.0999999E-2
+Chile,2003,South America,756950,15665216,0.021
+Chile,2004,South America,756950,15823957,0.033
+Chile,2005,South America,756950,15980912,5.7999998E-2
+Chile,2006,South America,756950,16134219,6.3000001E-2
+Chile,2007,South America,756950,16284741,4.1999999E-2
+Chile,2008,South America,756950,16284741,5.2000001E-2
+Chile,2009,South America,756950,16601707,3.9999999E-2
+Chile,2011,South America,756950,16888760,5.2999999E-2
+China,1989,Asia,9596960,1112298677,
+China,1990,Asia,9596960,1118162727,
+China,1991,Asia,9596960,1151486981,
+China,1992,Asia,9596960,1169619601,
+China,1993,Asia,9596960,1177584537,0.12800001
+China,1994,Asia,9596960,1190431106,0.134
+China,1995,Asia,9596960,1203097268,0.118
+China,1996,Asia,9596960,1210004956,0.103
+China,1997,Asia,9596960,1221591778,9.7000003E-2
+China,1998,Asia,9596960,1236914658,0.088
+China,1999,Asia,9596960,1246871951,7.8000002E-2
+China,2000,Asia,9596960,1261832482,0.07
+China,2001,Asia,9596960,1273111290,7.9999998E-2
+China,2002,Asia,9596960,1284303705,7.2999999E-2
+China,2003,Asia,9596960,1286975468,7.9999998E-2
+China,2004,Asia,9596960,1298847624,9.0999998E-2
+China,2005,Asia,9596960,1306313812,9.0999998E-2
+China,2006,Asia,9596960,1313973713,0.102
+China,2007,Asia,9596960,1321851888,0.107
+China,2008,Asia,9596960,1321851888,0.114
+China,2009,Asia,9596960,1338612968,9.7999997E-2
+China,2010,Asia,9596960,1330141295,9.0999998E-2
+China,2011,Asia,9596960,1336718015,0.103
+Cocos (Keeling) Islands,1989,Southeast Asia,14,616,
+Cocos (Keeling) Islands,1990,Southeast Asia,14,670,
+Cocos (Keeling) Islands,1991,Southeast Asia,14,684,
+Cocos (Keeling) Islands,1992,Southeast Asia,14,,
+Cocos (Keeling) Islands,1993,Southeast Asia,14,593,
+Cocos (Keeling) Islands,1994,Southeast Asia,14,598,
+Cocos (Keeling) Islands,1995,Southeast Asia,14,604,
+Cocos (Keeling) Islands,1996,Southeast Asia,14,609,
+Cocos (Keeling) Islands,1997,Southeast Asia,14,617,
+Cocos (Keeling) Islands,1998,Southeast Asia,14,,
+Cocos (Keeling) Islands,1999,Southeast Asia,14,636,
+Cocos (Keeling) Islands,2000,Southeast Asia,14,635,
+Cocos (Keeling) Islands,2001,Southeast Asia,14,633,
+Cocos (Keeling) Islands,2002,Southeast Asia,14,632,
+Cocos (Keeling) Islands,2003,Southeast Asia,14,630,
+Cocos (Keeling) Islands,2004,Southeast Asia,14,629,
+Cocos (Keeling) Islands,2005,Southeast Asia,14,628,
+Cocos (Keeling) Islands,2006,Southeast Asia,14,574,
+Cocos (Keeling) Islands,2007,Southeast Asia,14,30596,
+Cocos (Keeling) Islands,2008,Southeast Asia,14,596,
+Cocos (Keeling) Islands,2009,Southeast Asia,14,596,
+Cocos (Keeling) Islands,2010,Southeast Asia,14,596,
+Cocos (Keeling) Islands,2011,Southeast Asia,14,596,9.9999998E-3
+Comoros,1989,Africa,2170,444484,0.021
+Comoros,1990,Africa,2170,460188,0.001
+Comoros,1991,Africa,2170,476678,0.015
+Comoros,1992,Africa,2170,493853,2.7000001E-2
+Comoros,1993,Africa,2170,511651,2.7000001E-2
+Comoros,1994,Africa,2170,530136,5.0000001E-2
+Comoros,1995,Africa,2170,549338,8.9999996E-3
+Comoros,1996,Africa,2170,569237,8.9999996E-3
+Comoros,1998,Africa,2170,545528,0.035
+Comoros,1999,Africa,2170,562723,0.035
+Comoros,2000,Africa,2170,578400,0
+Comoros,2001,Africa,2170,596202,4.9999999E-3
+Comoros,2002,Africa,2170,614382,9.9999998E-3
+Comoros,2003,Africa,2170,632948,0.02
+Comoros,2004,Africa,2170,651901,0.02
+Comoros,2005,Africa,2170,671247,0.02
+Comoros,2006,Africa,2170,690948,2.9999999E-2
+Comoros,2007,Africa,2170,741417,2.9999999E-2
+Comoros,2009,Africa,2170,752438,4.9999999E-3
+Comoros,2010,Africa,2170,773407,1.7999999E-2
+Comoros,2011,Africa,2170,794683,0.021
+Cook Islands,1989,Oceania,240,18092,
+Cook Islands,1990,Oceania,240,18187,5.2999999E-2
+Cook Islands,1991,Oceania,240,17882,5.2999999E-2
+Cook Islands,1992,Oceania,240,17977,5.2999999E-2
+Cook Islands,1993,Oceania,240,18903,5.2999999E-2
+Cook Islands,1994,Oceania,240,19124,
+Cook Islands,1995,Oceania,240,19343,
+Cook Islands,1996,Oceania,240,19561,
+Cook Islands,1997,Oceania,240,19776,
+Cook Islands,1998,Oceania,240,19989,
+Cook Islands,1999,Oceania,240,20200,
+Cook Islands,2000,Oceania,240,20407,
+Cook Islands,2001,Oceania,240,20611,
+Cook Islands,2002,Oceania,240,20811,
+Cook Islands,2003,Oceania,240,21008,7.1000002E-2
+Cook Islands,2004,Oceania,240,21200,7.1000002E-2
+Cook Islands,2005,Oceania,240,21388,7.1000002E-2
+Cook Islands,2006,Oceania,240,21388,0.001
+Cook Islands,2007,Oceania,240,51750,0.001
+Cook Islands,2008,Oceania,240,21750,0.001
+Cook Islands,2009,Oceania,240,11870,0.001
+Cook Islands,2010,Oceania,240,11488,0.001
+Cook Islands,2011,Oceania,240,11124,0.001
+Costa Rica,1989,Central America and the Caribbean,51100,2953908,3.7999999E-2
+Costa Rica,1990,Central America and the Caribbean,51100,3032795,3.7999999E-2
+Costa Rica,1991,Central America and the Caribbean,51100,3111403,3.5999998E-2
+Costa Rica,1992,Central America and the Caribbean,51100,3187085,0.025
+Costa Rica,1993,Central America and the Caribbean,51100,3264776,5.4000001E-2
+Costa Rica,1994,Central America and the Caribbean,51100,3342154,6.4999998E-2
+Costa Rica,1995,Central America and the Caribbean,51100,3419114,4.3000001E-2
+Costa Rica,1996,Central America and the Caribbean,51100,3463083,0.025
+Costa Rica,1998,Central America and the Caribbean,51100,3604642,2.9999999E-2
+Costa Rica,1999,Central America and the Caribbean,51100,3674490,0.055
+Costa Rica,2000,Central America and the Caribbean,51100,3710558,0.07
+Costa Rica,2001,Central America and the Caribbean,51100,3773057,2.9999999E-2
+Costa Rica,2002,Central America and the Caribbean,51100,3834934,0.003
+Costa Rica,2003,Central America and the Caribbean,51100,3896092,2.8000001E-2
+Costa Rica,2004,Central America and the Caribbean,51100,3956507,5.6000002E-2
+Costa Rica,2005,Central America and the Caribbean,51100,4016173,3.9000001E-2
+Costa Rica,2006,Central America and the Caribbean,51100,4075261,0.059
+Costa Rica,2007,Central America and the Caribbean,51100,4133884,7.9000004E-2
+Costa Rica,2008,Central America and the Caribbean,51100,4133884,6.1000001E-2
+Costa Rica,2009,Central America and the Caribbean,51100,4253877,2.9999999E-2
+Costa Rica,2011,Central America and the Caribbean,51100,4576562,4.1999999E-2
+Croatia,1989,Ethnic Groups in Eastern Europe, Europe,56538,,
+Croatia,1990,Ethnic Groups in Eastern Europe, Europe,56538,,
+Croatia,1991,Ethnic Groups in Eastern Europe, Europe,56538,,
+Croatia,1995,Ethnic Groups in Eastern Europe, Europe,56538,4665821,3.4000002E-2
+Croatia,1996,Ethnic Groups in Eastern Europe, Europe,56538,5004112,0.015
+Croatia,1997,Ethnic Groups in Eastern Europe, Europe,56538,4664710,3.9999999E-2
+Croatia,1998,Ethnic Groups in Eastern Europe, Europe,56538,4671584,0.044
+Croatia,1999,Ethnic Groups in Eastern Europe, Europe,56538,4676865,2.9999999E-2
+Croatia,2000,Ethnic Groups in Eastern Europe, Europe,56538,4282216,0
+Croatia,2001,Ethnic Groups in Eastern Europe, Europe,56538,4334142,3.2000002E-2
+Croatia,2002,Ethnic Groups in Eastern Europe, Europe,56538,4390751,3.9999999E-2
+Croatia,2003,Ethnic Groups in Eastern Europe, Europe,56538,4422248,5.2000001E-2
+Croatia,2004,Ethnic Groups in Eastern Europe, Europe,56538,4496869,4.3000001E-2
+Croatia,2005,Ethnic Groups in Eastern Europe, Europe,56538,4495904,0.037
+Croatia,2006,Ethnic Groups in Eastern Europe, Europe,56538,4494749,4.3000001E-2
+Croatia,2007,Ethnic Groups in Eastern Europe, Europe,56538,4493312,0.046
+Croatia,2008,Ethnic Groups in Eastern Europe, Europe,56538,4493312,5.6000002E-2
+Croatia,2009,Ethnic Groups in Eastern Europe, Europe,56538,4489409,0.048
+Cuba,1989,Central America and the Caribbean,110860,10450360,
+Cuba,1990,Central America and the Caribbean,110860,10620099,
+Cuba,1991,Central America and the Caribbean,110860,10732037,
+Cuba,1992,Central America and the Caribbean,110860,10846821,
+Cuba,1995,Central America and the Caribbean,110860,10937635,4.0000002E-3
+Cuba,1996,Central America and the Caribbean,110860,10951334,0.025
+Cuba,1997,Central America and the Caribbean,110860,10999041,7.8000002E-2
+Cuba,1998,Central America and the Caribbean,110860,11050729,0.025
+Cuba,1999,Central America and the Caribbean,110860,11096395,0.012
+Cuba,2000,Central America and the Caribbean,110860,11141997,6.1999999E-2
+Cuba,2001,Central America and the Caribbean,110860,11184023,5.6000002E-2
+Cuba,2002,Central America and the Caribbean,110860,11224321,2.9999999E-2
+Cuba,2003,Central America and the Caribbean,110860,11263429,0.011
+Cuba,2004,Central America and the Caribbean,110860,11308764,2.6000001E-2
+Cuba,2005,Central America and the Caribbean,110860,11346670,2.9999999E-2
+Cuba,2006,Central America and the Caribbean,110860,11382820,7.9999998E-2
+Cuba,2007,Central America and the Caribbean,110860,11394043,9.4999999E-2
+Cuba,2008,Central America and the Caribbean,110860,11394043,0.07
+Cuba,2009,Central America and the Caribbean,110860,11451652,4.3000001E-2
+Cuba,2010,Central America and the Caribbean,110860,11477459,0.014
+Cuba,2011,Central America and the Caribbean,110860,11087330,0.015
+Cyprus,1989,Middle East,9250,700009,7.1999997E-2
+Cyprus,1990,Middle East,9250,707776,6.8999998E-2
+Cyprus,1991,Middle East,9250,709343,0.055
+Cyprus,1992,Middle East,9250,716492,0.059
+Cyprus,1993,Middle East,9250,723371,
+Cyprus,1994,Middle East,9250,730084,
+Cyprus,1995,Middle East,9250,736636,5.0000001E-2
+Cyprus,1996,Middle East,9250,744609,
+Cyprus,1997,Middle East,9250,752808,3.4000002E-2
+Cyprus,1998,Middle East,9250,748982,0.024
+Cyprus,1999,Middle East,9250,754064,0.023
+Cyprus,2000,Middle East,9250,758363,2.9999999E-2
+Cyprus,2001,Middle East,9250,762887,4.1999999E-2
+Cyprus,2002,Middle East,9250,767314,2.6000001E-2
+Cyprus,2003,Middle East,9250,771657,1.7000001E-2
+Cyprus,2004,Middle East,9250,775927,1.8999999E-2
+Cyprus,2005,Middle East,9250,780133,3.2000002E-2
+Cyprus,2006,Middle East,9250,784301,3.7999999E-2
+Cyprus,2007,Middle East,9250,818457,0.106
+Cyprus,2008,Middle East,9250,788457,0.106
+Cyprus,2009,Middle East,9250,796740,3.5999998E-2
+Cyprus,2011,Middle East,9250,1120489,9.9999998E-3
+Czech Republic,1989,Ethnic Groups in Eastern Europe, Europe,78703,,
+Czech Republic,1990,Ethnic Groups in Eastern Europe, Europe,78703,,
+Czech Republic,1991,Ethnic Groups in Eastern Europe, Europe,78703,,
+Czech Republic,1992,Ethnic Groups in Eastern Europe, Europe,78703,,
+Czech Republic,1994,Ethnic Groups in Eastern Europe, Europe,78703,10408280,0
+Czech Republic,1995,Ethnic Groups in Eastern Europe, Europe,78703,10432774,0.022
+Czech Republic,1996,Ethnic Groups in Eastern Europe, Europe,78703,10321120,5.0000001E-2
+Czech Republic,1997,Ethnic Groups in Eastern Europe, Europe,78703,10298324,5.0000001E-2
+Czech Republic,1998,Ethnic Groups in Eastern Europe, Europe,78703,10286470,7.0000002E-3
+Czech Republic,2001,Ethnic Groups in Eastern Europe, Europe,78703,10264212,0.025
+Czech Republic,2002,Ethnic Groups in Eastern Europe, Europe,78703,10256760,3.4000002E-2
+Czech Republic,2003,Ethnic Groups in Eastern Europe, Europe,78703,10249216,0.02
+Czech Republic,2004,Ethnic Groups in Eastern Europe, Europe,78703,10246178,2.8999999E-2
+Czech Republic,2005,Ethnic Groups in Eastern Europe, Europe,78703,10241138,0.037
+Czech Republic,2006,Ethnic Groups in Eastern Europe, Europe,78703,10235455,6.1000001E-2
+Czech Republic,2007,Ethnic Groups in Eastern Europe, Europe,78703,10228744,6.1000001E-2
+Czech Republic,2008,Ethnic Groups in Eastern Europe, Europe,78703,10228744,0.057
+Czech Republic,2009,Ethnic Groups in Eastern Europe, Europe,78703,10211904,3.9000001E-2
+Czech Republic,2011,Ethnic Groups in Eastern Europe, Europe,78703,10190213,0.023
+Denmark,1990,Europe,43070,5131217,0.014
+Denmark,1991,Europe,43070,5132626,0.013
+Denmark,1992,Europe,43070,5163955,0.02
+Denmark,1993,Europe,43070,5175922,9.9999998E-3
+Denmark,1994,Europe,43070,5187821,4.9999999E-3
+Denmark,1995,Europe,43070,5199437,4.5000002E-2
+Denmark,1996,Europe,43070,5249632,3.0999999E-2
+Denmark,1997,Europe,43070,5305048,0.02
+Denmark,1998,Europe,43070,5333617,2.9999999E-2
+Denmark,1999,Europe,43070,5356845,2.6000001E-2
+Denmark,2000,Europe,43070,5336394,0.013
+Denmark,2001,Europe,43070,5352815,2.8000001E-2
+Denmark,2002,Europe,43070,5368854,0.011
+Denmark,2003,Europe,43070,5384384,1.6000001E-2
+Denmark,2004,Europe,43070,5413392,0
+Denmark,2005,Europe,43070,5432335,0.021
+Denmark,2006,Europe,43070,5450661,3.2000002E-2
+Denmark,2007,Europe,43070,5468120,3.2000002E-2
+Denmark,2008,Europe,43070,5468120,1.7000001E-2
+Denmark,2011,Europe,43070,5529888,0.021
+Djibouti,1989,Africa,22000,328758,
+Djibouti,1990,Africa,22000,337386,
+Djibouti,1993,Africa,22000,401579,0.012
+Djibouti,1998,Africa,22000,440727,4.9999999E-3
+Djibouti,1999,Africa,22000,447439,6.0000001E-3
+Djibouti,2000,Africa,22000,451442,0.02
+Djibouti,2001,Africa,22000,460700,0.02
+Djibouti,2002,Africa,22000,472810,0
+Djibouti,2003,Africa,22000,457130,0.035
+Djibouti,2004,Africa,22000,466900,0.035
+Djibouti,2005,Africa,22000,476703,0.035
+Djibouti,2006,Africa,22000,486530,3.2000002E-2
+Djibouti,2007,Africa,22000,496374,3.2000002E-2
+Djibouti,2008,Africa,22000,496374,0.035
+Djibouti,2009,Africa,22000,516055,5.9999999E-2
+Djibouti,2010,Africa,22000,740528,5.0000001E-2
+Djibouti,2011,Africa,22000,757074,4.5000002E-2
+Dominica,1989,Central America and the Caribbean,750,83474,
+Dominica,1990,Central America and the Caribbean,750,84854,5.6000002E-2
+Dominica,1992,Central America and the Caribbean,750,87035,0.07
+Dominica,1993,Central America and the Caribbean,750,86547,0.021
+Dominica,1994,Central America and the Caribbean,750,87696,2.6000001E-2
+Dominica,1995,Central America and the Caribbean,750,82608,1.6000001E-2
+Dominica,1997,Central America and the Caribbean,750,66633,1.7000001E-2
+Dominica,1998,Central America and the Caribbean,750,65777,0.037
+Dominica,1999,Central America and the Caribbean,750,64881,1.7999999E-2
+Dominica,2000,Central America and the Caribbean,750,71540,0.02
+Dominica,2001,Central America and the Caribbean,750,70786,4.9999999E-3
+Dominica,2003,Central America and the Caribbean,750,69655,0.012
+Dominica,2006,Central America and the Caribbean,750,68910,3.0999999E-2
+Dominica,2007,Central America and the Caribbean,750,102386,3.0999999E-2
+Dominica,2008,Central America and the Caribbean,750,72386,3.2000002E-2
+Dominica,2009,Central America and the Caribbean,750,72660,2.6000001E-2
+Dominica,2011,Central America and the Caribbean,750,72969,9.9999998E-3
+Dominican Republic,1989,Central America and the Caribbean,48730,7106114,0.081
+Dominican Republic,1990,Central America and the Caribbean,48730,7240793,4.9999999E-3
+Dominican Republic,1991,Central America and the Caribbean,48730,7384837,4.1999999E-2
+Dominican Republic,1993,Central America and the Caribbean,48730,7683940,5.0000001E-2
+Dominican Republic,1994,Central America and the Caribbean,48730,7826075,2.9999999E-2
+Dominican Republic,1995,Central America and the Caribbean,48730,7511263,2.8999999E-2
+Dominican Republic,1996,Central America and the Caribbean,48730,8088881,0.035
+Dominican Republic,1997,Central America and the Caribbean,48730,7868731,7.2999999E-2
+Dominican Republic,1998,Central America and the Caribbean,48730,7998766,0.07
+Dominican Republic,1999,Central America and the Caribbean,48730,8129734,0.07
+Dominican Republic,2000,Central America and the Caribbean,48730,8442533,8.2999997E-2
+Dominican Republic,2001,Central America and the Caribbean,48730,8581477,7.9999998E-2
+Dominican Republic,2002,Central America and the Caribbean,48730,8721594,0.015
+Dominican Republic,2003,Central America and the Caribbean,48730,8715602,4.1000001E-2
+Dominican Republic,2005,Central America and the Caribbean,48730,8950034,1.7000001E-2
+Dominican Republic,2006,Central America and the Caribbean,48730,9183984,9.3000002E-2
+Dominican Republic,2007,Central America and the Caribbean,48730,9365818,0.107
+Dominican Republic,2008,Central America and the Caribbean,48730,9365818,7.1999997E-2
+Dominican Republic,2009,Central America and the Caribbean,48730,9650054,4.5000002E-2
+Dominican Republic,2010,Central America and the Caribbean,48730,9823821,0.035
+Dominican Republic,2011,Central America and the Caribbean,48730,9956648,7.8000002E-2
+Ecuador,1989,South America,283560,10262271,5.0000001E-2
+Ecuador,1990,South America,283560,10506668,4.9999999E-3
+Ecuador,1991,South America,283560,10751648,0.015
+Ecuador,1992,South America,283560,10933143,0.025
+Ecuador,1993,South America,283560,10461072,2.9999999E-2
+Ecuador,1994,South America,283560,10677067,0.02
+Ecuador,1995,South America,283560,10890950,3.9000001E-2
+Ecuador,1996,South America,283560,11466291,0.023
+Ecuador,1997,South America,283560,12105124,0.02
+Ecuador,1998,South America,283560,12336572,3.4000002E-2
+Ecuador,1999,South America,283560,12562496,9.9999998E-3
+Ecuador,2001,South America,283560,13183978,8.0000004E-3
+Ecuador,2002,South America,283560,13447494,4.3000001E-2
+Ecuador,2003,South America,283560,13710234,3.4000002E-2
+Ecuador,2004,South America,283560,13212742,0.025
+Ecuador,2005,South America,283560,13363593,5.7999998E-2
+Ecuador,2006,South America,283560,13547510,4.6999998E-2
+Ecuador,2007,South America,283560,13755680,4.1000001E-2
+Ecuador,2008,South America,283560,13755680,2.6000001E-2
+Ecuador,2009,South America,283560,14573101,0.059
+Ecuador,2010,South America,283560,14790608,4.0000002E-3
+Ecuador,2011,South America,283560,15007343,3.2000002E-2
+Egypt,1989,Africa,1001450,54777615,
+Egypt,1990,Africa,1001450,54705746,9.9999998E-3
+Egypt,1991,Africa,1001450,54451588,9.9999998E-3
+Egypt,1992,Africa,1001450,56368950,0.02
+Egypt,1993,Africa,1001450,59585529,0.021
+Egypt,1994,Africa,1001450,60765028,0.003
+Egypt,1995,Africa,1001450,62359623,0.015
+Egypt,1996,Africa,1001450,63575107,3.9999999E-2
+Egypt,1997,Africa,1001450,64824466,4.8999999E-2
+Egypt,1998,Africa,1001450,66050004,5.2000001E-2
+Egypt,1999,Africa,1001450,67273906,5.0000001E-2
+Egypt,2000,Africa,1001450,68359979,5.0000001E-2
+Egypt,2001,Africa,1001450,69536644,5.0000001E-2
+Egypt,2002,Africa,1001450,70712345,0.025
+Egypt,2003,Africa,1001450,74718797,3.2000002E-2
+Egypt,2004,Africa,1001450,76117421,3.0999999E-2
+Egypt,2005,Africa,1001450,77505756,4.5000002E-2
+Egypt,2006,Africa,1001450,78887007,4.8999999E-2
+Egypt,2007,Africa,1001450,80335036,6.8000004E-2
+Egypt,2008,Africa,1001450,80335036,7.1999997E-2
+Egypt,2009,Africa,1001450,83082869,6.8999998E-2
+Egypt,2010,Africa,1001450,80471869,0.046
+Egypt,2011,Africa,1001450,82079636,5.0999999E-2
+El Salvador,1989,Central America and the Caribbean,21040,5124931,9.9999998E-3
+El Salvador,1990,Central America and the Caribbean,21040,5309865,8.9999996E-3
+El Salvador,1991,Central America and the Caribbean,21040,5418736,2.8000001E-2
+El Salvador,1992,Central America and the Caribbean,21040,5574279,2.9999999E-2
+El Salvador,1993,Central America and the Caribbean,21040,5636524,0.046
+El Salvador,1994,Central America and the Caribbean,21040,5752511,5.0000001E-2
+El Salvador,1995,Central America and the Caribbean,21040,5870481,5.0000001E-2
+El Salvador,1996,Central America and the Caribbean,21040,5828987,6.3000001E-2
+El Salvador,1997,Central America and the Caribbean,21040,5661827,2.9999999E-2
+El Salvador,1998,Central America and the Caribbean,21040,5752067,3.9999999E-2
+El Salvador,1999,Central America and the Caribbean,21040,5839079,0.037
+El Salvador,2000,Central America and the Caribbean,21040,6122515,0.022
+El Salvador,2001,Central America and the Caribbean,21040,6237662,0.025
+El Salvador,2002,Central America and the Caribbean,21040,6353681,0.014
+El Salvador,2003,Central America and the Caribbean,21040,6470379,0.021
+El Salvador,2004,Central America and the Caribbean,21040,6587541,0.014
+El Salvador,2005,Central America and the Caribbean,21040,6704932,1.7999999E-2
+El Salvador,2006,Central America and the Caribbean,21040,6822378,2.8000001E-2
+El Salvador,2007,Central America and the Caribbean,21040,6948073,4.1999999E-2
+El Salvador,2008,Central America and the Caribbean,21040,6948073,4.6999998E-2
+El Salvador,2009,Central America and the Caribbean,21040,7185218,3.2000002E-2
+El Salvador,2011,Central America and the Caribbean,21040,6071774,7.0000002E-3
+Equatorial Guinea,1989,Africa,28050,353488,
+Equatorial Guinea,1990,Africa,28050,368935,
+Equatorial Guinea,1991,Africa,28050,378729,2.8999999E-2
+Equatorial Guinea,1992,Africa,28050,388799,1.6000001E-2
+Equatorial Guinea,1994,Africa,28050,409550,
+Equatorial Guinea,1995,Africa,28050,420293,7.2999999E-2
+Equatorial Guinea,1996,Africa,28050,431282,0.1
+Equatorial Guinea,1997,Africa,28050,442516,0.112
+Equatorial Guinea,1998,Africa,28050,454001,
+Equatorial Guinea,1999,Africa,28050,465746,
+Equatorial Guinea,2000,Africa,28050,474214,0.15000001
+Equatorial Guinea,2001,Africa,28050,486060,0.12
+Equatorial Guinea,2002,Africa,28050,498144,5.9999999E-2
+Equatorial Guinea,2003,Africa,28050,510473,0.2
+Equatorial Guinea,2004,Africa,28050,523051,0.2
+Equatorial Guinea,2005,Africa,28050,535881,0.2
+Equatorial Guinea,2006,Africa,28050,540109,0.186
+Equatorial Guinea,2007,Africa,28050,551201,0.186
+Equatorial Guinea,2008,Africa,28050,551201,0.127
+Equatorial Guinea,2009,Africa,28050,633441,0.112
+Equatorial Guinea,2010,Africa,28050,650702,5.2999999E-2
+Eritrea,1989,Africa,121320,,
+Eritrea,1990,Africa,121320,,
+Eritrea,1991,Africa,121320,,
+Eritrea,1992,Africa,121320,,
+Eritrea,1993,Africa,121320,3467087,
+Eritrea,1994,Africa,121320,3782543,
+Eritrea,1995,Africa,121320,3578709,0.02
+Eritrea,1996,Africa,121320,3427883,0.1
+Eritrea,1997,Africa,121320,3589687,3.9000001E-2
+Eritrea,1998,Africa,121320,3842436,6.8000004E-2
+Eritrea,1999,Africa,121320,3984723,5.0000001E-2
+Eritrea,2000,Africa,121320,4135933,2.9999999E-2
+Eritrea,2002,Africa,121320,4465651,0.07
+Eritrea,2003,Africa,121320,4362254,0.02
+Eritrea,2004,Africa,121320,4447307,0.02
+Eritrea,2005,Africa,121320,4561599,0.025
+Eritrea,2006,Africa,121320,4786994,0.02
+Eritrea,2007,Africa,121320,4906585,0.02
+Eritrea,2008,Africa,121320,4906585,0.02
+Eritrea,2009,Africa,121320,5647168,0.02
+Eritrea,2010,Africa,121320,5792984,3.5999998E-2
+Eritrea,2011,Africa,121320,5939484,0.022
+Estonia,1989,Europe,45100,,
+Estonia,1990,Europe,45100,,
+Estonia,1991,Europe,45100,,
+Estonia,1995,Europe,45100,1625399,3.9999999E-2
+Estonia,1996,Europe,45100,1459428,5.9999999E-2
+Estonia,1997,Europe,45100,1436558,2.9999999E-2
+Estonia,1998,Europe,45100,1421335,0.1
+Estonia,1999,Europe,45100,1408523,0.055
+Estonia,2001,Europe,45100,1423316,6.4000003E-2
+Estonia,2002,Europe,45100,1415681,4.6999998E-2
+Estonia,2003,Europe,45100,1408556,5.9999999E-2
+Estonia,2004,Europe,45100,1341664,4.6999998E-2
+Estonia,2005,Europe,45100,1332893,5.9999999E-2
+Estonia,2006,Europe,45100,1324333,0.105
+Estonia,2007,Europe,45100,1315912,0.114
+Estonia,2008,Europe,45100,1315912,7.2999999E-2
+Estonia,2011,Europe,45100,1282963,3.0999999E-2
+Ethiopia,1989,Africa,1127127,49762492,3.4000002E-2
+Ethiopia,1990,Africa,1127127,51666622,4.5000002E-2
+Ethiopia,1993,Africa,1127127,53278446,5.9999999E-2
+Ethiopia,1994,Africa,1127127,54927108,7.8000002E-2
+Ethiopia,1995,Africa,1127127,55979018,2.9999999E-2
+Ethiopia,1996,Africa,1127127,57171662,2.7000001E-2
+Ethiopia,1997,Africa,1127127,58732577,0.077
+Ethiopia,1998,Africa,1127127,58390351,5.0000001E-2
+Ethiopia,1999,Africa,1127127,59680383,5.9999999E-2
+Ethiopia,2000,Africa,1127127,64117452,0
+Ethiopia,2001,Africa,1127127,65891874,0.02
+Ethiopia,2002,Africa,1127127,67673031,7.2999999E-2
+Ethiopia,2003,Africa,1127127,66557553,2.9999999E-2
+Ethiopia,2005,Africa,1127127,73053286,0.116
+Ethiopia,2006,Africa,1127127,74777981,8.9000002E-2
+Ethiopia,2007,Africa,1127127,76511887,0.106
+Ethiopia,2008,Africa,1127127,76511887,9.7999997E-2
+Ethiopia,2009,Africa,1127127,85237338,8.5000001E-2
+Ethiopia,2010,Africa,1127127,88013491,8.6999997E-2
+Ethiopia,2011,Africa,1127127,90873739,7.9999998E-2
+Faroe Islands,1989,Europe,1400,47283,
+Faroe Islands,1990,Europe,1400,47715,2.9999999E-2
+Faroe Islands,1991,Europe,1400,48151,2.9999999E-2
+Faroe Islands,1992,Europe,1400,48588,2.9999999E-2
+Faroe Islands,1993,Europe,1400,48065,2.9999999E-2
+Faroe Islands,1994,Europe,1400,48427,2.9999999E-2
+Faroe Islands,1996,Europe,1400,43857,
+Faroe Islands,1997,Europe,1400,39873,5.9999999E-2
+Faroe Islands,1998,Europe,1400,41834,5.9999999E-2
+Faroe Islands,1999,Europe,1400,41059,5.9999999E-2
+Faroe Islands,2000,Europe,1400,45296,5.9999999E-2
+Faroe Islands,2001,Europe,1400,45661,5.0000001E-2
+Faroe Islands,2002,Europe,1400,46011,5.0000001E-2
+Faroe Islands,2003,Europe,1400,46345,0.1
+Faroe Islands,2004,Europe,1400,46662,0.1
+Faroe Islands,2005,Europe,1400,46962,0.1
+Faroe Islands,2006,Europe,1400,47246,0.1
+Faroe Islands,2007,Europe,1400,77511,0.024
+Faroe Islands,2008,Europe,1400,47511,0.024
+Faroe Islands,2009,Europe,1400,48856,0.024
+Faroe Islands,2010,Europe,1400,49057,4.9999999E-3
+Faroe Islands,2011,Europe,1400,49267,4.9999999E-3
+Fiji,1990,Oceania,18270,759567,0.125
+Fiji,1991,Oceania,18270,744006,0.035
+Fiji,1992,Oceania,18270,749946,0.035
+Fiji,1993,Oceania,18270,756762,2.9999999E-2
+Fiji,1994,Oceania,18270,764382,9.9999998E-3
+Fiji,1995,Oceania,18270,772891,5.0000001E-2
+Fiji,1996,Oceania,18270,782381,0.022
+Fiji,1997,Oceania,18270,792441,5.0000001E-2
+Fiji,1998,Oceania,18270,802611,2.9999999E-2
+Fiji,1999,Oceania,18270,812918,0.024
+Fiji,2000,Oceania,18270,832494,7.8000002E-2
+Fiji,2002,Oceania,18270,856346,9.9999998E-3
+Fiji,2003,Oceania,18270,868531,0.046
+Fiji,2004,Oceania,18270,880874,0.048
+Fiji,2005,Oceania,18270,893354,3.5999998E-2
+Fiji,2006,Oceania,18270,905949,1.7000001E-2
+Fiji,2007,Oceania,18270,918675,3.0999999E-2
+Fiji,2009,Oceania,18270,944720,0.012
+Fiji,2011,Oceania,18270,883125,0.001
+Finland,1989,Europe,337030,4963592,
+Finland,1990,Europe,337030,4977325,0.046
+Finland,1995,Europe,337030,5085206,0.035
+Finland,1996,Europe,337030,5105230,5.0000001E-2
+Finland,1997,Europe,337030,5137269,0.025
+Finland,1998,Europe,337030,5149242,0.046
+Finland,1999,Europe,337030,5158372,5.0999999E-2
+Finland,2000,Europe,337030,5167486,0.035
+Finland,2001,Europe,337030,5175783,5.6000002E-2
+Finland,2002,Europe,337030,5183545,6.0000001E-3
+Finland,2003,Europe,337030,5190785,1.6000001E-2
+Finland,2004,Europe,337030,5214512,1.8999999E-2
+Finland,2005,Europe,337030,5223442,2.9999999E-2
+Finland,2006,Europe,337030,5231372,2.9999999E-2
+Finland,2007,Europe,337030,5238460,0.055
+Finland,2008,Europe,337030,5238460,3.9000001E-2
+Finland,2009,Europe,337030,5250275,0.015
+Finland,2011,Europe,337030,5259250,3.0999999E-2
+France,1989,Europe,547030,55994085,
+France,1990,Europe,547030,56358331,3.4000002E-2
+France,1991,Europe,547030,56595587,2.8000001E-2
+France,1992,Europe,547030,57287258,0.014
+France,1993,Europe,547030,57566091,0.011
+France,1995,Europe,547030,58109160,0.024
+France,1996,Europe,547030,58317450,0.024
+France,1997,Europe,547030,58609285,0.013
+France,1998,Europe,547030,58804944,0.023
+France,1999,Europe,547030,58978172,2.9999999E-2
+France,2000,Europe,547030,59329691,2.7000001E-2
+France,2001,Europe,547030,59551227,3.0999999E-2
+France,2002,Europe,547030,59765983,0.021
+France,2003,Europe,547030,60180529,0.012
+France,2004,Europe,547030,60424213,4.9999999E-3
+France,2005,Europe,547030,60656178,0.021
+France,2006,Europe,547030,60876136,0.012
+France,2007,Europe,547030,63713926,0.021
+France,2008,Europe,547030,64057790,1.7999999E-2
+France,2009,Europe,547030,64057792,7.0000002E-3
+France,2011,Europe,547030,65312249,0.015
+French Polynesia,1989,Oceania,3941,196246,
+French Polynesia,1990,Oceania,3941,190181,
+French Polynesia,1991,Oceania,3941,195046,
+French Polynesia,1992,Oceania,3941,205620,
+French Polynesia,1993,Oceania,3941,210333,
+French Polynesia,1994,Oceania,3941,215129,
+French Polynesia,1995,Oceania,3941,219999,
+French Polynesia,1996,Oceania,3941,224911,
+French Polynesia,1997,Oceania,3941,233488,
+French Polynesia,1998,Oceania,3941,237844,
+French Polynesia,1999,Oceania,3941,242073,
+French Polynesia,2000,Oceania,3941,249110,
+French Polynesia,2001,Oceania,3941,253506,0.025
+French Polynesia,2002,Oceania,3941,257847,3.9999999E-2
+French Polynesia,2003,Oceania,3941,262125,3.9999999E-2
+French Polynesia,2004,Oceania,3941,266339,3.9999999E-2
+French Polynesia,2005,Oceania,3941,270485,
+French Polynesia,2006,Oceania,3941,274578,
+French Polynesia,2007,Oceania,3941,308963,5.0999999E-2
+French Polynesia,2008,Oceania,3941,278963,5.0999999E-2
+French Polynesia,2009,Oceania,3941,287032,2.7000001E-2
+French Polynesia,2010,Oceania,3941,291000,2.7000001E-2
+French Polynesia,2011,Oceania,3941,294935,2.7000001E-2
+Gabon,1989,Africa,267670,1060296,
+Gabon,1990,Africa,267670,1068240,0
+Gabon,1991,Africa,267670,1079980,0.13
+Gabon,1992,Africa,267670,1106355,0.13
+Gabon,1993,Africa,267670,1122550,0.13
+Gabon,1994,Africa,267670,1139006,4.9999999E-3
+Gabon,1995,Africa,267670,1155749,1.8999999E-2
+Gabon,1996,Africa,267670,1172798,0.02
+Gabon,1997,Africa,267670,1190159,2.6000001E-2
+Gabon,1998,Africa,267670,1207844,2.9999999E-2
+Gabon,1999,Africa,267670,1225853,1.7000001E-2
+Gabon,2000,Africa,267670,1208436,1.7000001E-2
+Gabon,2001,Africa,267670,1221175,0.012
+Gabon,2002,Africa,267670,1233353,0.025
+Gabon,2003,Africa,267670,1321560,2.0000001E-3
+Gabon,2004,Africa,267670,1355246,0.012
+Gabon,2005,Africa,267670,1389201,1.8999999E-2
+Gabon,2006,Africa,267670,1424906,2.8999999E-2
+Gabon,2007,Africa,267670,1454867,9.9999998E-3
+Gabon,2008,Africa,267670,1454867,4.5000002E-2
+Gabon,2009,Africa,267670,1514993,3.5999998E-2
+Gabon,2011,Africa,267670,1576665,0.057
+Georgia,1989,Middle East,69700,,
+Georgia,1990,Middle East,69700,,
+Georgia,1991,Middle East,69700,,
+Georgia,1997,Middle East,69700,5160042,0.11
+Georgia,1998,Middle East,69700,5108527,0.118
+Georgia,1999,Middle East,69700,5066499,3.9999999E-2
+Georgia,2000,Middle East,69700,5019538,0.035
+Georgia,2001,Middle East,69700,4989285,1.8999999E-2
+Georgia,2002,Middle East,69700,4960951,8.3999999E-2
+Georgia,2003,Middle East,69700,4934413,5.4000001E-2
+Georgia,2004,Middle East,69700,4693892,0.055
+Georgia,2005,Middle East,69700,4677401,9.4999999E-2
+Georgia,2006,Middle East,69700,4661473,9.3000002E-2
+Georgia,2007,Middle East,69700,4646003,7.9999998E-2
+Georgia,2008,Middle East,69700,4646003,0.12
+Georgia,2009,Middle East,69700,4615807,0.024
+Georgia,2011,Middle East,69700,4585874,6.4000003E-2
+Germany,1989,Europe,356910,,
+Germany,1990,Europe,356910,62168200,4.3000001E-2
+Germany,1991,Europe,356910,79548498,1.7000001E-2
+Germany,1993,Europe,356910,80767591,0.015
+Germany,1994,Europe,356910,81087506,
+Germany,1995,Europe,356910,81337541,2.8999999E-2
+Germany,1996,Europe,356910,83536115,
+Germany,1997,Europe,356910,82071765,0.014
+Germany,1998,Europe,356910,82079454,0.024
+Germany,1999,Europe,356910,82087361,2.7000001E-2
+Germany,2000,Europe,356910,82797408,0.015
+Germany,2001,Europe,356910,83029536,2.9999999E-2
+Germany,2002,Europe,356910,83251851,6.0000001E-3
+Germany,2003,Europe,356910,82398326,2.0000001E-3
+Germany,2005,Europe,356910,82431390,1.7000001E-2
+Germany,2006,Europe,356910,82422299,8.9999996E-3
+Germany,2007,Europe,356910,82400996,2.7000001E-2
+Germany,2008,Europe,356910,82400996,2.6000001E-2
+Germany,2009,Europe,356910,82329758,0.013
+Germany,2011,Europe,356910,81471834,0.035
+Ghana,1989,Africa,238540,14785583,
+Ghana,1990,Africa,238540,15165243,
+Ghana,1991,Africa,238540,15616934,
+Ghana,1992,Africa,238540,16185351,5.0000001E-2
+Ghana,1993,Africa,238540,16699105,3.9000001E-2
+Ghana,1994,Africa,238540,17225185,3.9000001E-2
+Ghana,1995,Africa,238540,17763138,5.0000001E-2
+Ghana,1996,Africa,238540,17698271,5.0000001E-2
+Ghana,1997,Africa,238540,18100703,5.0000001E-2
+Ghana,1998,Africa,238540,18497206,2.9999999E-2
+Ghana,1999,Africa,238540,18887626,2.9999999E-2
+Ghana,2000,Africa,238540,19533560,4.3000001E-2
+Ghana,2001,Africa,238540,19894014,2.9999999E-2
+Ghana,2002,Africa,238540,20244154,2.9999999E-2
+Ghana,2003,Africa,238540,20467747,4.5000002E-2
+Ghana,2004,Africa,238540,20757032,4.6999998E-2
+Ghana,2005,Africa,238540,21029853,5.4000001E-2
+Ghana,2006,Africa,238540,22409572,0.059
+Ghana,2007,Africa,238540,22931299,5.9999999E-2
+Ghana,2008,Africa,238540,22931299,6.1999999E-2
+Ghana,2009,Africa,238540,23832495,6.3000001E-2
+Ghana,2010,Africa,238540,24339838,4.1000001E-2
+Ghana,2011,Africa,238540,24791073,0.057
+Greece,1989,Europe,131940,10041414,
+Greece,1990,Europe,131940,10028171,0.023
+Greece,1991,Europe,131940,10042956,8.9999996E-3
+Greece,1992,Europe,131940,10064250,9.9999998E-3
+Greece,1993,Europe,131940,10470460,0.012
+Greece,1994,Europe,131940,10564630,9.9999998E-3
+Greece,1995,Europe,131940,10647511,4.0000002E-3
+Greece,1996,Europe,131940,10538594,1.7000001E-2
+Greece,1997,Europe,131940,10616055,0.022
+Greece,1998,Europe,131940,10662138,0.037
+Greece,1999,Europe,131940,10707135,2.9999999E-2
+Greece,2000,Europe,131940,10601527,2.9999999E-2
+Greece,2001,Europe,131940,10623835,3.7999999E-2
+Greece,2002,Europe,131940,10645343,0.037
+Greece,2003,Europe,131940,10665989,3.9999999E-2
+Greece,2004,Europe,131940,10647529,4.6999998E-2
+Greece,2005,Europe,131940,10668354,0.037
+Greece,2006,Europe,131940,10688058,0.037
+Greece,2007,Europe,131940,10706290,4.1999999E-2
+Greece,2008,Europe,131940,10706290,0.037
+Greece,2009,Europe,131940,10737428,2.8000001E-2
+Greenland,1989,Arctic Region,2175600,55415,
+Greenland,1990,Arctic Region,2175600,56078,
+Greenland,1991,Arctic Region,2175600,56752,
+Greenland,1992,Arctic Region,2175600,57407,
+Greenland,1995,Arctic Region,2175600,57611,
+Greenland,1996,Arctic Region,2175600,58203,
+Greenland,1997,Arctic Region,2175600,58768,
+Greenland,1998,Arctic Region,2175600,59309,6.0000001E-3
+Greenland,1999,Arctic Region,2175600,59827,6.0000001E-3
+Greenland,2000,Arctic Region,2175600,56309,6.0000001E-3
+Greenland,2001,Arctic Region,2175600,56352,
+Greenland,2002,Arctic Region,2175600,56376,
+Greenland,2003,Arctic Region,2175600,56385,1.7999999E-2
+Greenland,2004,Arctic Region,2175600,56384,1.7999999E-2
+Greenland,2005,Arctic Region,2175600,56375,1.7999999E-2
+Greenland,2006,Arctic Region,2175600,56361,1.7999999E-2
+Greenland,2007,Arctic Region,2175600,56344,0.02
+Greenland,2008,Arctic Region,2175600,56344,0.02
+Greenland,2009,Arctic Region,2175600,57600,0.02
+Greenland,2010,Arctic Region,2175600,57637,0.015
+Grenada,1989,Central America and the Caribbean,340,84480,5.9999999E-2
+Grenada,1990,Central America and the Caribbean,340,84135,5.0000001E-2
+Grenada,1991,Central America and the Caribbean,340,83812,5.4000001E-2
+Grenada,1992,Central America and the Caribbean,340,83556,5.2000001E-2
+Grenada,1995,Central America and the Caribbean,340,94486,4.9999999E-3
+Grenada,1996,Central America and the Caribbean,340,94961,2.9999999E-2
+Grenada,1997,Central America and the Caribbean,340,95537,2.9999999E-2
+Grenada,1998,Central America and the Caribbean,340,96217,3.0999999E-2
+Grenada,1999,Central America and the Caribbean,340,97008,5.0000001E-2
+Grenada,2000,Central America and the Caribbean,340,89018,5.0000001E-2
+Grenada,2001,Central America and the Caribbean,340,89227,0.07
+Grenada,2002,Central America and the Caribbean,340,89211,6.4999998E-2
+Grenada,2003,Central America and the Caribbean,340,89258,0.025
+Grenada,2004,Central America and the Caribbean,340,89357,0.025
+Grenada,2005,Central America and the Caribbean,340,89502,0.025
+Grenada,2006,Central America and the Caribbean,340,89703,8.9999996E-3
+Grenada,2007,Central America and the Caribbean,340,119971,8.9999996E-3
+Grenada,2008,Central America and the Caribbean,340,89971,8.9999996E-3
+Grenada,2009,Central America and the Caribbean,340,90739,0.037
+Guadeloupe,1989,Central America and the Caribbean,1780,341430,0.15700001
+Guadeloupe,1990,Central America and the Caribbean,1780,342175,
+Guadeloupe,1991,Central America and the Caribbean,1780,344897,
+Guadeloupe,1992,Central America and the Caribbean,1780,409132,
+Guadeloupe,1993,Central America and the Caribbean,1780,422114,
+Guadeloupe,1994,Central America and the Caribbean,1780,428947,
+Guadeloupe,1995,Central America and the Caribbean,1780,402815,
+Guadeloupe,1996,Central America and the Caribbean,1780,407768,
+Guadeloupe,1997,Central America and the Caribbean,1780,411823,
+Guadeloupe,1998,Central America and the Caribbean,1780,416439,
+Guadeloupe,1999,Central America and the Caribbean,1780,420943,
+Guadeloupe,2000,Central America and the Caribbean,1780,426493,
+Guadeloupe,2001,Central America and the Caribbean,1780,431170,
+Guadeloupe,2002,Central America and the Caribbean,1780,435739,
+Guadeloupe,2003,Central America and the Caribbean,1780,440189,
+Guadeloupe,2004,Central America and the Caribbean,1780,444515,
+Guadeloupe,2005,Central America and the Caribbean,1780,448713,
+Guadeloupe,2006,Central America and the Caribbean,1780,452776,
+Guadeloupe,2007,Central America and the Caribbean,1780,,
+Guadeloupe,2008,Central America and the Caribbean,1780,,
+Guadeloupe,2009,Central America and the Caribbean,1780,,
+Guadeloupe,2010,Central America and the Caribbean,1780,,
+Guadeloupe,2011,Central America and the Caribbean,1780,,
+Guatemala,1989,Central America and the Caribbean,108890,9116877,3.9999999E-2
+Guatemala,1990,Central America and the Caribbean,108890,9097636,0.013
+Guatemala,1991,Central America and the Caribbean,108890,9266018,0.035
+Guatemala,1992,Central America and the Caribbean,108890,9784275,2.9999999E-2
+Guatemala,1993,Central America and the Caribbean,108890,10446015,4.1999999E-2
+Guatemala,1994,Central America and the Caribbean,108890,10721387,3.9999999E-2
+Guatemala,1995,Central America and the Caribbean,108890,10998602,3.9999999E-2
+Guatemala,1996,Central America and the Caribbean,108890,11277614,4.8999999E-2
+Guatemala,1997,Central America and the Caribbean,108890,11685695,2.9999999E-2
+Guatemala,1998,Central America and the Caribbean,108890,12007580,4.1000001E-2
+Guatemala,1999,Central America and the Caribbean,108890,12335580,5.0000001E-2
+Guatemala,2000,Central America and the Caribbean,108890,12639939,0.035
+Guatemala,2001,Central America and the Caribbean,108890,12974361,2.9999999E-2
+Guatemala,2002,Central America and the Caribbean,108890,13314079,0.023
+Guatemala,2003,Central America and the Caribbean,108890,13909384,0.022
+Guatemala,2004,Central America and the Caribbean,108890,14280596,0.021
+Guatemala,2005,Central America and the Caribbean,108890,14655189,2.6000001E-2
+Guatemala,2006,Central America and the Caribbean,108890,12293545,3.2000002E-2
+Guatemala,2007,Central America and the Caribbean,108890,12728111,0.046
+Guatemala,2008,Central America and the Caribbean,108890,12728111,5.6000002E-2
+Guatemala,2009,Central America and the Caribbean,108890,13276517,3.7999999E-2
+Guatemala,2010,Central America and the Caribbean,108890,13550440,6.0000001E-3
+Guatemala,2011,Central America and the Caribbean,108890,13824463,2.6000001E-2
+Guinea,1989,Africa,245860,7086445,0.059
+Guinea,1990,Africa,245860,7269240,5.0000001E-2
+Guinea,1991,Africa,245860,7455850,0.044
+Guinea,1992,Africa,245860,7783926,4.3000001E-2
+Guinea,1993,Africa,245860,6236506,4.3000001E-2
+Guinea,1994,Africa,245860,6391536,3.2000002E-2
+Guinea,1995,Africa,245860,6549336,8.0000004E-3
+Guinea,1996,Africa,245860,7411981,3.9999999E-2
+Guinea,1997,Africa,245860,7405375,5.9999999E-2
+Guinea,1998,Africa,245860,7477110,0.048
+Guinea,1999,Africa,245860,7538953,4.8999999E-2
+Guinea,2000,Africa,245860,7466200,0.037
+Guinea,2001,Africa,245860,7613870,5.0000001E-2
+Guinea,2002,Africa,245860,7775065,0.033
+Guinea,2003,Africa,245860,9030220,0.037
+Guinea,2004,Africa,245860,9246462,2.9999999E-2
+Guinea,2005,Africa,245860,9467866,9.9999998E-3
+Guinea,2006,Africa,245860,9690222,0.02
+Guinea,2007,Africa,245860,9947814,0.037
+Guinea,2008,Africa,245860,9947814,0.015
+Guinea,2009,Africa,245860,10057975,2.8999999E-2
+Guinea,2011,Africa,245860,10601009,1.8999999E-2
+Guyana,1989,South America,214970,765461,7.0000002E-3
+Guyana,1992,South America,214970,739431,5.9999999E-2
+Guyana,1993,South America,214970,734640,0.07
+Guyana,1994,South America,214970,729425,8.2999997E-2
+Guyana,1995,South America,214970,723774,8.5000001E-2
+Guyana,1996,South America,214970,712091,5.0999999E-2
+Guyana,1997,South America,214970,706116,7.9000004E-2
+Guyana,1998,South America,214970,707954,5.0000001E-2
+Guyana,2000,South America,214970,697286,1.7999999E-2
+Guyana,2001,South America,214970,697181,2.9999999E-2
+Guyana,2002,South America,214970,698209,2.8000001E-2
+Guyana,2003,South America,214970,702100,0.011
+Guyana,2004,South America,214970,705803,4.9999999E-3
+Guyana,2005,South America,214970,765283,1.8999999E-2
+Guyana,2007,South America,214970,769095,4.5000002E-2
+Guyana,2008,South America,214970,769095,4.5000002E-2
+Guyana,2009,South America,214970,772298,3.2000002E-2
+Guyana,2010,South America,214970,748486,0.023
+Guyana,2011,South America,214970,744768,3.5999998E-2
+Haiti,1989,Central America and the Caribbean,27750,6322198,4.9999999E-3
+Haiti,1990,Central America and the Caribbean,27750,6142141,0.003
+Haiti,1996,Central America and the Caribbean,27750,6731539,4.5000002E-2
+Haiti,1997,Central America and the Caribbean,27750,6611407,0.02
+Haiti,1998,Central America and the Caribbean,27750,6780501,0.011
+Haiti,1999,Central America and the Caribbean,27750,6884264,2.9999999E-2
+Haiti,2000,Central America and the Caribbean,27750,6867995,0.024
+Haiti,2001,Central America and the Caribbean,27750,6964549,0.012
+Haiti,2004,Central America and the Caribbean,27750,7656166,0
+Haiti,2006,Central America and the Caribbean,27750,8308504,1.7999999E-2
+Haiti,2007,Central America and the Caribbean,27750,8706497,0.025
+Haiti,2008,Central America and the Caribbean,27750,8706497,0.035
+Haiti,2009,Central America and the Caribbean,27750,9035536,0.023
+Haiti,2010,Central America and the Caribbean,27750,9648924,2.8999999E-2
+Honduras,1989,Central America and the Caribbean,112090,5103772,3.9999999E-2
+Honduras,1990,Central America and the Caribbean,112090,5259699,3.9999999E-2
+Honduras,1993,Central America and the Caribbean,112090,5170108,3.5999998E-2
+Honduras,1994,Central America and the Caribbean,112090,5314794,0.037
+Honduras,1996,Central America and the Caribbean,112090,5605193,3.9999999E-2
+Honduras,1997,Central America and the Caribbean,112090,5751384,2.9999999E-2
+Honduras,1998,Central America and the Caribbean,112090,5861955,4.5000002E-2
+Honduras,1999,Central America and the Caribbean,112090,5997327,2.9999999E-2
+Honduras,2001,Central America and the Caribbean,112090,6406052,5.0000001E-2
+Honduras,2002,Central America and the Caribbean,112090,6560608,0.021
+Honduras,2003,Central America and the Caribbean,112090,6669789,0.025
+Honduras,2004,Central America and the Caribbean,112090,6823568,2.9999999E-2
+Honduras,2005,Central America and the Caribbean,112090,6975204,4.1999999E-2
+Honduras,2006,Central America and the Caribbean,112090,7326496,4.1999999E-2
+Honduras,2007,Central America and the Caribbean,112090,7483763,5.9999999E-2
+Honduras,2008,Central America and the Caribbean,112090,7483763,5.9999999E-2
+Honduras,2009,Central America and the Caribbean,112090,7792854,3.9999999E-2
+Honduras,2011,Central America and the Caribbean,112090,8143564,2.8000001E-2
+Hong Kong,1989,Southeast Asia,1040,5709330,0.13600001
+Hong Kong,1990,Southeast Asia,1040,5759990,2.9999999E-2
+Hong Kong,1991,Southeast Asia,1040,5855800,0.025
+Hong Kong,1992,Southeast Asia,1040,5889095,3.7999999E-2
+Hong Kong,1993,Southeast Asia,1040,5552965,0.059
+Hong Kong,1994,Southeast Asia,1040,5548754,5.2000001E-2
+Hong Kong,1995,Southeast Asia,1040,5542869,0.055
+Hong Kong,1996,Southeast Asia,1040,6305413,5.0000001E-2
+Hong Kong,1997,Southeast Asia,1040,6547189,4.6999998E-2
+Hong Kong,1998,Southeast Asia,1040,6706965,0.055
+Hong Kong,2000,Southeast Asia,1040,7116302,1.7999999E-2
+Hong Kong,2001,Southeast Asia,1040,7210505,0.1
+Hong Kong,2002,Southeast Asia,1040,7303334,0
+Hong Kong,2003,Southeast Asia,1040,7394170,0.023
+Hong Kong,2004,Southeast Asia,1040,6855125,0.033
+Hong Kong,2005,Southeast Asia,1040,6898686,7.9000004E-2
+Hong Kong,2006,Southeast Asia,1040,6940432,7.2999999E-2
+Hong Kong,2007,Southeast Asia,1040,7010412,6.8000004E-2
+Hong Kong,2008,Southeast Asia,1040,6980412,5.7999998E-2
+Hong Kong,2009,Southeast Asia,1040,7055071,2.8000001E-2
+Hong Kong,2011,Southeast Asia,1040,7122508,6.8000004E-2
+Hungary,1989,Ethnic Groups in Eastern Europe, Europe,93030,10566944,
+Hungary,1990,Ethnic Groups in Eastern Europe, Europe,93030,10568686,
+Hungary,1991,Ethnic Groups in Eastern Europe, Europe,93030,10558001,
+Hungary,1995,Ethnic Groups in Eastern Europe, Europe,93030,10318838,2.9999999E-2
+Hungary,1996,Ethnic Groups in Eastern Europe, Europe,93030,10002541,0.015
+Hungary,1997,Ethnic Groups in Eastern Europe, Europe,93030,10232404,4.9999999E-3
+Hungary,1998,Ethnic Groups in Eastern Europe, Europe,93030,10208127,0.044
+Hungary,1999,Ethnic Groups in Eastern Europe, Europe,93030,10186372,5.0000001E-2
+Hungary,2000,Ethnic Groups in Eastern Europe, Europe,93030,10138844,3.9999999E-2
+Hungary,2001,Ethnic Groups in Eastern Europe, Europe,93030,10106017,0.055
+Hungary,2002,Ethnic Groups in Eastern Europe, Europe,93030,10075034,3.9000001E-2
+Hungary,2003,Ethnic Groups in Eastern Europe, Europe,93030,10045407,0.033
+Hungary,2004,Ethnic Groups in Eastern Europe, Europe,93030,10032375,2.8999999E-2
+Hungary,2005,Ethnic Groups in Eastern Europe, Europe,93030,10006835,3.9000001E-2
+Hungary,2006,Ethnic Groups in Eastern Europe, Europe,93030,9981334,4.1000001E-2
+Hungary,2007,Ethnic Groups in Eastern Europe, Europe,93030,9956108,3.9000001E-2
+Hungary,2008,Ethnic Groups in Eastern Europe, Europe,93030,9956108,0.021
+Hungary,2011,Ethnic Groups in Eastern Europe, Europe,93030,9976062,0.012
+Iceland,1989,Arctic Region,103000,248501,0.066
+Iceland,1991,Arctic Region,103000,259742,0
+Iceland,1992,Arctic Region,103000,259012,0.003
+Iceland,1994,Arctic Region,103000,263599,4.0000002E-3
+Iceland,1995,Arctic Region,103000,265998,0.024
+Iceland,1996,Arctic Region,103000,270292,3.2000002E-2
+Iceland,1997,Arctic Region,103000,269697,0.033
+Iceland,1998,Arctic Region,103000,271033,4.8999999E-2
+Iceland,1999,Arctic Region,103000,272512,5.0999999E-2
+Iceland,2000,Arctic Region,103000,276365,4.5000002E-2
+Iceland,2001,Arctic Region,103000,277906,4.3000001E-2
+Iceland,2002,Arctic Region,103000,279384,4.3000001E-2
+Iceland,2004,Arctic Region,103000,293966,2.6000001E-2
+Iceland,2005,Arctic Region,103000,296737,1.7999999E-2
+Iceland,2006,Arctic Region,103000,299388,5.6000002E-2
+Iceland,2007,Arctic Region,103000,301931,2.6000001E-2
+Iceland,2008,Arctic Region,103000,301931,1.7999999E-2
+India,1989,Asia,3287590,833421982,
+India,1990,Asia,3287590,849746001,
+India,1991,Asia,3287590,866351738,
+India,1992,Asia,3287590,886362180,0.025
+India,1993,Asia,3287590,903158968,3.9999999E-2
+India,1994,Asia,3287590,,
+India,1995,Asia,3287590,936545814,5.0000001E-2
+India,1996,Asia,3287590,952107694,0.055
+India,1997,Asia,3287590,966783171,6.4999998E-2
+India,1998,Asia,3287590,984003683,5.0000001E-2
+India,1999,Asia,3287590,1000848550,5.4000001E-2
+India,2000,Asia,3287590,1014003817,0.055
+India,2001,Asia,3287590,1029991145,5.9999999E-2
+India,2002,Asia,3287590,1045845226,5.0000001E-2
+India,2003,Asia,3287590,1049700118,4.3000001E-2
+India,2004,Asia,3287590,1065070607,8.2999997E-2
+India,2005,Asia,3287590,1080264388,6.1999999E-2
+India,2006,Asia,3287590,1095351995,8.3999999E-2
+India,2007,Asia,3287590,1129866154,0.092
+India,2008,Asia,3287590,1129866154,8.5000001E-2
+India,2009,Asia,3287590,1166079217,0.066
+India,2010,Asia,3287590,1173108018,7.4000001E-2
+India,2011,Asia,3287590,1189172906,0.104
+Indonesia,1989,Southeast Asia,1919440,187651163,
+Indonesia,1990,Southeast Asia,1919440,190136221,
+Indonesia,1991,Southeast Asia,1919440,193560494,5.9999999E-2
+Indonesia,1992,Southeast Asia,1919440,195683531,5.9999999E-2
+Indonesia,1993,Southeast Asia,1919440,197232428,5.9999999E-2
+Indonesia,1994,Southeast Asia,1919440,200409741,6.4999998E-2
+Indonesia,1995,Southeast Asia,1919440,203583886,6.7000002E-2
+Indonesia,1996,Southeast Asia,1919440,206611600,7.5000003E-2
+Indonesia,1997,Southeast Asia,1919440,209774138,0.07
+Indonesia,1998,Southeast Asia,1919440,212941810,3.9999999E-2
+Indonesia,2000,Southeast Asia,1919440,224784210,0
+Indonesia,2001,Southeast Asia,1919440,228437870,0.048
+Indonesia,2002,Southeast Asia,1919440,231328092,0.033
+Indonesia,2003,Southeast Asia,1919440,234893453,0.037
+Indonesia,2004,Southeast Asia,1919440,238452952,4.1000001E-2
+Indonesia,2005,Southeast Asia,1919440,241973879,4.8999999E-2
+Indonesia,2006,Southeast Asia,1919440,245452739,5.6000002E-2
+Indonesia,2007,Southeast Asia,1919440,234693997,0.055
+Indonesia,2008,Southeast Asia,1919440,234693997,6.1000001E-2
+Indonesia,2009,Southeast Asia,1919440,240271522,6.1000001E-2
+Indonesia,2010,Southeast Asia,1919440,242968342,4.5000002E-2
+Indonesia,2011,Southeast Asia,1919440,245613043,6.1000001E-2
+Iran,1989,Middle East,1648000,53866523,
+Iran,1990,Middle East,1648000,55647001,
+Iran,1991,Middle East,1648000,59051082,
+Iran,1992,Middle East,1648000,61183138,
+Iran,1993,Middle East,1648000,63369809,5.9999999E-2
+Iran,1994,Middle East,1648000,65615474,2.9999999E-2
+Iran,1997,Middle East,1648000,67540002,3.5999998E-2
+Iran,1998,Middle East,1648000,68959931,3.2000002E-2
+Iran,2000,Middle East,1648000,65619636,9.9999998E-3
+Iran,2001,Middle East,1648000,66128965,2.9999999E-2
+Iran,2002,Middle East,1648000,66622704,5.0000001E-2
+Iran,2003,Middle East,1648000,68278826,7.5999998E-2
+Iran,2004,Middle East,1648000,69018924,6.1000001E-2
+Iran,2005,Middle East,1648000,68017860,6.3000001E-2
+Iran,2006,Middle East,1648000,68688433,6.8999998E-2
+Iran,2007,Middle East,1648000,65397521,4.3000001E-2
+Iran,2008,Middle East,1648000,65397521,4.3000001E-2
+Iran,2009,Middle East,1648000,66429284,6.4999998E-2
+Iran,2010,Middle East,1648000,76923300,0.015
+Iran,2011,Middle East,1648000,77891220,9.9999998E-3
+Iraq,1989,Middle East,437072,18073963,
+Iraq,1990,Middle East,437072,18781770,
+Iraq,1991,Middle East,437072,19524718,
+Iraq,1992,Middle East,437072,18445847,
+Iraq,1993,Middle East,437072,19161956,0.1
+Iraq,1994,Middle East,437072,19889666,
+Iraq,1995,Middle East,437072,20643769,
+Iraq,1996,Middle East,437072,21422292,
+Iraq,1997,Middle East,437072,22219289,0
+Iraq,1998,Middle East,437072,21722287,0
+Iraq,1999,Middle East,437072,22427150,0.1
+Iraq,2000,Middle East,437072,22675617,0.13
+Iraq,2001,Middle East,437072,23331985,0.15000001
+Iraq,2005,Middle East,437072,26074906,0.523
+Iraq,2007,Middle East,437072,27499638,0.024
+Iraq,2008,Middle East,437072,27499638,5.0000001E-2
+Iraq,2009,Middle East,437072,28945657,9.7999997E-2
+Iraq,2010,Middle East,437072,29671605,4.5000002E-2
+Iraq,2011,Middle East,437072,30399572,8.0000004E-3
+Ireland,1989,Europe,70280,3550352,
+Ireland,1990,Europe,70280,3500212,4.3000001E-2
+Ireland,1991,Europe,70280,3489165,4.1000001E-2
+Ireland,1992,Europe,70280,3521207,0.013
+Ireland,1993,Europe,70280,3529566,0.02
+Ireland,1994,Europe,70280,3539296,2.7000001E-2
+Ireland,1995,Europe,70280,3550448,0.055
+Ireland,1996,Europe,70280,3566833,0.07
+Ireland,1997,Europe,70280,3606952,0.07
+Ireland,1998,Europe,70280,3619480,5.9999999E-2
+Ireland,1999,Europe,70280,3632944,9.4999999E-2
+Ireland,2000,Europe,70280,3797257,8.3999999E-2
+Ireland,2001,Europe,70280,3840838,9.8999999E-2
+Ireland,2002,Europe,70280,3883159,5.6000002E-2
+Ireland,2003,Europe,70280,3924140,6.8999998E-2
+Ireland,2004,Europe,70280,3969558,0.014
+Ireland,2005,Europe,70280,4015676,5.0999999E-2
+Ireland,2006,Europe,70280,4062235,0.055
+Ireland,2007,Europe,70280,4109086,5.9999999E-2
+Ireland,2008,Europe,70280,4109086,5.2999999E-2
+Israel,1989,Middle East,20770,4371478,
+Israel,1990,Middle East,20770,4409218,
+Israel,1991,Middle East,20770,4477105,
+Israel,1992,Middle East,20770,4748059,5.0000001E-2
+Israel,1993,Middle East,20770,4918946,6.4000003E-2
+Israel,1994,Middle East,20770,5050850,0.035
+Israel,1995,Middle East,20770,5433134,6.8000004E-2
+Israel,1996,Middle East,20770,5421995,7.1000002E-2
+Israel,1997,Middle East,20770,5534672,0.046
+Israel,1998,Middle East,20770,5643966,1.8999999E-2
+Israel,1999,Middle East,20770,5749760,1.8999999E-2
+Israel,2000,Middle East,20770,5842454,0.021
+Israel,2001,Middle East,20770,5938093,0.059
+Israel,2004,Middle East,20770,6199008,0.013
+Israel,2005,Middle East,20770,6276883,3.9000001E-2
+Israel,2006,Middle East,20770,6352117,5.2000001E-2
+Israel,2007,Middle East,20770,6426679,0.048
+Israel,2008,Middle East,20770,6426679,5.0999999E-2
+Israel,2009,Middle East,20770,7233701,3.9000001E-2
+Israel,2010,Middle East,20770,7353985,2.0000001E-3
+Israel,2011,Middle East,20770,7473052,0.046
+Italy,1989,Europe,301230,57557767,3.9000001E-2
+Italy,1990,Europe,301230,57664405,0.033
+Italy,1991,Europe,301230,57772375,0.02
+Italy,1992,Europe,301230,57904628,9.9999998E-3
+Italy,1993,Europe,301230,58018540,8.9999996E-3
+Italy,1995,Europe,301230,58261971,0.022
+Italy,1996,Europe,301230,57460274,3.2000002E-2
+Italy,1997,Europe,301230,56830508,8.0000004E-3
+Italy,1998,Europe,301230,56782748,0.015
+Italy,1999,Europe,301230,56735130,0.015
+Italy,2000,Europe,301230,57634327,0.013
+Italy,2001,Europe,301230,57679825,2.7000001E-2
+Italy,2002,Europe,301230,57715625,1.7999999E-2
+Italy,2003,Europe,301230,57998353,4.0000002E-3
+Italy,2004,Europe,301230,58057477,4.0000002E-3
+Italy,2005,Europe,301230,58103033,0.013
+Italy,2006,Europe,301230,58133509,0.001
+Italy,2007,Europe,301230,58147733,1.8999999E-2
+Italy,2008,Europe,301230,58147733,1.8999999E-2
+Italy,2011,Europe,301230,61016804,0.013
+Jamaica,1989,Central America and the Caribbean,10990,2484957,5.0000001E-2
+Jamaica,1990,Central America and the Caribbean,10990,2441396,2.9999999E-2
+Jamaica,1991,Central America and the Caribbean,10990,2489353,0.035
+Jamaica,1992,Central America and the Caribbean,10990,2506701,9.9999998E-3
+Jamaica,1993,Central America and the Caribbean,10990,2529981,0.015
+Jamaica,1994,Central America and the Caribbean,10990,2555064,0.012
+Jamaica,1995,Central America and the Caribbean,10990,2574291,0.02
+Jamaica,1996,Central America and the Caribbean,10990,2595275,8.0000004E-3
+Jamaica,1997,Central America and the Caribbean,10990,2615582,4.9999999E-3
+Jamaica,2001,Central America and the Caribbean,10990,2665636,2.0000001E-3
+Jamaica,2002,Central America and the Caribbean,10990,2680029,0.011
+Jamaica,2003,Central America and the Caribbean,10990,2695867,9.9999998E-3
+Jamaica,2004,Central America and the Caribbean,10990,2713130,1.8999999E-2
+Jamaica,2005,Central America and the Caribbean,10990,2731832,1.8999999E-2
+Jamaica,2006,Central America and the Caribbean,10990,2758124,1.7999999E-2
+Jamaica,2007,Central America and the Caribbean,10990,2780132,0.023
+Jamaica,2008,Central America and the Caribbean,10990,2780132,0.015
+Japan,1989,Asia,377835,123220129,
+Japan,1990,Asia,377835,123642461,
+Japan,1991,Asia,377835,124017137,
+Japan,1992,Asia,377835,124460481,4.5000002E-2
+Japan,1993,Asia,377835,124711551,0.015
+Japan,1994,Asia,377835,125106937,0
+Japan,1995,Asia,377835,125506492,6.0000001E-3
+Japan,1996,Asia,377835,125449703,0.003
+Japan,1997,Asia,377835,125732794,3.5999998E-2
+Japan,1998,Asia,377835,125931533,8.9999996E-3
+Japan,2000,Asia,377835,126549976,0.003
+Japan,2001,Asia,377835,126771662,0.013
+Japan,2003,Asia,377835,127214499,2.0000001E-3
+Japan,2004,Asia,377835,127333002,2.7000001E-2
+Japan,2005,Asia,377835,127417244,2.8999999E-2
+Japan,2006,Asia,377835,127463611,2.6000001E-2
+Japan,2007,Asia,377835,127433494,0.022
+Japan,2008,Asia,377835,127433494,1.8999999E-2
+Japan,2011,Asia,377835,126475664,3.9000001E-2
+Jordan,1989,Middle East,89213,2955660,
+Jordan,1990,Middle East,89213,3064508,
+Jordan,1991,Middle East,89213,3412553,
+Jordan,1992,Middle East,89213,3557304,2.9999999E-2
+Jordan,1993,Middle East,89213,3823636,2.9999999E-2
+Jordan,1994,Middle East,89213,3961194,5.0000001E-2
+Jordan,1995,Middle East,89213,4100709,0.055
+Jordan,1996,Middle East,89213,4212152,6.4999998E-2
+Jordan,1997,Middle East,89213,4324638,0.059
+Jordan,1998,Middle East,89213,4434978,5.2999999E-2
+Jordan,1999,Middle East,89213,4561147,0.022
+Jordan,2000,Middle East,89213,4998564,0.02
+Jordan,2001,Middle East,89213,5153378,0.02
+Jordan,2002,Middle East,89213,5307470,2.8000001E-2
+Jordan,2003,Middle East,89213,5460265,4.8999999E-2
+Jordan,2004,Middle East,89213,5611202,3.0999999E-2
+Jordan,2005,Middle East,89213,5759732,5.0999999E-2
+Jordan,2006,Middle East,89213,5906760,5.7999998E-2
+Jordan,2007,Middle East,89213,6053193,6.3000001E-2
+Jordan,2008,Middle East,89213,6053193,0.057
+Jordan,2009,Middle East,89213,6342948,5.7999998E-2
+Jordan,2010,Middle East,89213,6407085,0.024
+Jordan,2011,Middle East,89213,6508271,3.0999999E-2
+Kazakhstan,1989,Commonwealth of Independent States - Central Asian States,2717300,,
+Kazakhstan,1990,Commonwealth of Independent States - Central Asian States,2717300,,
+Kazakhstan,1991,Commonwealth of Independent States - Central Asian States,2717300,,
+Kazakhstan,1997,Commonwealth of Independent States - Central Asian States,2717300,16881793,0.011
+Kazakhstan,1998,Commonwealth of Independent States - Central Asian States,2717300,16846808,0.021
+Kazakhstan,2000,Commonwealth of Independent States - Central Asian States,2717300,16733227,1.7000001E-2
+Kazakhstan,2001,Commonwealth of Independent States - Central Asian States,2717300,16731303,0.105
+Kazakhstan,2002,Commonwealth of Independent States - Central Asian States,2717300,16741519,0.122
+Kazakhstan,2003,Commonwealth of Independent States - Central Asian States,2717300,16763795,9.4999999E-2
+Kazakhstan,2004,Commonwealth of Independent States - Central Asian States,2717300,15143704,0.092
+Kazakhstan,2005,Commonwealth of Independent States - Central Asian States,2717300,15185844,9.0999998E-2
+Kazakhstan,2006,Commonwealth of Independent States - Central Asian States,2717300,15233244,9.4999999E-2
+Kazakhstan,2007,Commonwealth of Independent States - Central Asian States,2717300,15284929,0.106
+Kazakhstan,2008,Commonwealth of Independent States - Central Asian States,2717300,15284929,9.4999999E-2
+Kazakhstan,2009,Commonwealth of Independent States - Central Asian States,2717300,15399437,2.9999999E-2
+Kazakhstan,2010,Commonwealth of Independent States - Central Asian States,2717300,15460484,0.012
+Kazakhstan,2011,Commonwealth of Independent States - Central Asian States,2717300,15522373,0.07
+Kenya,1989,Africa,582650,24346250,0.048
+Kenya,1990,Africa,582650,24639261,4.8999999E-2
+Kenya,1991,Africa,582650,25241978,3.9999999E-2
+Kenya,1992,Africa,582650,26164473,0.023
+Kenya,1994,Africa,582650,28240658,4.9999999E-3
+Kenya,1995,Africa,582650,28817227,0.033
+Kenya,1996,Africa,582650,28176686,5.0000001E-2
+Kenya,1997,Africa,582650,28803085,3.9999999E-2
+Kenya,1998,Africa,582650,28337071,2.8999999E-2
+Kenya,1999,Africa,582650,28808658,1.6000001E-2
+Kenya,2000,Africa,582650,30339770,0.015
+Kenya,2001,Africa,582650,30765916,4.0000002E-3
+Kenya,2002,Africa,582650,31138735,9.9999998E-3
+Kenya,2003,Africa,582650,31639091,0.011
+Kenya,2004,Africa,582650,32021856,0.015
+Kenya,2005,Africa,582650,33829590,0.022
+Kenya,2006,Africa,582650,34707817,5.7999998E-2
+Kenya,2007,Africa,582650,36913721,0.057
+Kenya,2008,Africa,582650,36913721,6.3000001E-2
+Kenya,2009,Africa,582650,39002772,0.022
+Kenya,2010,Africa,582650,40046566,2.6000001E-2
+Kenya,2011,Africa,582650,41070934,5.0000001E-2
+Kuwait,1989,Middle East,17820,2008053,3.9999999E-2
+Kuwait,1990,Middle East,17820,2123711,5.0000001E-2
+Kuwait,1991,Middle East,17820,2204400,0.035
+Kuwait,1993,Middle East,17820,1698077,0.80000001
+Kuwait,1994,Middle East,17820,1819322,0.15000001
+Kuwait,1995,Middle East,17820,1817397,9.3000002E-2
+Kuwait,1996,Middle East,17820,1950047,2.9999999E-2
+Kuwait,1997,Middle East,17820,1834269,2.9999999E-2
+Kuwait,1998,Middle East,17820,1913285,9.9999998E-3
+Kuwait,2000,Middle East,17820,1973572,0.011
+Kuwait,2001,Middle East,17820,2041961,5.9999999E-2
+Kuwait,2002,Middle East,17820,2111561,3.9999999E-2
+Kuwait,2004,Middle East,17820,2257549,0.046
+Kuwait,2005,Middle East,17820,2335648,6.8000004E-2
+Kuwait,2006,Middle East,17820,2418393,8.2999997E-2
+Kuwait,2007,Middle East,17820,2505559,0.126
+Kuwait,2008,Middle East,17820,2505559,5.6000002E-2
+Kuwait,2009,Middle East,17820,2691158,8.5000001E-2
+Kuwait,2011,Middle East,17820,2595628,0.02
+Kyrgyzstan,1989,Commonwealth of Independent States - Central Asian States,198500,,
+Kyrgyzstan,1990,Commonwealth of Independent States - Central Asian States,198500,,
+Kyrgyzstan,1991,Commonwealth of Independent States - Central Asian States,198500,,
+Kyrgyzstan,1997,Commonwealth of Independent States - Central Asian States,198500,4512809,5.6000002E-2
+Kyrgyzstan,1998,Commonwealth of Independent States - Central Asian States,198500,4522281,0.1
+Kyrgyzstan,1999,Commonwealth of Independent States - Central Asian States,198500,4546055,1.7999999E-2
+Kyrgyzstan,2000,Commonwealth of Independent States - Central Asian States,198500,4685230,3.4000002E-2
+Kyrgyzstan,2001,Commonwealth of Independent States - Central Asian States,198500,4753003,0.057
+Kyrgyzstan,2002,Commonwealth of Independent States - Central Asian States,198500,4822166,5.0000001E-2
+Kyrgyzstan,2003,Commonwealth of Independent States - Central Asian States,198500,4892808,5.2999999E-2
+Kyrgyzstan,2004,Commonwealth of Independent States - Central Asian States,198500,5081429,6.7000002E-2
+Kyrgyzstan,2005,Commonwealth of Independent States - Central Asian States,198500,5146281,5.9999999E-2
+Kyrgyzstan,2007,Commonwealth of Independent States - Central Asian States,198500,5284149,2.7000001E-2
+Kyrgyzstan,2008,Commonwealth of Independent States - Central Asian States,198500,5284149,6.4999998E-2
+Kyrgyzstan,2009,Commonwealth of Independent States - Central Asian States,198500,5431747,5.9999999E-2
+Kyrgyzstan,2010,Commonwealth of Independent States - Central Asian States,198500,5508626,0.023
+Latvia,1989,Europe,64100,,
+Latvia,1990,Europe,64100,,
+Latvia,1991,Europe,64100,,
+Latvia,1995,Europe,64100,2762899,0.02
+Latvia,1997,Europe,64100,2421163,0.025
+Latvia,1998,Europe,64100,2385396,5.9999999E-2
+Latvia,1999,Europe,64100,2353874,3.5999998E-2
+Latvia,2000,Europe,64100,2404926,0
+Latvia,2001,Europe,64100,2385231,0.055
+Latvia,2002,Europe,64100,2366515,6.3000001E-2
+Latvia,2003,Europe,64100,2348784,6.1000001E-2
+Latvia,2004,Europe,64100,2306306,7.4000001E-2
+Latvia,2005,Europe,64100,2290237,7.5999998E-2
+Latvia,2006,Europe,64100,2274735,0.102
+Latvia,2007,Europe,64100,2259810,0.119
+Latvia,2008,Europe,64100,2259810,0.103
+Lebanon,1989,Middle East,10400,3300802,
+Lebanon,1990,Middle East,10400,3339331,
+Lebanon,1992,Middle East,10400,3439115,
+Lebanon,1993,Middle East,10400,3552369,
+Lebanon,1994,Middle East,10400,3620395,4.1999999E-2
+Lebanon,1995,Middle East,10400,3695921,8.5000001E-2
+Lebanon,1996,Middle East,10400,3776317,6.4999998E-2
+Lebanon,1997,Middle East,10400,3449578,0.035
+Lebanon,1998,Middle East,10400,3505794,3.9999999E-2
+Lebanon,1999,Middle East,10400,3562699,2.9999999E-2
+Lebanon,2000,Middle East,10400,3578036,9.9999998E-3
+Lebanon,2001,Middle East,10400,3627774,9.9999998E-3
+Lebanon,2002,Middle East,10400,3677780,9.9999998E-3
+Lebanon,2003,Middle East,10400,3727703,0.02
+Lebanon,2004,Middle East,10400,3777218,2.9999999E-2
+Lebanon,2005,Middle East,10400,3826018,3.9999999E-2
+Lebanon,2006,Middle East,10400,3874050,0.001
+Lebanon,2008,Middle East,10400,3925502,0.003
+Lebanon,2009,Middle East,10400,4017095,0.07
+Lebanon,2010,Middle East,10400,4125247,6.8999998E-2
+Lebanon,2011,Middle East,10400,4143101,7.5000003E-2
+Lesotho,1989,Africa,30350,1711072,7.2999999E-2
+Lesotho,1990,Africa,30350,1754664,8.2000002E-2
+Lesotho,1991,Africa,30350,1801174,3.9999999E-2
+Lesotho,1992,Africa,30350,1848925,3.9999999E-2
+Lesotho,1993,Africa,30350,1896484,5.2999999E-2
+Lesotho,1994,Africa,30350,1944493,0.024
+Lesotho,1995,Africa,30350,1992960,5.9999999E-2
+Lesotho,1996,Africa,30350,1970781,0.13500001
+Lesotho,1997,Africa,30350,2007814,0.1
+Lesotho,1998,Africa,30350,2089829,9.0000004E-2
+Lesotho,1999,Africa,30350,2128950,0.1
+Lesotho,2001,Africa,30350,2177062,0.025
+Lesotho,2002,Africa,30350,2207954,2.6000001E-2
+Lesotho,2003,Africa,30350,1861959,3.9999999E-2
+Lesotho,2004,Africa,30350,1865040,3.9999999E-2
+Lesotho,2005,Africa,30350,1867035,0.033
+Lesotho,2006,Africa,30350,2022331,0.012
+Lesotho,2007,Africa,30350,2125262,2.9999999E-2
+Lesotho,2008,Africa,30350,2125262,0.048
+Lesotho,2009,Africa,30350,2130819,6.8000004E-2
+Lesotho,2010,Africa,30350,1919552,1.6000001E-2
+Lesotho,2011,Africa,30350,1924886,0.024
+Liberia,1989,Africa,111370,2555883,1.7000001E-2
+Liberia,1990,Africa,111370,2639809,0.015
+Liberia,1991,Africa,111370,2730446,0.015
+Liberia,1992,Africa,111370,2462276,0.015
+Liberia,1993,Africa,111370,2874881,0.015
+Liberia,1994,Africa,111370,2972766,0.015
+Liberia,1995,Africa,111370,3073245,
+Liberia,1996,Africa,111370,2109789,0
+Liberia,1997,Africa,111370,2602068,0
+Liberia,1998,Africa,111370,2771901,
+Liberia,1999,Africa,111370,2923725,
+Liberia,2000,Africa,111370,3164156,4.9999999E-3
+Liberia,2001,Africa,111370,3225837,0.15000001
+Liberia,2002,Africa,111370,3288198,5.0000001E-2
+Liberia,2003,Africa,111370,3317176,0.02
+Liberia,2004,Africa,111370,3390635,2.9999999E-2
+Liberia,2005,Africa,111370,3482211,0.21799999
+Liberia,2006,Africa,111370,3042004,9.7999997E-2
+Liberia,2007,Africa,111370,3195931,7.8000002E-2
+Liberia,2008,Africa,111370,3195931,8.5000001E-2
+Liberia,2009,Africa,111370,3441790,7.5000003E-2
+Liberia,2010,Africa,111370,3685076,0.046
+Liberia,2011,Africa,111370,3786764,5.0999999E-2
+Liechtenstein,1989,Europe,160,28074,
+Liechtenstein,1990,Europe,160,28292,
+Liechtenstein,1991,Europe,160,28476,
+Liechtenstein,1992,Europe,160,28642,
+Liechtenstein,1993,Europe,160,29894,
+Liechtenstein,1994,Europe,160,30281,
+Liechtenstein,1995,Europe,160,30654,
+Liechtenstein,1996,Europe,160,31122,
+Liechtenstein,1997,Europe,160,31389,
+Liechtenstein,1998,Europe,160,31717,
+Liechtenstein,1999,Europe,160,32057,
+Liechtenstein,2000,Europe,160,32207,
+Liechtenstein,2001,Europe,160,32528,
+Liechtenstein,2002,Europe,160,32842,
+Liechtenstein,2003,Europe,160,33145,0.11
+Liechtenstein,2004,Europe,160,33436,0.11
+Liechtenstein,2005,Europe,160,33717,0.11
+Liechtenstein,2006,Europe,160,33987,0.11
+Liechtenstein,2007,Europe,160,64247,0.11
+Liechtenstein,2008,Europe,160,34247,0.11
+Liechtenstein,2009,Europe,160,34761,3.0999999E-2
+Liechtenstein,2010,Europe,160,35002,3.0999999E-2
+Liechtenstein,2011,Europe,160,35236,1.7999999E-2
+Lithuania,1989,Europe,65200,,
+Lithuania,1990,Europe,65200,,
+Lithuania,1991,Europe,65200,,
+Lithuania,1996,Europe,65200,3646041,9.9999998E-3
+Lithuania,1997,Europe,65200,3617104,3.4000002E-2
+Lithuania,1998,Europe,65200,3600158,5.9999999E-2
+Lithuania,1999,Europe,65200,3584966,4.5000002E-2
+Lithuania,2001,Europe,65200,3610535,2.8999999E-2
+Lithuania,2002,Europe,65200,3601138,0.048
+Lithuania,2003,Europe,65200,3592561,6.7000002E-2
+Lithuania,2004,Europe,65200,3607899,9.0000004E-2
+Lithuania,2005,Europe,65200,3596617,0.066
+Lithuania,2006,Europe,65200,3585906,7.5000003E-2
+Lithuania,2007,Europe,65200,3575439,7.5000003E-2
+Lithuania,2008,Europe,65200,3575439,7.9999998E-2
+Lithuania,2009,Europe,65200,3555179,3.2000002E-2
+Lithuania,2011,Europe,65200,3535547,0.013
+Luxembourg,1989,Europe,2586,366329,2.9999999E-2
+Luxembourg,1990,Europe,2586,383813,3.9999999E-2
+Luxembourg,1991,Europe,2586,388017,0.025
+Luxembourg,1992,Europe,2586,392405,0.025
+Luxembourg,1993,Europe,2586,398220,0.025
+Luxembourg,1994,Europe,2586,401900,9.9999998E-3
+Luxembourg,1995,Europe,2586,404660,2.6000001E-2
+Luxembourg,1996,Europe,2586,415870,2.6000001E-2
+Luxembourg,1997,Europe,2586,420416,0.037
+Luxembourg,1998,Europe,2586,425017,3.5999998E-2
+Luxembourg,1999,Europe,2586,429080,2.8999999E-2
+Luxembourg,2000,Europe,2586,437389,4.1999999E-2
+Luxembourg,2001,Europe,2586,442972,0.057
+Luxembourg,2002,Europe,2586,448569,3.9999999E-2
+Luxembourg,2003,Europe,2586,454157,4.0000002E-3
+Luxembourg,2004,Europe,2586,462690,0.012
+Luxembourg,2005,Europe,2586,468571,0.023
+Luxembourg,2006,Europe,2586,474413,3.9999999E-2
+Luxembourg,2007,Europe,2586,510222,6.1999999E-2
+Luxembourg,2008,Europe,2586,480222,5.0000001E-2
+Luxembourg,2009,Europe,2586,491775,3.5999998E-2
+Luxembourg,2011,Europe,2586,503302,3.4000002E-2
+Madagascar,1989,Africa,587040,11430269,0.014
+Madagascar,1990,Africa,587040,11800524,0.022
+Madagascar,1991,Africa,587040,12185318,3.7999999E-2
+Madagascar,1993,Africa,587040,13005989,9.9999998E-3
+Madagascar,1994,Africa,587040,13427758,9.9999998E-3
+Madagascar,1995,Africa,587040,13862325,2.8000001E-2
+Madagascar,1996,Africa,587040,13670507,2.7000001E-2
+Madagascar,1997,Africa,587040,14061627,0.035
+Madagascar,1998,Africa,587040,14462509,2.9999999E-2
+Madagascar,1999,Africa,587040,14873387,2.9999999E-2
+Madagascar,2000,Africa,587040,15506472,4.5000002E-2
+Madagascar,2001,Africa,587040,15982563,0.048
+Madagascar,2002,Africa,587040,16473477,5.0000001E-2
+Madagascar,2004,Africa,587040,17501871,5.9999999E-2
+Madagascar,2005,Africa,587040,18040341,0.055
+Madagascar,2006,Africa,587040,18595469,5.0999999E-2
+Madagascar,2007,Africa,587040,19448815,4.6999998E-2
+Madagascar,2008,Africa,587040,19448815,6.3000001E-2
+Madagascar,2009,Africa,587040,20653556,0.07
+Malawi,1990,Africa,118480,9157528,3.5999998E-2
+Malawi,1991,Africa,118480,9438462,0.048
+Malawi,1992,Africa,118480,9605342,4.1999999E-2
+Malawi,1995,Africa,118480,9808384,9.3000002E-2
+Malawi,1996,Africa,118480,9452844,9.8999999E-2
+Malawi,1997,Africa,118480,9609081,5.9999999E-2
+Malawi,1998,Africa,118480,9840474,5.9999999E-2
+Malawi,1999,Africa,118480,10000416,3.2000002E-2
+Malawi,2000,Africa,118480,10385849,4.1999999E-2
+Malawi,2001,Africa,118480,10548250,2.9999999E-2
+Malawi,2002,Africa,118480,10701824,1.7000001E-2
+Malawi,2003,Africa,118480,11651239,1.7000001E-2
+Malawi,2004,Africa,118480,11906855,1.7000001E-2
+Malawi,2005,Africa,118480,12158924,3.9999999E-2
+Malawi,2006,Africa,118480,13013926,1.8999999E-2
+Malawi,2007,Africa,118480,13603181,8.5000001E-2
+Malawi,2008,Africa,118480,13603181,0.057
+Malawi,2009,Africa,118480,14268711,6.4999998E-2
+Malawi,2010,Africa,118480,15447500,7.5999998E-2
+Malawi,2011,Africa,118480,15879252,0.066
+Malaysia,1989,Southeast Asia,329750,16726766,7.4000001E-2
+Malaysia,1990,Southeast Asia,329750,17510546,0.077
+Malaysia,1991,Southeast Asia,329750,17981698,0.1
+Malaysia,1992,Southeast Asia,329750,18410920,8.6000003E-2
+Malaysia,1993,Southeast Asia,329750,18845340,7.9999998E-2
+Malaysia,1994,Southeast Asia,329750,19283157,7.9999998E-2
+Malaysia,1995,Southeast Asia,329750,19723587,8.6999997E-2
+Malaysia,1996,Southeast Asia,329750,19962893,9.4999999E-2
+Malaysia,1997,Southeast Asia,329750,20491303,8.2000002E-2
+Malaysia,1998,Southeast Asia,329750,20932901,7.4000001E-2
+Malaysia,2000,Southeast Asia,329750,21793293,5.0000001E-2
+Malaysia,2001,Southeast Asia,329750,22229040,8.6000003E-2
+Malaysia,2002,Southeast Asia,329750,22662365,0.003
+Malaysia,2003,Southeast Asia,329750,23092940,4.1000001E-2
+Malaysia,2004,Southeast Asia,329750,23522482,5.2000001E-2
+Malaysia,2005,Southeast Asia,329750,23953136,7.1000002E-2
+Malaysia,2006,Southeast Asia,329750,24385858,5.2000001E-2
+Malaysia,2007,Southeast Asia,329750,24821286,0.059
+Malaysia,2008,Southeast Asia,329750,24821286,0.057
+Malaysia,2009,Southeast Asia,329750,25715819,5.0999999E-2
+Malaysia,2011,Southeast Asia,329750,28728607,7.1999997E-2
+Maldives,1989,Asia,300,210878,9.0000004E-2
+Maldives,1990,Asia,300,217945,0.092
+Maldives,1991,Asia,300,226200,0.092
+Maldives,1992,Asia,300,234371,0.101
+Maldives,1993,Asia,300,243094,4.6999998E-2
+Maldives,1994,Asia,300,252077,5.9999999E-2
+Maldives,1995,Asia,300,261310,5.4000001E-2
+Maldives,1996,Asia,300,270758,0.066
+Maldives,1997,Asia,300,280391,5.7999998E-2
+Maldives,1998,Asia,300,290211,6.1999999E-2
+Maldives,1999,Asia,300,300220,5.7999998E-2
+Maldives,2000,Asia,300,301475,0.07
+Maldives,2001,Asia,300,310764,7.5999998E-2
+Maldives,2002,Asia,300,320165,0.07
+Maldives,2003,Asia,300,329684,0.023
+Maldives,2004,Asia,300,339330,0.023
+Maldives,2005,Asia,300,349106,0.023
+Maldives,2007,Asia,300,399031,0.18000001
+Maldives,2008,Asia,300,369031,0.055
+Maldives,2009,Asia,300,396334,0.057
+Maldives,2011,Asia,300,394999,7.9999998E-2
+Mali,1989,Africa,1,8918448,9.6000001E-2
+Mali,1991,Africa,1,8338542,9.8999999E-2
+Mali,1992,Africa,1,8641178,0.022
+Mali,1995,Africa,1,9375132,0.024
+Mali,1996,Africa,1,9653261,0.024
+Mali,1997,Africa,1,9788904,5.2000001E-2
+Mali,1998,Africa,1,10108569,5.9999999E-2
+Mali,1999,Africa,1,10429124,0.046
+Mali,2000,Africa,1,10685948,5.0000001E-2
+Mali,2001,Africa,1,11008518,0.048
+Mali,2003,Africa,1,11626219,4.5000002E-2
+Mali,2004,Africa,1,11956788,4.9999999E-3
+Mali,2005,Africa,1,12291529,3.9999999E-2
+Mali,2006,Africa,1,11716829,6.1000001E-2
+Mali,2007,Africa,1,12025402,5.0999999E-2
+Mali,2008,Africa,1,11995402,4.3000001E-2
+Mali,2009,Africa,1,12666987,4.1999999E-2
+Mali,2010,Africa,1,13796354,0.044
+Mali,2011,Africa,1,14159904,4.5000002E-2
+Malta,1989,Europe,320,371368,5.9999999E-2
+Malta,1990,Europe,320,353465,7.1000002E-2
+Malta,1991,Europe,320,356427,6.4000003E-2
+Malta,1992,Europe,320,359231,0.055
+Malta,1993,Europe,320,363791,0.059
+Malta,1994,Europe,320,366767,4.5000002E-2
+Malta,1995,Europe,320,369609,0.044
+Malta,1996,Europe,320,375576,5.0000001E-2
+Malta,1997,Europe,320,377177,3.9999999E-2
+Malta,1998,Europe,320,379563,2.8000001E-2
+Malta,1999,Europe,320,381603,3.9999999E-2
+Malta,2000,Europe,320,391670,3.9999999E-2
+Malta,2001,Europe,320,394583,3.4000002E-2
+Malta,2002,Europe,320,397499,3.9999999E-2
+Malta,2003,Europe,320,400420,0.012
+Malta,2004,Europe,320,396851,8.0000004E-3
+Malta,2005,Europe,320,398534,9.9999998E-3
+Malta,2006,Europe,320,400214,9.9999998E-3
+Malta,2007,Europe,320,431880,0.024
+Malta,2008,Europe,320,401880,3.4000002E-2
+Malta,2009,Europe,320,405165,0.025
+Malta,2011,Europe,320,408333,0.037
+Marshall Islands,1989,Oceania,181,42018,6.3000001E-2
+Marshall Islands,1990,Oceania,181,43417,
+Marshall Islands,1991,Oceania,181,48091,
+Marshall Islands,1992,Oceania,181,50004,
+Marshall Islands,1993,Oceania,181,51982,
+Marshall Islands,1994,Oceania,181,54031,5.9999999E-2
+Marshall Islands,1995,Oceania,181,56157,5.9999999E-2
+Marshall Islands,1996,Oceania,181,58363,0.015
+Marshall Islands,1997,Oceania,181,60652,0.015
+Marshall Islands,1998,Oceania,181,63031,0.02
+Marshall Islands,2002,Oceania,181,73630,9.9999998E-3
+Marshall Islands,2003,Oceania,181,56429,9.9999998E-3
+Marshall Islands,2004,Oceania,181,57738,9.9999998E-3
+Marshall Islands,2005,Oceania,181,59071,9.9999998E-3
+Marshall Islands,2006,Oceania,181,60422,0.035
+Marshall Islands,2007,Oceania,181,91815,0.035
+Marshall Islands,2008,Oceania,181,61815,0.035
+Mauritania,1989,Africa,1030700,1977466,2.7000001E-2
+Mauritania,1990,Africa,1030700,1934549,3.5999998E-2
+Mauritania,1991,Africa,1030700,1995755,0.035
+Mauritania,1992,Africa,1030700,2059187,2.9999999E-2
+Mauritania,1993,Africa,1030700,2124792,2.9999999E-2
+Mauritania,1994,Africa,1030700,2192777,0.033
+Mauritania,1995,Africa,1030700,2263202,5.0000001E-2
+Mauritania,1996,Africa,1030700,2336048,3.9999999E-2
+Mauritania,1997,Africa,1030700,2411317,5.9999999E-2
+Mauritania,1998,Africa,1030700,2511473,5.9999999E-2
+Mauritania,1999,Africa,1030700,2581738,4.1999999E-2
+Mauritania,2000,Africa,1030700,2667859,0.037
+Mauritania,2001,Africa,1030700,2747312,5.0000001E-2
+Mauritania,2002,Africa,1030700,2828858,3.9999999E-2
+Mauritania,2003,Africa,1030700,2912584,0.033
+Mauritania,2004,Africa,1030700,2998563,4.5000002E-2
+Mauritania,2005,Africa,1030700,3086859,2.9999999E-2
+Mauritania,2006,Africa,1030700,3177388,0.055
+Mauritania,2007,Africa,1030700,3270065,0.141
+Mauritania,2008,Africa,1030700,3270065,0.015
+Mauritania,2009,Africa,1030700,3129486,0.035
+Mauritania,2011,Africa,1030700,3281634,4.6999998E-2
+Mauritius,1989,World,1860,1120564,5.4000001E-2
+Mauritius,1990,World,1860,1070005,6.3000001E-2
+Mauritius,1991,World,1860,1081000,0.055
+Mauritius,1992,World,1860,1092130,6.1000001E-2
+Mauritius,1993,World,1860,1106516,6.1000001E-2
+Mauritius,1994,World,1860,1116923,6.3000001E-2
+Mauritius,1995,World,1860,1127068,4.6999998E-2
+Mauritius,1996,World,1860,1140256,2.7000001E-2
+Mauritius,1997,World,1860,1154272,5.0000001E-2
+Mauritius,1998,World,1860,1168256,5.4000001E-2
+Mauritius,1999,World,1860,1182212,5.0000001E-2
+Mauritius,2000,World,1860,1179368,3.9999999E-2
+Mauritius,2001,World,1860,1189825,7.5000003E-2
+Mauritius,2002,World,1860,1200206,5.2000001E-2
+Mauritius,2003,World,1860,1210447,0.023
+Mauritius,2004,World,1860,1220481,4.1000001E-2
+Mauritius,2005,World,1860,1230602,4.6999998E-2
+Mauritius,2006,World,1860,1240827,0.025
+Mauritius,2007,World,1860,1280882,4.8999999E-2
+Mauritius,2008,World,1860,1250882,0.055
+Mauritius,2009,World,1860,1284264,5.2000001E-2
+Mauritius,2010,World,1860,1294104,3.0999999E-2
+Mauritius,2011,World,1860,1303717,3.9999999E-2
+Mexico,1989,North America,1972550,86366019,0.014
+Mexico,1990,North America,1972550,87870154,0.025
+Mexico,1991,North America,1972550,90007304,3.9000001E-2
+Mexico,1992,North America,1972550,92380721,3.9999999E-2
+Mexico,1993,North America,1972550,90419606,2.6000001E-2
+Mexico,1994,North America,1972550,92202199,4.0000002E-3
+Mexico,1995,North America,1972550,93985848,0.035
+Mexico,1997,North America,1972550,97563374,5.0999999E-2
+Mexico,1998,North America,1972550,98552776,7.2999999E-2
+Mexico,1999,North America,1972550,100294036,0.048
+Mexico,2000,North America,1972550,100349766,0.037
+Mexico,2001,North America,1972550,101879171,7.1000002E-2
+Mexico,2003,North America,1972550,104907991,7.0000002E-3
+Mexico,2004,North America,1972550,104959594,0.013
+Mexico,2005,North America,1972550,106202903,4.1000001E-2
+Mexico,2006,North America,1972550,107449525,2.9999999E-2
+Mexico,2007,North America,1972550,108700891,0.048
+Mexico,2008,North America,1972550,108700891,2.9999999E-2
+Mexico,2009,North America,1972550,111211789,0.014
+Mexico,2011,North America,1972550,113724226,0.055
+Monaco,1989,Europe,1,29188,
+Monaco,1990,Europe,1,29453,
+Monaco,1991,Europe,1,29712,
+Monaco,1992,Europe,1,29965,
+Monaco,1993,Europe,1,31008,
+Monaco,1994,Europe,1,31278,
+Monaco,1995,Europe,1,31515,
+Monaco,1996,Europe,1,31719,
+Monaco,1997,Europe,1,31892,
+Monaco,1998,Europe,1,32035,
+Monaco,1999,Europe,1,32149,
+Monaco,2000,Europe,1,31693,
+Monaco,2001,Europe,1,31842,
+Monaco,2002,Europe,1,31987,
+Monaco,2003,Europe,1,32130,
+Monaco,2004,Europe,1,32270,
+Monaco,2005,Europe,1,32409,8.9999996E-3
+Monaco,2006,Europe,1,32543,8.9999996E-3
+Monaco,2007,Europe,1,62671,8.9999996E-3
+Monaco,2008,Europe,1,32671,8.9999996E-3
+Monaco,2009,Europe,1,32965,8.9999996E-3
+Monaco,2010,Europe,1,30586,
+Monaco,2011,Europe,1,30539,
+Mongolia,1989,Asia,1,2125463,3.5999998E-2
+Mongolia,1990,Asia,1,2187275,3.5999998E-2
+Mongolia,1991,Asia,1,2247068,
+Mongolia,1995,Asia,1,2493615,0.025
+Mongolia,1996,Asia,1,2496617,5.9999999E-2
+Mongolia,1997,Asia,1,2538211,2.9999999E-2
+Mongolia,1998,Asia,1,2578530,0.033
+Mongolia,1999,Asia,1,2617379,0.035
+Mongolia,2000,Asia,1,2650952,0.035
+Mongolia,2002,Asia,1,2694432,0.024
+Mongolia,2003,Asia,1,2712315,3.9000001E-2
+Mongolia,2004,Asia,1,2751314,5.0000001E-2
+Mongolia,2005,Asia,1,2791272,0.106
+Mongolia,2006,Asia,1,2832224,6.1999999E-2
+Mongolia,2007,Asia,1,2981786,7.5000003E-2
+Mongolia,2008,Asia,1,2951786,8.3999999E-2
+Mongolia,2009,Asia,1,3041142,8.9000002E-2
+Mongolia,2011,Asia,1,3133318,6.1000001E-2
+Montserrat,1989,Central America and the Caribbean,100,12428,5.2000001E-2
+Montserrat,1990,Central America and the Caribbean,100,12467,0.12
+Montserrat,1991,Central America and the Caribbean,100,12504,0.12
+Montserrat,1992,Central America and the Caribbean,100,12617,0.1
+Montserrat,1993,Central America and the Caribbean,100,12661,0.13500001
+Montserrat,1994,Central America and the Caribbean,100,12701,4.3000001E-2
+Montserrat,1995,Central America and the Caribbean,100,12738,9.9999998E-3
+Montserrat,1996,Central America and the Caribbean,100,12771,4.9999999E-3
+Morocco,1989,Africa,446550,25605579,0.015
+Morocco,1990,Africa,446550,25648241,4.5000002E-2
+Morocco,1991,Africa,446550,26181889,0.025
+Morocco,1992,Africa,446550,26708587,4.1999999E-2
+Morocco,1993,Africa,446550,27955090,0
+Morocco,1994,Africa,446550,28558635,0.02
+Morocco,1995,Africa,446550,29168848,7.9999998E-2
+Morocco,1997,Africa,446550,30391423,9.0000004E-2
+Morocco,1999,Africa,446550,29661636,6.8000004E-2
+Morocco,2000,Africa,446550,30122350,0
+Morocco,2001,Africa,446550,30645305,8.0000004E-3
+Morocco,2002,Africa,446550,31167783,5.0000001E-2
+Morocco,2003,Africa,446550,31689265,0.046
+Morocco,2004,Africa,446550,32209101,5.9999999E-2
+Morocco,2005,Africa,446550,32725847,0.044
+Morocco,2006,Africa,446550,33241259,1.7000001E-2
+Morocco,2007,Africa,446550,33757175,9.3000002E-2
+Morocco,2008,Africa,446550,33757175,0.021
+Morocco,2009,Africa,446550,34859364,0.059
+Morocco,2010,Africa,446550,31627428,4.8999999E-2
+Morocco,2011,Africa,446550,31968361,3.2000002E-2
+Mozambique,1989,Africa,801590,14275301,
+Mozambique,1990,Africa,801590,14565656,5.0000001E-2
+Mozambique,1991,Africa,801590,15113282,5.0000001E-2
+Mozambique,1992,Africa,801590,15469150,9.9999998E-3
+Mozambique,1993,Africa,801590,16341777,0.003
+Mozambique,1994,Africa,801590,17346280,4.1000001E-2
+Mozambique,1995,Africa,801590,18115250,5.7999998E-2
+Mozambique,1997,Africa,801590,18165476,2.9999999E-2
+Mozambique,1998,Africa,801590,18641469,7.9999998E-2
+Mozambique,1999,Africa,801590,19124335,0.11
+Mozambique,2000,Africa,801590,19104696,0.1
+Mozambique,2001,Africa,801590,19371057,3.7999999E-2
+Mozambique,2002,Africa,801590,19607519,0.092
+Mozambique,2003,Africa,801590,17479266,0.077
+Mozambique,2004,Africa,801590,18811731,0.07
+Mozambique,2005,Africa,801590,19406703,8.2000002E-2
+Mozambique,2006,Africa,801590,19686505,7.5000003E-2
+Mozambique,2007,Africa,801590,20905585,7.9000004E-2
+Mozambique,2008,Africa,801590,20905585,7.5000003E-2
+Mozambique,2009,Africa,801590,21669278,6.4999998E-2
+Mozambique,2010,Africa,801590,22061451,6.3000001E-2
+Mozambique,2011,Africa,801590,22948858,0.07
+Namibia,1989,Africa,825418,1372475,
+Namibia,1990,Africa,825418,1452951,
+Namibia,1991,Africa,825418,1520504,
+Namibia,1992,Africa,825418,1574927,5.0999999E-2
+Namibia,1993,Africa,825418,1541321,0.02
+Namibia,1994,Africa,825418,1595567,0.035
+Namibia,1995,Africa,825418,1651545,5.7999998E-2
+Namibia,1996,Africa,825418,1677243,0.066
+Namibia,1997,Africa,825418,1727183,0.015
+Namibia,1998,Africa,825418,1622328,2.9999999E-2
+Namibia,1999,Africa,825418,1648270,0.02
+Namibia,2000,Africa,825418,1771327,2.9999999E-2
+Namibia,2001,Africa,825418,1797677,3.9999999E-2
+Namibia,2002,Africa,825418,1820916,3.9999999E-2
+Namibia,2003,Africa,825418,1927447,0.023
+Namibia,2004,Africa,825418,1954033,0.033
+Namibia,2005,Africa,825418,2030692,0.048
+Namibia,2006,Africa,825418,2044147,3.2000002E-2
+Namibia,2007,Africa,825418,2055080,0.046
+Namibia,2008,Africa,825418,2055080,4.5000002E-2
+Namibia,2009,Africa,825418,2108665,0.033
+Namibia,2011,Africa,825418,2147585,0.044
+Nepal,1989,Asia,140800,18699884,7.1000002E-2
+Nepal,1990,Asia,140800,19145800,0.015
+Nepal,1991,Asia,140800,19611900,0.021
+Nepal,1992,Asia,140800,20086455,0.035
+Nepal,1993,Asia,140800,20535466,3.0999999E-2
+Nepal,1994,Asia,140800,21041527,2.8999999E-2
+Nepal,1995,Asia,140800,21560869,5.0000001E-2
+Nepal,1996,Asia,140800,22094033,0.023
+Nepal,1997,Asia,140800,23107464,2.8999999E-2
+Nepal,1998,Asia,140800,23698421,4.1999999E-2
+Nepal,1999,Asia,140800,24302653,4.8999999E-2
+Nepal,2000,Asia,140800,24702119,3.4000002E-2
+Nepal,2001,Asia,140800,25284463,0.037
+Nepal,2002,Asia,140800,25873917,2.6000001E-2
+Nepal,2004,Asia,140800,27070666,2.9999999E-2
+Nepal,2005,Asia,140800,27676547,2.9999999E-2
+Nepal,2006,Asia,140800,28287147,2.7000001E-2
+Nepal,2007,Asia,140800,28901790,1.8999999E-2
+Nepal,2008,Asia,140800,28901790,0.025
+Nepal,2009,Asia,140800,28563377,5.6000002E-2
+Nepal,2010,Asia,140800,28951852,4.6999998E-2
+Nepal,2011,Asia,140800,29391883,0.046
+Netherlands,1989,Europe,37330,14790125,
+Netherlands,1990,Europe,37330,14936032,4.1999999E-2
+Netherlands,1991,Europe,37330,15022393,3.0999999E-2
+Netherlands,1992,Europe,37330,15112064,0.022
+Netherlands,1993,Europe,37330,15274942,1.6000001E-2
+Netherlands,1994,Europe,37330,,
+Netherlands,1995,Europe,37330,15452903,0.02
+Netherlands,1996,Europe,37330,15568034,0.025
+Netherlands,1997,Europe,37330,15649729,2.7000001E-2
+Netherlands,1998,Europe,37330,15731112,3.2499999E-2
+Netherlands,1999,Europe,37330,15807641,0.037
+Netherlands,2000,Europe,37330,15892237,3.4000002E-2
+Netherlands,2001,Europe,37330,15981472,3.9999999E-2
+Netherlands,2002,Europe,37330,16067754,0.011
+Netherlands,2003,Europe,37330,16150511,2.0000001E-3
+Netherlands,2005,Europe,37330,16407491,0.012
+Netherlands,2006,Europe,37330,16491461,0.015
+Netherlands,2007,Europe,37330,16570613,2.8999999E-2
+Netherlands,2008,Europe,37330,16570613,2.8000001E-2
+Netherlands,2009,Europe,37330,16715999,1.7999999E-2
+Netherlands,2011,Europe,37330,16847007,1.7000001E-2
+Netherlands Antilles,1990,Central America and the Caribbean,960,183503,2.9999999E-2
+Netherlands Antilles,1991,Central America and the Caribbean,960,183872,2.9999999E-2
+Netherlands Antilles,1992,Central America and the Caribbean,960,184325,0.015
+Netherlands Antilles,1993,Central America and the Caribbean,960,184990,3.9999999E-2
+Netherlands Antilles,1994,Central America and the Caribbean,960,185790,0.02
+Netherlands Antilles,1995,Central America and the Caribbean,960,203505,1.7999999E-2
+Netherlands Antilles,1996,Central America and the Caribbean,960,208968,1.7999999E-2
+Netherlands Antilles,1997,Central America and the Caribbean,960,211093,0
+Netherlands Antilles,2003,Central America and the Caribbean,960,216226,0
+Netherlands Antilles,2004,Central America and the Caribbean,960,218126,4.9999999E-3
+Netherlands Antilles,2005,Central America and the Caribbean,960,219958,4.9999999E-3
+Netherlands Antilles,2006,Central America and the Caribbean,960,221736,9.9999998E-3
+Netherlands Antilles,2007,Central America and the Caribbean,960,253652,9.9999998E-3
+Netherlands Antilles,2008,Central America and the Caribbean,960,223652,9.9999998E-3
+Netherlands Antilles,2009,Central America and the Caribbean,960,227049,9.9999998E-3
+Netherlands Antilles,2010,Central America and the Caribbean,960,,
+Netherlands Antilles,2011,Central America and the Caribbean,960,,
+New Caledonia,1989,Oceania,19060,152386,
+New Caledonia,1990,Oceania,19060,153215,
+New Caledonia,1991,Oceania,19060,171559,
+New Caledonia,1992,Oceania,19060,174805,
+New Caledonia,1993,Oceania,19060,,
+New Caledonia,1994,Oceania,19060,181309,0.024
+New Caledonia,1995,Oceania,19060,184552,0.024
+New Caledonia,1996,Oceania,19060,187784,
+New Caledonia,1997,Oceania,19060,191003,
+New Caledonia,1998,Oceania,19060,194197,
+New Caledonia,1999,Oceania,19060,197361,
+New Caledonia,2000,Oceania,19060,201816,0.035
+New Caledonia,2001,Oceania,19060,204863,0.035
+New Caledonia,2002,Oceania,19060,207858,0.021
+New Caledonia,2003,Oceania,19060,210798,
+New Caledonia,2004,Oceania,19060,213679,
+New Caledonia,2005,Oceania,19060,216494,
+New Caledonia,2006,Oceania,19060,219246,
+New Caledonia,2007,Oceania,19060,221943,
+New Caledonia,2008,Oceania,19060,221943,
+New Caledonia,2009,Oceania,19060,227436,
+New Caledonia,2010,Oceania,19060,252352,
+New Caledonia,2011,Oceania,19060,256275,
+New Zealand,1990,Oceania,268680,3295866,0.024
+New Zealand,1991,Oceania,268680,3308973,7.0000002E-3
+New Zealand,1993,Oceania,268680,3368774,2.9999999E-2
+New Zealand,1994,Oceania,268680,3388737,2.9999999E-2
+New Zealand,1995,Oceania,268680,3407277,6.1999999E-2
+New Zealand,1996,Oceania,268680,3547983,0.055
+New Zealand,1997,Oceania,268680,3587275,2.8000001E-2
+New Zealand,1998,Oceania,268680,3625388,0.025
+New Zealand,2000,Oceania,268680,3819762,3.0999999E-2
+New Zealand,2001,Oceania,268680,3864129,3.5999998E-2
+New Zealand,2002,Oceania,268680,3908037,3.0999999E-2
+New Zealand,2003,Oceania,268680,3951307,0.033
+New Zealand,2004,Oceania,268680,3993817,0.035
+New Zealand,2005,Oceania,268680,4035461,0.048
+New Zealand,2006,Oceania,268680,4076140,0.023
+New Zealand,2007,Oceania,268680,4115771,0.015
+New Zealand,2008,Oceania,268680,4115771,2.9999999E-2
+New Zealand,2009,Oceania,268680,4213418,2.0000001E-3
+New Zealand,2011,Oceania,268680,4290347,0.015
+Nicaragua,1993,Central America and the Caribbean,129494,3987240,4.9999999E-3
+Nicaragua,1995,Central America and the Caribbean,129494,4206353,3.2000002E-2
+Nicaragua,1996,Central America and the Caribbean,129494,4272352,4.1999999E-2
+Nicaragua,1997,Central America and the Caribbean,129494,4386399,0.055
+Nicaragua,1998,Central America and the Caribbean,129494,4583379,5.9999999E-2
+Nicaragua,1999,Central America and the Caribbean,129494,4717132,3.9999999E-2
+Nicaragua,2000,Central America and the Caribbean,129494,4812569,6.3000001E-2
+Nicaragua,2001,Central America and the Caribbean,129494,4918393,5.0000001E-2
+Nicaragua,2002,Central America and the Caribbean,129494,5023818,0.025
+Nicaragua,2003,Central America and the Caribbean,129494,5128517,0.011
+Nicaragua,2004,Central America and the Caribbean,129494,5359759,0.023
+Nicaragua,2005,Central America and the Caribbean,129494,5465100,3.9999999E-2
+Nicaragua,2006,Central America and the Caribbean,129494,5570129,3.9999999E-2
+Nicaragua,2007,Central America and the Caribbean,129494,5675356,0.037
+Nicaragua,2008,Central America and the Caribbean,129494,5675356,2.8999999E-2
+Nicaragua,2009,Central America and the Caribbean,129494,5891199,0.02
+Nicaragua,2011,Central America and the Caribbean,129494,5666301,4.5000002E-2
+Niger,1990,Africa,1,7969309,7.1000002E-2
+Niger,1993,Africa,1,8337352,1.8999999E-2
+Niger,1994,Africa,1,8971605,1.8999999E-2
+Niger,1995,Africa,1,9280208,0.014
+Niger,1996,Africa,1,9113001,6.7000002E-2
+Niger,1997,Africa,1,9388859,3.9999999E-2
+Niger,1998,Africa,1,9671848,4.5000002E-2
+Niger,1999,Africa,1,9962242,4.5000002E-2
+Niger,2000,Africa,1,10075511,0.02
+Niger,2001,Africa,1,10355156,0.035
+Niger,2002,Africa,1,10639744,3.0999999E-2
+Niger,2003,Africa,1,11058590,2.8999999E-2
+Niger,2004,Africa,1,11360538,3.7999999E-2
+Niger,2005,Africa,1,11665937,0.035
+Niger,2006,Africa,1,12525094,0.07
+Niger,2007,Africa,1,12924865,0.035
+Niger,2008,Africa,1,12894865,4.5000002E-2
+Niger,2009,Africa,1,15306252,0.059
+Niger,2011,Africa,1,16468886,7.5000003E-2
+Nigeria,1989,Africa,923770,115315902,
+Nigeria,1990,Africa,923770,118819377,
+Nigeria,1991,Africa,923770,122470574,2.7000001E-2
+Nigeria,1992,Africa,923770,126274589,5.2000001E-2
+Nigeria,1993,Africa,923770,95060430,3.5999998E-2
+Nigeria,1994,Africa,923770,98091097,4.1000001E-2
+Nigeria,1996,Africa,923770,103912489,2.6000001E-2
+Nigeria,1997,Africa,923770,107129469,2.9999999E-2
+Nigeria,1998,Africa,923770,110532242,0.033
+Nigeria,1999,Africa,923770,113828587,1.6000001E-2
+Nigeria,2000,Africa,923770,123337822,2.7000001E-2
+Nigeria,2001,Africa,923770,126635626,0.035
+Nigeria,2002,Africa,923770,129934911,0.035
+Nigeria,2003,Africa,923770,133881703,3.2000002E-2
+Nigeria,2004,Africa,923770,137253133,7.1000002E-2
+Nigeria,2005,Africa,923770,128771988,6.1999999E-2
+Nigeria,2006,Africa,923770,131859731,6.8999998E-2
+Nigeria,2007,Africa,923770,135031164,5.2999999E-2
+Nigeria,2008,Africa,923770,135031164,6.1000001E-2
+Nigeria,2009,Africa,923770,149229090,6.1000001E-2
+Nigeria,2010,Africa,923770,152217341,5.6000002E-2
+Nigeria,2011,Africa,923770,155215573,8.3999999E-2
+Niue,1989,Oceania,260,2112,
+Niue,1990,Oceania,260,2019,
+Niue,1991,Oceania,260,1908,
+Niue,1992,Oceania,260,1751,
+Niue,1993,Oceania,260,1977,
+Niue,1994,Oceania,260,1906,
+Niue,1995,Oceania,260,1837,
+Niue,1996,Oceania,260,2174,
+Niue,1997,Oceania,260,1708,
+Niue,1998,Oceania,260,1647,
+Niue,1999,Oceania,260,2103,
+Niue,2000,Oceania,260,2113,
+Niue,2001,Oceania,260,2124,
+Niue,2006,Oceania,260,2166,6.1999999E-2
+Niue,2007,Oceania,260,31492,6.1999999E-2
+Niue,2008,Oceania,260,1492,6.1999999E-2
+Niue,2009,Oceania,260,1398,6.1999999E-2
+Niue,2010,Oceania,260,1354,6.1999999E-2
+Niue,2011,Oceania,260,1311,6.1999999E-2
+Norway,1989,Europe,324220,4202502,0.013
+Norway,1990,Europe,324220,4252806,0.057
+Norway,1991,Europe,324220,4273442,3.0999999E-2
+Norway,1992,Europe,324220,4294876,4.1000001E-2
+Norway,1993,Europe,324220,4297436,2.8999999E-2
+Norway,1994,Europe,324220,4314604,1.6000001E-2
+Norway,1995,Europe,324220,4330951,0.055
+Norway,1996,Europe,324220,4383807,4.5000002E-2
+Norway,1997,Europe,324220,4399993,0.048
+Norway,1998,Europe,324220,4419955,0.035
+Norway,1999,Europe,324220,4438547,0.024
+Norway,2000,Europe,324220,4481162,8.0000004E-3
+Norway,2001,Europe,324220,4503440,2.7000001E-2
+Norway,2002,Europe,324220,4525116,0.013
+Norway,2003,Europe,324220,4546123,9.9999998E-3
+Norway,2004,Europe,324220,4574560,6.0000001E-3
+Norway,2005,Europe,324220,4593041,0.033
+Norway,2006,Europe,324220,4610820,3.9999999E-2
+Norway,2007,Europe,324220,4627926,0.046
+Norway,2008,Europe,324220,4627926,4.8999999E-2
+Norway,2009,Europe,324220,4660539,1.7999999E-2
+Norway,2011,Europe,324220,4691849,4.0000002E-3
+Oman,1989,Middle East,212460,1304882,3.5999998E-2
+Oman,1992,Middle East,212460,1587581,4.9999999E-3
+Oman,1993,Middle East,212460,1643579,7.4000001E-2
+Oman,1994,Middle East,212460,1701470,6.1000001E-2
+Oman,1995,Middle East,212460,2125089,4.9999999E-3
+Oman,1996,Middle East,212460,2186548,0.035
+Oman,1997,Middle East,212460,2264590,6.4999998E-2
+Oman,1998,Middle East,212460,2363591,0.035
+Oman,2000,Middle East,212460,2533389,3.9999999E-2
+Oman,2001,Middle East,212460,2622198,0.046
+Oman,2002,Middle East,212460,2713462,7.4000001E-2
+Oman,2003,Middle East,212460,2807125,0.022
+Oman,2004,Middle East,212460,2903165,0.011
+Oman,2005,Middle East,212460,3001583,0.012
+Oman,2006,Middle East,212460,3102229,5.6000002E-2
+Oman,2007,Middle East,212460,3204897,0.066
+Oman,2008,Middle East,212460,3204897,5.2999999E-2
+Oman,2009,Middle East,212460,3418085,6.7000002E-2
+Oman,2010,Middle East,212460,2967717,0.02
+Oman,2011,Middle East,212460,3027959,4.1999999E-2
+Pakistan,1989,Asia,803940,110407376,
+Pakistan,1990,Asia,803940,114649406,
+Pakistan,1991,Asia,803940,117490278,
+Pakistan,1992,Asia,803940,121664539,
+Pakistan,1993,Asia,803940,125213732,6.4000003E-2
+Pakistan,1994,Asia,803940,128855965,2.9999999E-2
+Pakistan,1995,Asia,803940,131541920,3.9999999E-2
+Pakistan,1996,Asia,803940,129275660,4.6999998E-2
+Pakistan,1997,Asia,803940,132185299,0.055
+Pakistan,1998,Asia,803940,135135195,3.0999999E-2
+Pakistan,1999,Asia,803940,138123359,5.0000001E-2
+Pakistan,2000,Asia,803940,141553775,3.0999999E-2
+Pakistan,2001,Asia,803940,144616639,0.048
+Pakistan,2002,Asia,803940,147663429,0.033
+Pakistan,2003,Asia,803940,150694740,0.044
+Pakistan,2004,Asia,803940,159196336,0.055
+Pakistan,2005,Asia,803940,162419946,6.1000001E-2
+Pakistan,2006,Asia,803940,165803560,0.066
+Pakistan,2007,Asia,803940,164741924,0.066
+Pakistan,2008,Asia,803940,164741924,6.3000001E-2
+Pakistan,2009,Asia,803940,176242949,5.7999998E-2
+Pakistan,2010,Asia,803940,184404791,4.3000001E-2
+Pakistan,2011,Asia,803940,187342721,0.048
+Palau,1989,Oceania,458,,
+Palau,1990,Oceania,458,,
+Palau,1991,Oceania,458,,
+Palau,1992,Oceania,458,,
+Palau,1993,Oceania,458,,
+Palau,1994,Oceania,458,,
+Palau,1995,Oceania,458,16661,
+Palau,1996,Oceania,458,16952,
+Palau,1997,Oceania,458,17240,
+Palau,1998,Oceania,458,18110,0.1
+Palau,1999,Oceania,458,18467,0.1
+Palau,2000,Oceania,458,18766,0.1
+Palau,2002,Oceania,458,19409,9.9999998E-3
+Palau,2003,Oceania,458,19717,9.9999998E-3
+Palau,2004,Oceania,458,20016,9.9999998E-3
+Palau,2005,Oceania,458,20303,9.9999998E-3
+Palau,2006,Oceania,458,20579,0.055
+Palau,2007,Oceania,458,50842,0.055
+Palau,2008,Oceania,458,20842,0.055
+Palau,2009,Oceania,458,20796,0.055
+Palau,2010,Oceania,458,20879,
+Palau,2011,Oceania,458,20956,
+Panama,1991,Central America and the Caribbean,78200,2476281,5.0000001E-2
+Panama,1992,Central America and the Caribbean,78200,2529902,9.3000002E-2
+Panama,1993,Central America and the Caribbean,78200,2579047,7.9999998E-2
+Panama,1994,Central America and the Caribbean,78200,2630000,0.059
+Panama,1995,Central America and the Caribbean,78200,2680903,3.5999998E-2
+Panama,1996,Central America and the Caribbean,78200,2655094,2.8000001E-2
+Panama,1997,Central America and the Caribbean,78200,2693417,0.015
+Panama,1998,Central America and the Caribbean,78200,2735943,3.5999998E-2
+Panama,1999,Central America and the Caribbean,78200,2778526,2.7000001E-2
+Panama,2000,Central America and the Caribbean,78200,2808268,0.044
+Panama,2001,Central America and the Caribbean,78200,2845647,0.025
+Panama,2002,Central America and the Caribbean,78200,2882329,0.014
+Panama,2003,Central America and the Caribbean,78200,2960784,7.0000002E-3
+Panama,2004,Central America and the Caribbean,78200,3000463,4.1000001E-2
+Panama,2005,Central America and the Caribbean,78200,3039150,5.9999999E-2
+Panama,2006,Central America and the Caribbean,78200,3191319,6.4000003E-2
+Panama,2007,Central America and the Caribbean,78200,3242173,0.081
+Panama,2008,Central America and the Caribbean,78200,3242173,7.8000002E-2
+Panama,2009,Central America and the Caribbean,78200,3360474,8.2999997E-2
+Panama,2010,Central America and the Caribbean,78200,3410676,0.024
+Panama,2011,Central America and the Caribbean,78200,3460462,7.5000003E-2
+Papua New Guinea,1989,Oceania,461690,3736386,2.8999999E-2
+Papua New Guinea,1990,Oceania,461690,3822875,0.012
+Papua New Guinea,1992,Oceania,461690,4006509,9.0000004E-2
+Papua New Guinea,1993,Oceania,461690,,8.5000001E-2
+Papua New Guinea,1994,Oceania,461690,4196806,0.012
+Papua New Guinea,1995,Oceania,461690,4294750,6.1000001E-2
+Papua New Guinea,1997,Oceania,461690,4496221,0.023
+Papua New Guinea,1998,Oceania,461690,4599785,0.023
+Papua New Guinea,1999,Oceania,461690,4705126,1.6000001E-2
+Papua New Guinea,2000,Oceania,461690,4926984,3.5999998E-2
+Papua New Guinea,2001,Oceania,461690,5049055,2.8999999E-2
+Papua New Guinea,2004,Oceania,461690,5420280,0.014
+Papua New Guinea,2005,Oceania,461690,5545268,8.9999996E-3
+Papua New Guinea,2006,Oceania,461690,5670544,2.9999999E-2
+Papua New Guinea,2007,Oceania,461690,5795887,0.037
+Papua New Guinea,2008,Oceania,461690,5795887,3.9999999E-2
+Papua New Guinea,2009,Oceania,461690,6057263,6.3000001E-2
+Papua New Guinea,2010,Oceania,461690,6064515,0.055
+Papua New Guinea,2011,Oceania,461690,6187591,0.07
+Paraguay,1989,South America,406750,4522172,2.9999999E-2
+Paraguay,1990,South America,406750,4660270,5.2000001E-2
+Paraguay,1991,South America,406750,4798739,0.035
+Paraguay,1992,South America,406750,4929446,2.9999999E-2
+Paraguay,1993,South America,406750,5070856,1.7000001E-2
+Paraguay,1994,South America,406750,5213772,0.035
+Paraguay,1995,South America,406750,5358198,0.035
+Paraguay,1996,South America,406750,5504146,4.1999999E-2
+Paraguay,1997,South America,406750,5651634,0.015
+Paraguay,1998,South America,406750,5291020,2.6000001E-2
+Paraguay,2001,South America,406750,5734139,9.9999998E-3
+Paraguay,2002,South America,406750,5884491,0
+Paraguay,2004,South America,406750,6191368,1.7999999E-2
+Paraguay,2005,South America,406750,6347884,2.8000001E-2
+Paraguay,2006,South America,406750,6506464,2.7000001E-2
+Paraguay,2007,South America,406750,6669086,3.9999999E-2
+Paraguay,2008,South America,406750,6669086,4.5000002E-2
+Paraguay,2009,South America,406750,6995655,0.055
+Paraguay,2011,South America,406750,6459058,0.153
+Peru,1992,South America,1285220,22767543,0.024
+Peru,1994,South America,1285220,23650671,5.9999999E-2
+Peru,1995,South America,1285220,24087372,8.6000003E-2
+Peru,1996,South America,1285220,24523408,6.8000004E-2
+Peru,1997,South America,1285220,25573924,2.8000001E-2
+Peru,1998,South America,1285220,26111110,7.2999999E-2
+Peru,1999,South America,1285220,26624582,1.7999999E-2
+Peru,2000,South America,1285220,27012899,0.024
+Peru,2001,South America,1285220,27483864,3.5999998E-2
+Peru,2003,South America,1285220,28409897,5.2999999E-2
+Peru,2004,South America,1285220,27544305,3.9999999E-2
+Peru,2005,South America,1285220,27925628,4.5000002E-2
+Peru,2006,South America,1285220,28302603,6.4000003E-2
+Peru,2007,South America,1285220,28674757,7.9999998E-2
+Peru,2008,South America,1285220,28674757,7.5000003E-2
+Peru,2009,South America,1285220,29546963,0.092
+Peru,2010,South America,1285220,29907003,8.9999996E-3
+Peru,2011,South America,1285220,29248943,0.088
+Philippines,1989,Southeast Asia,300000,64906990,
+Philippines,1990,Southeast Asia,300000,66117284,
+Philippines,1991,Southeast Asia,300000,65758788,
+Philippines,1992,Southeast Asia,300000,67114060,
+Philippines,1993,Southeast Asia,300000,68464368,6.0000001E-3
+Philippines,1994,Southeast Asia,300000,69808930,0.014
+Philippines,1995,Southeast Asia,300000,73265584,4.3000001E-2
+Philippines,1996,Southeast Asia,300000,74480848,0.048
+Philippines,1997,Southeast Asia,300000,76103564,0.055
+Philippines,1998,Southeast Asia,300000,77725862,5.0999999E-2
+Philippines,2000,Southeast Asia,300000,81159644,2.8999999E-2
+Philippines,2001,Southeast Asia,300000,82841518,3.5999998E-2
+Philippines,2002,Southeast Asia,300000,84525639,2.8000001E-2
+Philippines,2003,Southeast Asia,300000,84619974,0.044
+Philippines,2004,Southeast Asia,300000,86241697,4.5000002E-2
+Philippines,2005,Southeast Asia,300000,87857473,0.059
+Philippines,2006,Southeast Asia,300000,89468677,0.048
+Philippines,2007,Southeast Asia,300000,91077287,5.4000001E-2
+Philippines,2008,Southeast Asia,300000,91077287,7.2999999E-2
+Philippines,2009,Southeast Asia,300000,97976603,0.046
+Philippines,2010,Southeast Asia,300000,99900177,0.011
+Philippines,2011,Southeast Asia,300000,101833938,7.2999999E-2
+Poland,1989,Ethnic Groups in Eastern Europe, Europe,312680,38169841,
+Poland,1990,Ethnic Groups in Eastern Europe, Europe,312680,37776725,
+Poland,1991,Ethnic Groups in Eastern Europe, Europe,312680,37799638,
+Poland,1993,Ethnic Groups in Eastern Europe, Europe,312680,38519486,0.02
+Poland,1994,Ethnic Groups in Eastern Europe, Europe,312680,38654561,4.1000001E-2
+Poland,1995,Ethnic Groups in Eastern Europe, Europe,312680,38792442,0.055
+Poland,1996,Ethnic Groups in Eastern Europe, Europe,312680,38642565,6.4999998E-2
+Poland,1997,Ethnic Groups in Eastern Europe, Europe,312680,38615239,5.9999999E-2
+Poland,1998,Ethnic Groups in Eastern Europe, Europe,312680,38606922,6.8999998E-2
+Poland,1999,Ethnic Groups in Eastern Europe, Europe,312680,38608929,5.6000002E-2
+Poland,2000,Ethnic Groups in Eastern Europe, Europe,312680,38646023,3.7999999E-2
+Poland,2001,Ethnic Groups in Eastern Europe, Europe,312680,38633912,0.048
+Poland,2002,Ethnic Groups in Eastern Europe, Europe,312680,38625478,0.015
+Poland,2003,Ethnic Groups in Eastern Europe, Europe,312680,38622660,0.014
+Poland,2004,Ethnic Groups in Eastern Europe, Europe,312680,38626349,0.037
+Poland,2005,Ethnic Groups in Eastern Europe, Europe,312680,38635144,5.6000002E-2
+Poland,2006,Ethnic Groups in Eastern Europe, Europe,312680,38536869,3.4000002E-2
+Poland,2007,Ethnic Groups in Eastern Europe, Europe,312680,38518241,5.7999998E-2
+Poland,2008,Ethnic Groups in Eastern Europe, Europe,312680,38518241,6.4999998E-2
+Poland,2009,Ethnic Groups in Eastern Europe, Europe,312680,38482919,0.048
+Poland,2010,Ethnic Groups in Eastern Europe, Europe,312680,38463689,1.7000001E-2
+Poland,2011,Ethnic Groups in Eastern Europe, Europe,312680,38441588,3.7999999E-2
+Portugal,1989,Europe,92080,10459701,5.0000001E-2
+Portugal,1990,Europe,92080,10354497,0.035
+Portugal,1991,Europe,92080,10387617,0.035
+Portugal,1992,Europe,92080,10448509,2.7000001E-2
+Portugal,1993,Europe,92080,10486140,0.011
+Portugal,1995,Europe,92080,10562388,0.014
+Portugal,1996,Europe,92080,9865114,2.8000001E-2
+Portugal,1997,Europe,92080,9931045,0.025
+Portugal,1998,Europe,92080,9927556,0.033
+Portugal,1999,Europe,92080,9918040,4.1999999E-2
+Portugal,2000,Europe,92080,10048232,3.2000002E-2
+Portugal,2001,Europe,92080,10066253,2.7000001E-2
+Portugal,2002,Europe,92080,10084245,1.7000001E-2
+Portugal,2003,Europe,92080,10102022,4.0000002E-3
+Portugal,2005,Europe,92080,10566212,0.011
+Portugal,2006,Europe,92080,10605870,4.0000002E-3
+Portugal,2007,Europe,92080,10642836,0.013
+Portugal,2008,Europe,92080,10642836,1.7000001E-2
+Portugal,2009,Europe,92080,10707924,2.0000001E-3
+Portugal,2011,Europe,92080,10760305,0.014
+Puerto Rico,1989,Central America and the Caribbean,9104,3300707,
+Puerto Rico,1990,Central America and the Caribbean,9104,3291207,
+Puerto Rico,1991,Central America and the Caribbean,9104,3294997,
+Puerto Rico,1992,Central America and the Caribbean,9104,3776654,
+Puerto Rico,1993,Central America and the Caribbean,9104,3797082,0.022
+Puerto Rico,1994,Central America and the Caribbean,9104,3801977,
+Puerto Rico,1995,Central America and the Caribbean,9104,3812569,2.6000001E-2
+Puerto Rico,1996,Central America and the Caribbean,9104,3819023,0.033
+Puerto Rico,1997,Central America and the Caribbean,9104,3828506,2.9999999E-2
+Puerto Rico,1998,Central America and the Caribbean,9104,3857070,2.9999999E-2
+Puerto Rico,1999,Central America and the Caribbean,9104,3887652,3.0999999E-2
+Puerto Rico,2000,Central America and the Caribbean,9104,3915798,4.1999999E-2
+Puerto Rico,2001,Central America and the Caribbean,9104,3937316,2.8000001E-2
+Puerto Rico,2002,Central America and the Caribbean,9104,3957988,0.022
+Puerto Rico,2004,Central America and the Caribbean,9104,3897960,1.6000001E-2
+Puerto Rico,2005,Central America and the Caribbean,9104,3916632,2.7000001E-2
+Puerto Rico,2006,Central America and the Caribbean,9104,3927188,0.025
+Puerto Rico,2007,Central America and the Caribbean,9104,3974259,4.9999999E-3
+Qatar,1989,Middle East,11000,468632,9.0000004E-2
+Qatar,1990,Middle East,11000,490897,9.0000004E-2
+Qatar,1991,Middle East,11000,518478,5.0000001E-2
+Qatar,1992,Middle East,11000,484387,
+Qatar,1993,Middle East,11000,499115,2.9999999E-2
+Qatar,1997,Middle East,11000,670274,0.025
+Qatar,1998,Middle East,11000,697126,0.1
+Qatar,2000,Middle East,11000,744483,0.015
+Qatar,2001,Middle East,11000,769152,3.9999999E-2
+Qatar,2002,Middle East,11000,793341,5.6000002E-2
+Qatar,2003,Middle East,11000,817052,0.046
+Qatar,2004,Middle East,11000,840290,8.5000001E-2
+Qatar,2005,Middle East,11000,863051,8.6999997E-2
+Qatar,2006,Middle East,11000,885359,0.088
+Qatar,2007,Middle East,11000,907229,7.1000002E-2
+Qatar,2008,Middle East,11000,907229,7.8000002E-2
+Qatar,2009,Middle East,11000,833285,0.112
+Qatar,2010,Middle East,11000,840926,9.4999999E-2
+Qatar,2011,Middle East,11000,848016,0.163
+Reunion,1989,World,2510,565548,
+Reunion,1990,World,2510,595583,9.0000004E-2
+Reunion,1991,World,2510,607086,9.0000004E-2
+Reunion,1992,World,2510,626414,9.0000004E-2
+Reunion,1993,World,2510,639622,9.0000004E-2
+Reunion,1994,World,2510,652857,
+Reunion,1995,World,2510,666067,
+Reunion,1996,World,2510,679198,2.7000001E-2
+Reunion,1997,World,2510,692204,2.7000001E-2
+Reunion,1998,World,2510,705053,3.9999999E-2
+Reunion,1999,World,2510,717723,3.7999999E-2
+Reunion,2000,World,2510,720934,3.7999999E-2
+Reunion,2001,World,2510,732570,3.7999999E-2
+Reunion,2002,World,2510,743981,3.7999999E-2
+Reunion,2003,World,2510,755171,0.025
+Reunion,2004,World,2510,766153,0.025
+Reunion,2005,World,2510,776948,0.025
+Reunion,2006,World,2510,787584,0.025
+Reunion,2007,World,2510,,
+Reunion,2008,World,2510,,
+Reunion,2009,World,2510,,
+Reunion,2010,World,2510,,
+Reunion,2011,World,2510,,
+Romania,1989,Ethnic Groups in Eastern Europe, Europe,237500,23153475,
+Romania,1990,Ethnic Groups in Eastern Europe, Europe,237500,23273285,
+Romania,1991,Ethnic Groups in Eastern Europe, Europe,237500,23397054,
+Romania,1994,Ethnic Groups in Eastern Europe, Europe,237500,23181415,9.9999998E-3
+Romania,1995,Ethnic Groups in Eastern Europe, Europe,237500,23198330,3.4000002E-2
+Romania,1996,Ethnic Groups in Eastern Europe, Europe,237500,21657162,5.4000001E-2
+Romania,1997,Ethnic Groups in Eastern Europe, Europe,237500,22463077,4.1000001E-2
+Romania,2001,Ethnic Groups in Eastern Europe, Europe,237500,22364022,0.022
+Romania,2002,Ethnic Groups in Eastern Europe, Europe,237500,22317730,0.048
+Romania,2003,Ethnic Groups in Eastern Europe, Europe,237500,22271839,4.8999999E-2
+Romania,2004,Ethnic Groups in Eastern Europe, Europe,237500,22355551,4.8999999E-2
+Romania,2005,Ethnic Groups in Eastern Europe, Europe,237500,22329977,0.081
+Romania,2006,Ethnic Groups in Eastern Europe, Europe,237500,22303552,4.1000001E-2
+Romania,2007,Ethnic Groups in Eastern Europe, Europe,237500,22276056,0.077
+Romania,2008,Ethnic Groups in Eastern Europe, Europe,237500,22276056,0.059
+Romania,2009,Ethnic Groups in Eastern Europe, Europe,237500,22215421,7.5999998E-2
+Russia,1989,Europe, Asia,17125187,147400537,
+Russia,1990,Europe, Asia,17125187,147665081,
+Russia,1991,Europe, Asia,17125187,148273746,
+Russia,1994,Europe, Asia,17125187,148355867,2.9999999E-2
+Russia,1998,Europe, Asia,17125187,147802133,5.4000001E-2
+Russia,1999,Europe, Asia,17125187,147539426,0.057
+Russia,2000,Europe, Asia,17125187,146890128,0.035
+Russia,2001,Europe, Asia,17125187,146303611,0.055
+Russia,2002,Europe, Asia,17125187,145166731,8.3999999E-2
+Russia,2003,Europe, Asia,17125187,144963650,8.9000002E-2
+Russia,2004,Europe, Asia,17125187,144168205,0.012
+Russia,2005,Europe, Asia,17125187,143474219,6.1999999E-2
+Russia,2006,Europe, Asia,17125187,142753551,0.012
+Russia,2007,Europe, Asia,17125187,142220968,8.2000002E-2
+Russia,2008,Europe, Asia,17125187,142008838,3.4000002E-2
+Russia,2009,Europe, Asia,17125187,141903979,5.4000001E-2
+Russia,2010,Europe, Asia,17125187,142856536,6.4000003E-2
+Russia,2011,Europe, Asia,17125187,142865433,0.021
+Rwanda,1989,Africa,26340,7322039,
+Rwanda,1993,Africa,26340,8139272,0.013
+Rwanda,1994,Africa,26340,,
+Rwanda,1997,Africa,26340,7737537,
+Rwanda,1998,Africa,26340,7956172,0.133
+Rwanda,1999,Africa,26340,8154933,0.105
+Rwanda,2000,Africa,26340,7229129,5.2999999E-2
+Rwanda,2001,Africa,26340,7312756,5.7999998E-2
+Rwanda,2002,Africa,26340,7398074,5.0000001E-2
+Rwanda,2003,Africa,26340,7810056,9.7000003E-2
+Rwanda,2004,Africa,26340,7954013,0.035
+Rwanda,2005,Africa,26340,8440820,8.9999996E-3
+Rwanda,2006,Africa,26340,8648248,5.2000001E-2
+Rwanda,2007,Africa,26340,9907509,5.7999998E-2
+Rwanda,2008,Africa,26340,9907509,5.9999999E-2
+Rwanda,2009,Africa,26340,10473282,7.5000003E-2
+Rwanda,2010,Africa,26340,11055976,4.5000002E-2
+Rwanda,2011,Africa,26340,11370425,6.4999998E-2
+Saint Lucia,1989,Central America and the Caribbean,620,149577,0.021
+Saint Lucia,1990,Central America and the Caribbean,620,153196,6.8000004E-2
+Saint Lucia,1991,Central America and the Caribbean,620,153075,3.9999999E-2
+Saint Lucia,1992,Central America and the Caribbean,620,151774,3.9999999E-2
+Saint Lucia,1993,Central America and the Caribbean,620,144337,0.025
+Saint Lucia,1994,Central America and the Caribbean,620,145090,0.066
+Saint Lucia,1995,Central America and the Caribbean,620,156050,0.02
+Saint Lucia,1996,Central America and the Caribbean,620,157862,0.02
+Saint Lucia,1997,Central America and the Caribbean,620,150630,4.3000001E-2
+Saint Lucia,1998,Central America and the Caribbean,620,152335,8.0000004E-3
+Saint Lucia,1999,Central America and the Caribbean,620,154020,0.022
+Saint Lucia,2000,Central America and the Caribbean,620,156260,2.8999999E-2
+Saint Lucia,2001,Central America and the Caribbean,620,158178,4.9999999E-3
+Saint Lucia,2003,Central America and the Caribbean,620,162157,0.033
+Saint Lucia,2004,Central America and the Caribbean,620,164213,0.033
+Saint Lucia,2005,Central America and the Caribbean,620,166312,0.033
+Saint Lucia,2006,Central America and the Caribbean,620,168458,5.0999999E-2
+Saint Lucia,2007,Central America and the Caribbean,620,200649,5.0999999E-2
+Saint Lucia,2008,Central America and the Caribbean,620,170649,5.0999999E-2
+Saint Lucia,2009,Central America and the Caribbean,620,160267,0.023
+Saint Lucia,2011,Central America and the Caribbean,620,161557,8.0000004E-3
+San Marino,1989,Europe,60,22980,
+San Marino,1990,Europe,60,23123,
+San Marino,1991,Europe,60,23264,0.02
+San Marino,1992,Europe,60,23404,
+San Marino,1993,Europe,60,23855,
+San Marino,1994,Europe,60,24091,
+San Marino,1995,Europe,60,24313,0.024
+San Marino,1996,Europe,60,24521,0.024
+San Marino,1997,Europe,60,24714,0.048
+San Marino,1998,Europe,60,24894,0.048
+San Marino,1999,Europe,60,25061,
+San Marino,2000,Europe,60,26937,
+San Marino,2001,Europe,60,27336,7.9999998E-2
+San Marino,2002,Europe,60,27730,7.5000003E-2
+San Marino,2003,Europe,60,28119,7.5000003E-2
+San Marino,2004,Europe,60,28503,7.5000003E-2
+San Marino,2005,Europe,60,28880,7.5000003E-2
+San Marino,2006,Europe,60,29251,0.023
+San Marino,2007,Europe,60,59615,0.046
+San Marino,2008,Europe,60,29615,0.046
+San Marino,2009,Europe,60,30324,4.3000001E-2
+San Marino,2010,Europe,60,31477,4.3000001E-2
+Sao Tome and Principe,1989,Africa,960,120993,1.7999999E-2
+Sao Tome and Principe,1990,Africa,960,124765,1.7999999E-2
+Sao Tome and Principe,1991,Africa,960,128499,0.015
+Sao Tome and Principe,1992,Africa,960,132338,0.015
+Sao Tome and Principe,1993,Africa,960,133225,0.015
+Sao Tome and Principe,1994,Africa,960,136780,0.015
+Sao Tome and Principe,1995,Africa,960,140423,
+Sao Tome and Principe,1996,Africa,960,144128,0.015
+Sao Tome and Principe,1997,Africa,960,147865,2.6000001E-2
+Sao Tome and Principe,1998,Africa,960,150123,0.015
+Sao Tome and Principe,1999,Africa,960,154878,0.025
+Sao Tome and Principe,2000,Africa,960,159883,0.015
+Sao Tome and Principe,2001,Africa,960,165034,2.9999999E-2
+Sao Tome and Principe,2002,Africa,960,170372,3.9999999E-2
+Sao Tome and Principe,2003,Africa,960,175883,3.9999999E-2
+Sao Tome and Principe,2004,Africa,960,181565,5.0000001E-2
+Sao Tome and Principe,2005,Africa,960,187410,5.9999999E-2
+Sao Tome and Principe,2006,Africa,960,193413,5.9999999E-2
+Sao Tome and Principe,2007,Africa,960,229579,0.044
+Sao Tome and Principe,2008,Africa,960,199579,6.4999998E-2
+Sao Tome and Principe,2009,Africa,960,212679,0.055
+Sao Tome and Principe,2010,Africa,960,175808,3.9999999E-2
+Sao Tome and Principe,2011,Africa,960,179506,4.5000002E-2
+Saudi Arabia,1989,Middle East,1960582,16108539,
+Saudi Arabia,1990,Middle East,1960582,17115728,3.2000002E-2
+Saudi Arabia,1991,Middle East,1960582,17869558,4.9999999E-3
+Saudi Arabia,1992,Middle East,1960582,17050934,0.015
+Saudi Arabia,1993,Middle East,1960582,17615310,3.5999998E-2
+Saudi Arabia,1994,Middle East,1960582,18196783,9.9999998E-3
+Saudi Arabia,1996,Middle East,1960582,19409058,0
+Saudi Arabia,1997,Middle East,1960582,20087965,5.9999999E-2
+Saudi Arabia,1998,Middle East,1960582,20785955,3.9999999E-2
+Saudi Arabia,2000,Middle East,1960582,22023506,1.6000001E-2
+Saudi Arabia,2001,Middle East,1960582,22757092,3.9999999E-2
+Saudi Arabia,2002,Middle East,1960582,23513330,1.6000001E-2
+Saudi Arabia,2003,Middle East,1960582,24293844,9.9999998E-3
+Saudi Arabia,2004,Middle East,1960582,25795938,5.2999999E-2
+Saudi Arabia,2005,Middle East,1960582,26417599,5.0000001E-2
+Saudi Arabia,2006,Middle East,1960582,27019731,6.4999998E-2
+Saudi Arabia,2007,Middle East,1960582,27601038,0.024
+Saudi Arabia,2008,Middle East,1960582,27601038,4.6999998E-2
+Saudi Arabia,2009,Middle East,1960582,28686633,4.1999999E-2
+Saudi Arabia,2010,Middle East,1960582,25731776,0.001
+Saudi Arabia,2011,Middle East,1960582,26131703,0.037
+Senegal,1989,Africa,196190,7506197,4.1999999E-2
+Senegal,1990,Africa,196190,7713851,5.0999999E-2
+Senegal,1991,Africa,196190,7952657,6.0000001E-3
+Senegal,1992,Africa,196190,8205058,3.5999998E-2
+Senegal,1993,Africa,196190,8463225,0.012
+Senegal,1994,Africa,196190,8730508,0.012
+Senegal,1996,Africa,196190,9092749,4.5000002E-2
+Senegal,1997,Africa,196190,9403546,5.0000001E-2
+Senegal,1998,Africa,196190,9723149,4.6999998E-2
+Senegal,1999,Africa,196190,10051930,0.057
+Senegal,2000,Africa,196190,9987494,5.0000001E-2
+Senegal,2001,Africa,196190,10284929,0.057
+Senegal,2002,Africa,196190,10589571,0.057
+Senegal,2003,Africa,196190,10580307,0.024
+Senegal,2004,Africa,196190,10852147,0.055
+Senegal,2005,Africa,196190,11126832,3.2000002E-2
+Senegal,2006,Africa,196190,11987121,6.1000001E-2
+Senegal,2007,Africa,196190,12521851,0.02
+Senegal,2008,Africa,196190,12521851,0.046
+Senegal,2009,Africa,196190,13711597,4.6999998E-2
+Senegal,2010,Africa,196190,12323252,1.7999999E-2
+Senegal,2011,Africa,196190,12643799,4.1999999E-2
+Seychelles,1989,Africa,455,69719,0.014
+Seychelles,1990,Africa,455,68336,6.1999999E-2
+Seychelles,1991,Africa,455,68932,0.07
+Seychelles,1994,Africa,455,72113,3.9999999E-2
+Seychelles,1997,Africa,455,78107,0.011
+Seychelles,1998,Africa,455,78641,
+Seychelles,1999,Africa,455,79164,4.3000001E-2
+Seychelles,2000,Africa,455,79326,1.7999999E-2
+Seychelles,2001,Africa,455,79715,0.015
+Seychelles,2002,Africa,455,80098,0.015
+Seychelles,2003,Africa,455,80469,0.015
+Seychelles,2004,Africa,455,80832,0.015
+Seychelles,2005,Africa,455,81188,0.015
+Seychelles,2008,Africa,455,81895,5.7999998E-2
+Seychelles,2009,Africa,455,87476,3.0999999E-2
+Seychelles,2010,Africa,455,88340,7.0000002E-3
+Seychelles,2011,Africa,455,89188,6.1999999E-2
+Sierra Leone,1989,Africa,71740,4063519,1.7999999E-2
+Sierra Leone,1990,Africa,71740,4165953,1.7999999E-2
+Sierra Leone,1991,Africa,71740,4274543,1.7999999E-2
+Sierra Leone,1992,Africa,71740,4456737,2.9999999E-2
+Sierra Leone,1994,Africa,71740,4630037,
+Sierra Leone,1995,Africa,71740,4753120,7.0000002E-3
+Sierra Leone,1997,Africa,71740,4891546,5.0000001E-2
+Sierra Leone,1999,Africa,71740,5296651,7.0000002E-3
+Sierra Leone,2001,Africa,71740,5426618,4.1999999E-2
+Sierra Leone,2002,Africa,71740,5614743,2.9999999E-2
+Sierra Leone,2003,Africa,71740,5732681,0.066
+Sierra Leone,2004,Africa,71740,5883889,6.4999998E-2
+Sierra Leone,2005,Africa,71740,6017643,5.9999999E-2
+Sierra Leone,2006,Africa,71740,6005250,7.5000003E-2
+Sierra Leone,2007,Africa,71740,6144562,7.1000002E-2
+Sierra Leone,2008,Africa,71740,6144562,6.8000004E-2
+Sierra Leone,2009,Africa,71740,6440053,5.9999999E-2
+Sierra Leone,2010,Africa,71740,5245695,0.044
+Sierra Leone,2011,Africa,71740,5363669,5.0000001E-2
+Singapore,1989,Southeast Asia,632,2674362,0.109
+Singapore,1990,Southeast Asia,632,2720915,0.092
+Singapore,1991,Southeast Asia,632,2756330,8.2999997E-2
+Singapore,1992,Southeast Asia,632,2792092,6.4999998E-2
+Singapore,1993,Southeast Asia,632,2826331,5.7999998E-2
+Singapore,1994,Southeast Asia,632,2859142,9.8999999E-2
+Singapore,1995,Southeast Asia,632,2890468,0.101
+Singapore,1996,Southeast Asia,632,3396924,8.9000002E-2
+Singapore,1997,Southeast Asia,632,3440693,6.4999998E-2
+Singapore,1998,Southeast Asia,632,3490356,5.9999999E-2
+Singapore,1999,Southeast Asia,632,3531600,0.013
+Singapore,2000,Southeast Asia,632,4151264,0.055
+Singapore,2001,Southeast Asia,632,4300419,0.101
+Singapore,2003,Southeast Asia,632,4608595,0.022
+Singapore,2004,Southeast Asia,632,4353893,0.011
+Singapore,2005,Southeast Asia,632,4425720,0.081
+Singapore,2006,Southeast Asia,632,4492150,6.4000003E-2
+Singapore,2007,Southeast Asia,632,4583009,7.9000004E-2
+Singapore,2008,Southeast Asia,632,4553009,7.5000003E-2
+Singapore,2009,Southeast Asia,632,4657542,0.012
+Singapore,2011,Southeast Asia,632,4740737,0.145
+Slovakia,1989,Ethnic Groups in Eastern Europe, Europe,48845,,
+Slovakia,1990,Ethnic Groups in Eastern Europe, Europe,48845,,
+Slovakia,1991,Ethnic Groups in Eastern Europe, Europe,48845,,
+Slovakia,1992,Ethnic Groups in Eastern Europe, Europe,48845,,
+Slovakia,1995,Ethnic Groups in Eastern Europe, Europe,48845,5432383,4.3000001E-2
+Slovakia,1996,Ethnic Groups in Eastern Europe, Europe,48845,5374362,5.9999999E-2
+Slovakia,1997,Ethnic Groups in Eastern Europe, Europe,48845,5387665,0.07
+Slovakia,1998,Ethnic Groups in Eastern Europe, Europe,48845,5392982,0.059
+Slovakia,1999,Ethnic Groups in Eastern Europe, Europe,48845,5396193,5.0000001E-2
+Slovakia,2000,Ethnic Groups in Eastern Europe, Europe,48845,5407956,1.8999999E-2
+Slovakia,2001,Ethnic Groups in Eastern Europe, Europe,48845,5414937,0.022
+Slovakia,2002,Ethnic Groups in Eastern Europe, Europe,48845,5422366,2.9999999E-2
+Slovakia,2003,Ethnic Groups in Eastern Europe, Europe,48845,5430033,0.044
+Slovakia,2004,Ethnic Groups in Eastern Europe, Europe,48845,5423567,3.9000001E-2
+Slovakia,2005,Ethnic Groups in Eastern Europe, Europe,48845,5431363,5.2999999E-2
+Slovakia,2006,Ethnic Groups in Eastern Europe, Europe,48845,5439448,5.9999999E-2
+Slovakia,2007,Ethnic Groups in Eastern Europe, Europe,48845,5447502,8.2999997E-2
+Slovakia,2008,Ethnic Groups in Eastern Europe, Europe,48845,5447502,0.088
+Slovakia,2009,Ethnic Groups in Eastern Europe, Europe,48845,5463046,6.4000003E-2
+Slovakia,2011,Ethnic Groups in Eastern Europe, Europe,48845,5477038,3.9999999E-2
+Slovenia,1989,Ethnic Groups in Eastern Europe, Europe,20296,,
+Slovenia,1990,Ethnic Groups in Eastern Europe, Europe,20296,,
+Slovenia,1991,Ethnic Groups in Eastern Europe, Europe,20296,,
+Slovenia,1994,Ethnic Groups in Eastern Europe, Europe,20296,1972227,0
+Slovenia,1995,Ethnic Groups in Eastern Europe, Europe,20296,2051522,3.9999999E-2
+Slovenia,1996,Ethnic Groups in Eastern Europe, Europe,20296,1951443,0.048
+Slovenia,1997,Ethnic Groups in Eastern Europe, Europe,20296,1973096,2.9999999E-2
+Slovenia,1998,Ethnic Groups in Eastern Europe, Europe,20296,1971739,3.2499999E-2
+Slovenia,1999,Ethnic Groups in Eastern Europe, Europe,20296,1970570,3.5999998E-2
+Slovenia,2000,Ethnic Groups in Eastern Europe, Europe,20296,1927593,0.035
+Slovenia,2001,Ethnic Groups in Eastern Europe, Europe,20296,1930132,4.5000002E-2
+Slovenia,2002,Ethnic Groups in Eastern Europe, Europe,20296,1932917,3.9999999E-2
+Slovenia,2003,Ethnic Groups in Eastern Europe, Europe,20296,1935677,3.2000002E-2
+Slovenia,2004,Ethnic Groups in Eastern Europe, Europe,20296,2011473,0.023
+Slovenia,2005,Ethnic Groups in Eastern Europe, Europe,20296,2011070,3.9000001E-2
+Slovenia,2006,Ethnic Groups in Eastern Europe, Europe,20296,2010347,3.9999999E-2
+Slovenia,2007,Ethnic Groups in Eastern Europe, Europe,20296,2009245,5.2000001E-2
+Slovenia,2008,Ethnic Groups in Eastern Europe, Europe,20296,2009245,5.7999998E-2
+Slovenia,2009,Ethnic Groups in Eastern Europe, Europe,20296,2005692,4.3000001E-2
+Slovenia,2011,Ethnic Groups in Eastern Europe, Europe,20296,2000092,0.012
+Solomon Islands,1990,Oceania,28450,335082,4.3000001E-2
+Solomon Islands,1991,Oceania,28450,347115,5.0000001E-2
+Solomon Islands,1992,Oceania,28450,360010,5.9999999E-2
+Solomon Islands,1993,Oceania,28450,372746,5.9999999E-2
+Solomon Islands,1994,Oceania,28450,385811,1.7999999E-2
+Solomon Islands,1995,Oceania,28450,399206,7.9999998E-2
+Solomon Islands,1996,Oceania,28450,412902,7.9999998E-2
+Solomon Islands,1997,Oceania,28450,426855,4.5000002E-2
+Solomon Islands,1998,Oceania,28450,441039,0.035
+Solomon Islands,2000,Oceania,28450,466194,0.035
+Solomon Islands,2001,Oceania,28450,480442,9.9999998E-3
+Solomon Islands,2005,Oceania,28450,538032,5.7999998E-2
+Solomon Islands,2006,Oceania,28450,552438,0.044
+Solomon Islands,2007,Oceania,28450,566842,0.044
+Solomon Islands,2008,Oceania,28450,566842,0.044
+Solomon Islands,2009,Oceania,28450,595613,7.2999999E-2
+Solomon Islands,2011,Oceania,28450,571890,5.6000002E-2
+Somalia,1989,Africa,637660,8248133,0.015
+Somalia,1993,Africa,637660,6514629,
+Somalia,1994,Africa,637660,6666873,
+Somalia,1995,Africa,637660,7347554,
+Somalia,1996,Africa,637660,9639151,0.02
+Somalia,1997,Africa,637660,6590325,0.02
+Somalia,1998,Africa,637660,6841695,3.9999999E-2
+Somalia,1999,Africa,637660,7140643,
+Somalia,2000,Africa,637660,7253137,
+Somalia,2001,Africa,637660,7488773,
+Somalia,2002,Africa,637660,7753310,2.9999999E-2
+Somalia,2003,Africa,637660,8025190,0.035
+Somalia,2004,Africa,637660,8304601,0.021
+Somalia,2005,Africa,637660,8591629,2.8000001E-2
+Somalia,2006,Africa,637660,8863338,0.024
+Somalia,2007,Africa,637660,9118773,2.6000001E-2
+Somalia,2008,Africa,637660,9118773,2.6000001E-2
+Somalia,2009,Africa,637660,9832017,2.6000001E-2
+Somalia,2010,Africa,637660,10112453,2.6000001E-2
+Somalia,2011,Africa,637660,9925640,2.6000001E-2
+South Africa,1989,Africa,1219912,38509312,2.6000001E-2
+South Africa,1990,Africa,1219912,39549941,3.2000002E-2
+South Africa,1994,Africa,1219912,43930631,0.011
+South Africa,1995,Africa,1219912,45095459,0.02
+South Africa,1996,Africa,1219912,41743459,0.033
+South Africa,1997,Africa,1219912,42327458,2.9999999E-2
+South Africa,1998,Africa,1219912,42834520,2.9999999E-2
+South Africa,1999,Africa,1219912,43426386,0.003
+South Africa,2000,Africa,1219912,43421021,6.0000001E-3
+South Africa,2001,Africa,1219912,43586097,2.9999999E-2
+South Africa,2002,Africa,1219912,43647658,2.6000001E-2
+South Africa,2003,Africa,1219912,42768678,2.9999999E-2
+South Africa,2004,Africa,1219912,42718530,1.8999999E-2
+South Africa,2005,Africa,1219912,44344136,0.035
+South Africa,2006,Africa,1219912,44187637,4.8999999E-2
+South Africa,2007,Africa,1219912,43997828,5.0000001E-2
+South Africa,2008,Africa,1219912,43997828,5.0000001E-2
+South Africa,2009,Africa,1219912,49052489,2.8000001E-2
+South Africa,2011,Africa,1219912,49004031,2.8000001E-2
+Spain,1989,Europe,504750,39417220,
+Spain,1990,Europe,504750,39268715,
+Spain,1991,Europe,504750,39384516,0.037
+Spain,1992,Europe,504750,39118399,0.025
+Spain,1993,Europe,504750,39207159,9.9999998E-3
+Spain,1995,Europe,504750,39404348,1.7999999E-2
+Spain,1996,Europe,504750,39181114,2.9999999E-2
+Spain,1997,Europe,504750,39107912,0.024
+Spain,1998,Europe,504750,39133996,0.033
+Spain,1999,Europe,504750,39167744,0.035
+Spain,2000,Europe,504750,39996671,3.5999998E-2
+Spain,2001,Europe,504750,40037995,3.9999999E-2
+Spain,2002,Europe,504750,40077100,2.8000001E-2
+Spain,2003,Europe,504750,40217413,0.02
+Spain,2004,Europe,504750,40280780,0.024
+Spain,2005,Europe,504750,40341462,2.6000001E-2
+Spain,2006,Europe,504750,40397842,0.035
+Spain,2007,Europe,504750,40448191,3.9000001E-2
+Spain,2008,Europe,504750,40448191,3.7999999E-2
+Spain,2009,Europe,504750,40525002,0.011
+Sri Lanka,1989,Asia,65610,16881130,0.015
+Sri Lanka,1990,Asia,65610,17196436,2.7000001E-2
+Sri Lanka,1991,Asia,65610,17423736,4.5000002E-2
+Sri Lanka,1992,Asia,65610,17631528,5.0000001E-2
+Sri Lanka,1993,Asia,65610,17838190,4.5000002E-2
+Sri Lanka,1994,Asia,65610,18129850,5.0000001E-2
+Sri Lanka,1995,Asia,65610,18342660,5.0000001E-2
+Sri Lanka,1996,Asia,65610,18553074,5.0000001E-2
+Sri Lanka,1997,Asia,65610,18721178,0.037
+Sri Lanka,1998,Asia,65610,18933558,5.9999999E-2
+Sri Lanka,1999,Asia,65610,19144875,4.6999998E-2
+Sri Lanka,2000,Asia,65610,19238575,0.037
+Sri Lanka,2001,Asia,65610,19408635,5.6000002E-2
+Sri Lanka,2003,Asia,65610,19742439,3.2000002E-2
+Sri Lanka,2004,Asia,65610,19905165,0.055
+Sri Lanka,2005,Asia,65610,20064776,5.2000001E-2
+Sri Lanka,2006,Asia,65610,20222240,5.9999999E-2
+Sri Lanka,2007,Asia,65610,20926315,7.5000003E-2
+Sri Lanka,2008,Asia,65610,20926315,5.9999999E-2
+Sri Lanka,2009,Asia,65610,21324791,5.9999999E-2
+Sri Lanka,2010,Asia,65610,21513990,0.035
+Sri Lanka,2011,Asia,65610,21283913,9.0999998E-2
+Sudan,1989,Africa,2505810,24476290,
+Sudan,1990,Africa,2505810,24971806,0.07
+Sudan,1992,Africa,2505810,28305046,0
+Sudan,1993,Africa,2505810,28730381,9.0000004E-2
+Sudan,1994,Africa,2505810,29419798,0.07
+Sudan,1995,Africa,2505810,30120420,0.07
+Sudan,1996,Africa,2505810,31547543,0
+Sudan,1997,Africa,2505810,32594128,3.9999999E-2
+Sudan,1998,Africa,2505810,33550552,5.0000001E-2
+Sudan,1999,Africa,2505810,34475690,6.1000001E-2
+Sudan,2000,Africa,2505810,35079814,2.9999999E-2
+Sudan,2001,Africa,2505810,36080373,0.07
+Sudan,2002,Africa,2505810,37090298,0.055
+Sudan,2003,Africa,2505810,38114160,5.0999999E-2
+Sudan,2004,Africa,2505810,39148162,0.059
+Sudan,2005,Africa,2505810,40187486,6.4000003E-2
+Sudan,2006,Africa,2505810,41236378,7.9999998E-2
+Sudan,2007,Africa,2505810,39379358,9.6000001E-2
+Sudan,2008,Africa,2505810,39379358,0.12800001
+Sudan,2009,Africa,2505810,41087825,0.055
+Sudan,2010,Africa,2505810,43939598,4.1999999E-2
+Sudan,2011,Africa,2505810,45047502,5.0999999E-2
+Suriname,1990,South America,163270,396813,3.5999998E-2
+Suriname,1991,South America,163270,402385,0.02
+Suriname,1992,South America,163270,410016,0
+Suriname,1996,South America,163270,436418,7.0000002E-3
+Suriname,1997,South America,163270,424569,2.9999999E-2
+Suriname,1998,South America,163270,427980,3.9999999E-2
+Suriname,1999,South America,163270,431156,0.02
+Suriname,2003,South America,163270,435449,0.012
+Suriname,2004,South America,163270,436935,5.0000001E-2
+Suriname,2005,South America,163270,438144,4.1999999E-2
+Suriname,2006,South America,163270,439117,5.0000001E-2
+Suriname,2007,South America,163270,470784,5.0000001E-2
+Suriname,2008,South America,163270,470784,5.0999999E-2
+Suriname,2009,South America,163270,481267,5.9999999E-2
+Suriname,2010,South America,163270,486618,0.02
+Suriname,2011,South America,163270,491989,0.044
+Swaziland,1989,Africa,17360,756195,
+Swaziland,1990,Africa,17360,778525,
+Swaziland,1991,Africa,17360,859336,
+Swaziland,1992,Africa,17360,913008,5.0000001E-2
+Swaziland,1993,Africa,17360,906932,0.025
+Swaziland,1994,Africa,17360,936369,9.9999998E-3
+Swaziland,1995,Africa,17360,966977,4.5000002E-2
+Swaziland,1996,Africa,17360,998730,2.6000001E-2
+Swaziland,1997,Africa,17360,1031600,2.8999999E-2
+Swaziland,1998,Africa,17360,966462,2.9999999E-2
+Swaziland,1999,Africa,17360,985335,2.6000001E-2
+Swaziland,2000,Africa,17360,1083289,3.0999999E-2
+Swaziland,2001,Africa,17360,1104343,0.024
+Swaziland,2002,Africa,17360,1123605,0.025
+Swaziland,2003,Africa,17360,1161219,1.6000001E-2
+Swaziland,2004,Africa,17360,1169241,0.022
+Swaziland,2005,Africa,17360,1173900,0.025
+Swaziland,2006,Africa,17360,1136334,1.7999999E-2
+Swaziland,2007,Africa,17360,1133066,0.012
+Swaziland,2008,Africa,17360,1133066,1.6000001E-2
+Swaziland,2009,Africa,17360,1123913,2.7000001E-2
+Swaziland,2010,Africa,17360,1354051,4.0000002E-3
+Swaziland,2011,Africa,17360,1370424,0.02
+Sweden,1989,Europe,449964,8401098,
+Sweden,1990,Europe,449964,8526452,0.021
+Sweden,1991,Europe,449964,8564317,0.003
+Sweden,1995,Europe,449964,8821759,0.024
+Sweden,1996,Europe,449964,8900954,0.035
+Sweden,1997,Europe,449964,8865051,0.014
+Sweden,1998,Europe,449964,8886738,0.021
+Sweden,1999,Europe,449964,8911296,2.8999999E-2
+Sweden,2000,Europe,449964,8873052,3.7999999E-2
+Sweden,2001,Europe,449964,8875053,4.3000001E-2
+Sweden,2002,Europe,449964,8876744,1.6000001E-2
+Sweden,2003,Europe,449964,8878085,1.8999999E-2
+Sweden,2004,Europe,449964,8986400,1.7000001E-2
+Sweden,2005,Europe,449964,9001774,3.5999998E-2
+Sweden,2006,Europe,449964,9016596,2.7000001E-2
+Sweden,2007,Europe,449964,9031088,4.6999998E-2
+Sweden,2008,Europe,449964,9031088,3.4000002E-2
+Sweden,2009,Europe,449964,9059651,7.0000002E-3
+Sweden,2011,Europe,449964,9088728,0.055
+Switzerland,1989,Europe,41290,6611019,
+Switzerland,1990,Europe,41290,6742461,2.9999999E-2
+Switzerland,1991,Europe,41290,6783961,2.6000001E-2
+Switzerland,1995,Europe,41290,7084984,1.7999999E-2
+Switzerland,1996,Europe,41290,7207060,0.012
+Switzerland,1998,Europe,41290,7260357,4.0000002E-3
+Switzerland,1999,Europe,41290,7275467,0.02
+Switzerland,2000,Europe,41290,7262372,0.014
+Switzerland,2001,Europe,41290,7283274,2.9999999E-2
+Switzerland,2002,Europe,41290,7301994,1.6000001E-2
+Switzerland,2003,Europe,41290,7318638,0.001
+Switzerland,2005,Europe,41290,7489370,1.7999999E-2
+Switzerland,2006,Europe,41290,7523934,1.8999999E-2
+Switzerland,2007,Europe,41290,7554661,2.7000001E-2
+Switzerland,2008,Europe,41290,7554661,2.6000001E-2
+Switzerland,2009,Europe,41290,7604467,1.8999999E-2
+Switzerland,2011,Europe,41290,7639961,2.6000001E-2
+Tajikistan,1989,Commonwealth of Independent States - Central Asian States,143100,,
+Tajikistan,1990,Commonwealth of Independent States - Central Asian States,143100,,
+Tajikistan,1991,Commonwealth of Independent States - Central Asian States,143100,,
+Tajikistan,1999,Commonwealth of Independent States - Central Asian States,143100,6102854,5.2999999E-2
+Tajikistan,2000,Commonwealth of Independent States - Central Asian States,143100,6440732,0.02
+Tajikistan,2001,Commonwealth of Independent States - Central Asian States,143100,6578681,5.0999999E-2
+Tajikistan,2002,Commonwealth of Independent States - Central Asian States,143100,6719567,8.2999997E-2
+Tajikistan,2003,Commonwealth of Independent States - Central Asian States,143100,6863752,9.0999998E-2
+Tajikistan,2004,Commonwealth of Independent States - Central Asian States,143100,7011556,0.07
+Tajikistan,2005,Commonwealth of Independent States - Central Asian States,143100,7163506,0.105
+Tajikistan,2006,Commonwealth of Independent States - Central Asian States,143100,7320815,6.7000002E-2
+Tajikistan,2007,Commonwealth of Independent States - Central Asian States,143100,7076598,0.07
+Tajikistan,2008,Commonwealth of Independent States - Central Asian States,143100,7076598,7.1999997E-2
+Tajikistan,2009,Commonwealth of Independent States - Central Asian States,143100,7349145,7.9000004E-2
+Tajikistan,2010,Commonwealth of Independent States - Central Asian States,143100,7487489,3.4000002E-2
+Tajikistan,2011,Commonwealth of Independent States - Central Asian States,143100,7627200,6.4999998E-2
+Thailand,1989,Southeast Asia,514000,55524352,
+Thailand,1990,Southeast Asia,514000,55115683,
+Thailand,1991,Southeast Asia,514000,56814069,
+Thailand,1992,Southeast Asia,514000,57624180,
+Thailand,1993,Southeast Asia,514000,58722437,0.07
+Thailand,1994,Southeast Asia,514000,59510471,7.8000002E-2
+Thailand,1995,Southeast Asia,514000,60271300,7.9999998E-2
+Thailand,1996,Southeast Asia,514000,58851357,8.6000003E-2
+Thailand,1997,Southeast Asia,514000,59450818,6.7000002E-2
+Thailand,2000,Southeast Asia,514000,61230874,3.9999999E-2
+Thailand,2001,Southeast Asia,514000,61797751,4.1999999E-2
+Thailand,2002,Southeast Asia,514000,62354402,0.014
+Thailand,2003,Southeast Asia,514000,64265276,5.2999999E-2
+Thailand,2004,Southeast Asia,514000,64865523,6.7000002E-2
+Thailand,2005,Southeast Asia,514000,65444371,6.1000001E-2
+Thailand,2006,Southeast Asia,514000,64631595,4.5000002E-2
+Thailand,2007,Southeast Asia,514000,65068149,0.048
+Thailand,2008,Southeast Asia,514000,65068149,4.5000002E-2
+Thailand,2009,Southeast Asia,514000,65905410,3.5999998E-2
+Thailand,2011,Southeast Asia,514000,66720153,7.8000002E-2
+Togo,1989,Africa,56790,3448939,3.7999999E-2
+Togo,1990,Africa,56790,3674355,4.1000001E-2
+Togo,1991,Africa,56790,3810616,3.5999998E-2
+Togo,1992,Africa,56790,3958863,0.02
+Togo,1993,Africa,56790,4104657,0
+Togo,1994,Africa,56790,4255090,
+Togo,1995,Africa,56790,4410370,
+Togo,1996,Africa,56790,4570530,5.9999999E-2
+Togo,1997,Africa,56790,4735610,5.9999999E-2
+Togo,1998,Africa,56790,4905827,0.048
+Togo,1999,Africa,56790,5081413,3.7999999E-2
+Togo,2000,Africa,56790,5018502,3.9999999E-2
+Togo,2001,Africa,56790,5153088,3.4000002E-2
+Togo,2002,Africa,56790,5285501,0.022
+Togo,2003,Africa,56790,5429299,2.8999999E-2
+Togo,2004,Africa,56790,5556812,0.033
+Togo,2005,Africa,56790,5681519,2.9999999E-2
+Togo,2006,Africa,56790,5548702,9.9999998E-3
+Togo,2007,Africa,56790,5701579,0.02
+Togo,2008,Africa,56790,5701579,0.025
+Togo,2009,Africa,56790,6019877,8.0000004E-3
+Togo,2010,Africa,56790,6587239,3.0999999E-2
+Togo,2011,Africa,56790,6771993,3.4000002E-2
+Tonga,1989,Oceania,748,100465,2.9999999E-2
+Tonga,1990,Oceania,748,101313,3.5999998E-2
+Tonga,1991,Oceania,748,102272,3.5999998E-2
+Tonga,1992,Oceania,748,103114,0.025
+Tonga,1993,Oceania,748,103949,4.0000002E-3
+Tonga,1994,Oceania,748,104778,3.9999999E-2
+Tonga,1995,Oceania,748,105600,5.0000001E-2
+Tonga,1996,Oceania,748,106466,3.9999999E-2
+Tonga,1998,Oceania,748,108207,9.9999998E-3
+Tonga,2001,Oceania,748,104227,5.0000001E-2
+Tonga,2002,Oceania,748,106137,5.2999999E-2
+Tonga,2003,Oceania,748,108141,2.9999999E-2
+Tonga,2004,Oceania,748,110237,2.9999999E-2
+Tonga,2005,Oceania,748,112422,0.015
+Tonga,2006,Oceania,748,114689,0.024
+Tonga,2007,Oceania,748,146921,0.024
+Tonga,2008,Oceania,748,116921,0.024
+Tonga,2009,Oceania,748,120898,0.012
+Tonga,2011,Oceania,748,105916,0.003
+Tunisia,1989,Africa,163610,7916104,5.7999998E-2
+Tunisia,1990,Africa,163610,8095492,3.0999999E-2
+Tunisia,1991,Africa,163610,8276096,6.4999998E-2
+Tunisia,1992,Africa,163610,8445656,0.035
+Tunisia,1993,Africa,163610,8570868,7.9999998E-2
+Tunisia,1994,Africa,163610,8726562,2.6000001E-2
+Tunisia,1995,Africa,163610,8879845,0.044
+Tunisia,1996,Africa,163610,9019687,0.044
+Tunisia,1997,Africa,163610,9245284,7.1000002E-2
+Tunisia,1998,Africa,163610,9380404,5.6000002E-2
+Tunisia,1999,Africa,163610,9513603,5.0000001E-2
+Tunisia,2000,Africa,163610,9593402,5.9999999E-2
+Tunisia,2001,Africa,163610,9705102,5.0000001E-2
+Tunisia,2002,Africa,163610,9815644,0.048
+Tunisia,2003,Africa,163610,9924742,0.048
+Tunisia,2004,Africa,163610,9974722,5.0999999E-2
+Tunisia,2005,Africa,163610,10074951,5.0999999E-2
+Tunisia,2006,Africa,163610,10175014,4.1999999E-2
+Tunisia,2007,Africa,163610,10276158,5.0999999E-2
+Tunisia,2008,Africa,163610,10276158,6.3000001E-2
+Tunisia,2009,Africa,163610,10486339,4.6999998E-2
+Tunisia,2010,Africa,163610,10589025,2.9999999E-2
+Tunisia,2011,Africa,163610,10629186,0.037
+Turkey,1989,Middle East,780580,55355831,7.4000001E-2
+Turkey,1990,Middle East,780580,56704327,1.7999999E-2
+Turkey,1991,Middle East,780580,58580993,7.5999998E-2
+Turkey,1992,Middle East,780580,59640143,0.015
+Turkey,1993,Middle East,780580,60897841,0.059
+Turkey,1994,Middle East,780580,62153898,7.2999999E-2
+Turkey,1996,Middle East,780580,62484478,6.8000004E-2
+Turkey,1997,Middle East,780580,63528225,0.07
+Turkey,1998,Middle East,780580,64566511,7.1999997E-2
+Turkey,1999,Middle East,780580,65599206,2.8000001E-2
+Turkey,2001,Middle East,780580,66493970,5.9999999E-2
+Turkey,2003,Middle East,780580,68109469,7.8000002E-2
+Turkey,2004,Middle East,780580,68893918,5.7999998E-2
+Turkey,2005,Middle East,780580,69660559,8.2000002E-2
+Turkey,2006,Middle East,780580,70413958,7.4000001E-2
+Turkey,2007,Middle East,780580,71158647,5.2999999E-2
+Turkey,2008,Middle East,780580,71158647,5.0999999E-2
+Turkey,2009,Middle East,780580,76805524,0.015
+Turkey,2011,Middle East,780580,78785548,8.2000002E-2
+Turkmenistan,1989,Commonwealth of Independent States - Central Asian States,488100,,
+Turkmenistan,1990,Commonwealth of Independent States - Central Asian States,488100,,
+Turkmenistan,1991,Commonwealth of Independent States - Central Asian States,488100,,
+Turkmenistan,1994,Commonwealth of Independent States - Central Asian States,488100,3995122,7.8000002E-2
+Turkmenistan,1997,Commonwealth of Independent States - Central Asian States,488100,4229249,0.001
+Turkmenistan,1999,Commonwealth of Independent States - Central Asian States,488100,4366383,5.0000001E-2
+Turkmenistan,2000,Commonwealth of Independent States - Central Asian States,488100,4518268,9.0000004E-2
+Turkmenistan,2001,Commonwealth of Independent States - Central Asian States,488100,4603244,0.16
+Turkmenistan,2002,Commonwealth of Independent States - Central Asian States,488100,4688963,0.1
+Turkmenistan,2003,Commonwealth of Independent States - Central Asian States,488100,4775544,0.211
+Turkmenistan,2004,Commonwealth of Independent States - Central Asian States,488100,4863169,0.23100001
+Turkmenistan,2005,Commonwealth of Independent States - Central Asian States,488100,4952081,7.5000003E-2
+Turkmenistan,2006,Commonwealth of Independent States - Central Asian States,488100,5042920,5.9999999E-2
+Turkmenistan,2007,Commonwealth of Independent States - Central Asian States,488100,5097028,5.9999999E-2
+Turkmenistan,2008,Commonwealth of Independent States - Central Asian States,488100,5097028,0.07
+Turkmenistan,2009,Commonwealth of Independent States - Central Asian States,488100,4884887,0.1
+Turkmenistan,2010,Commonwealth of Independent States - Central Asian States,488100,4940916,6.1000001E-2
+Turkmenistan,2011,Commonwealth of Independent States - Central Asian States,488100,4997503,0.092
+Turks and Caicos Islands,1989,Central America and the Caribbean,430,9531,
+Turks and Caicos Islands,1990,Central America and the Caribbean,430,9761,
+Turks and Caicos Islands,1991,Central America and the Caribbean,430,9983,
+Turks and Caicos Islands,1992,Central America and the Caribbean,430,12697,
+Turks and Caicos Islands,1993,Central America and the Caribbean,430,13137,
+Turks and Caicos Islands,1997,Central America and the Caribbean,430,14631,0.02
+Turks and Caicos Islands,1998,Central America and the Caribbean,430,16249,0.035
+Turks and Caicos Islands,1999,Central America and the Caribbean,430,16863,3.9999999E-2
+Turks and Caicos Islands,2000,Central America and the Caribbean,430,17502,3.9999999E-2
+Turks and Caicos Islands,2001,Central America and the Caribbean,430,18122,8.6999997E-2
+Turks and Caicos Islands,2002,Central America and the Caribbean,430,18738,8.6999997E-2
+Turks and Caicos Islands,2003,Central America and the Caribbean,430,19350,4.8999999E-2
+Turks and Caicos Islands,2004,Central America and the Caribbean,430,19956,4.8999999E-2
+Turks and Caicos Islands,2005,Central America and the Caribbean,430,20556,4.8999999E-2
+Turks and Caicos Islands,2006,Central America and the Caribbean,430,21152,4.8999999E-2
+Turks and Caicos Islands,2007,Central America and the Caribbean,430,51746,4.8999999E-2
+Turks and Caicos Islands,2008,Central America and the Caribbean,430,21746,4.8999999E-2
+Turks and Caicos Islands,2009,Central America and the Caribbean,430,22942,4.8999999E-2
+Turks and Caicos Islands,2010,Central America and the Caribbean,430,23528,4.8999999E-2
+Turks and Caicos Islands,2011,Central America and the Caribbean,430,44819,4.8999999E-2
+Uganda,1989,Africa,236040,17007530,2.8999999E-2
+Uganda,1990,Africa,236040,17960262,6.1000001E-2
+Uganda,1991,Africa,236040,18690070,6.1000001E-2
+Uganda,1992,Africa,236040,19386104,4.5000002E-2
+Uganda,1993,Africa,236040,19344181,3.9999999E-2
+Uganda,1994,Africa,236040,19121934,5.9999999E-2
+Uganda,1995,Africa,236040,19573262,5.9999999E-2
+Uganda,1996,Africa,236040,20158176,7.1000002E-2
+Uganda,1997,Africa,236040,20604874,7.1000002E-2
+Uganda,1998,Africa,236040,22167195,5.0000001E-2
+Uganda,1999,Africa,236040,22804973,0.055
+Uganda,2000,Africa,236040,23317560,0.055
+Uganda,2001,Africa,236040,23985712,5.9999999E-2
+Uganda,2002,Africa,236040,24699073,5.0999999E-2
+Uganda,2003,Africa,236040,25632794,0.055
+Uganda,2004,Africa,236040,26404543,0.044
+Uganda,2005,Africa,236040,27269482,5.0000001E-2
+Uganda,2006,Africa,236040,28195754,3.9999999E-2
+Uganda,2007,Africa,236040,30262610,5.2999999E-2
+Uganda,2008,Africa,236040,30262610,5.9999999E-2
+Uganda,2009,Africa,236040,32369558,6.8999998E-2
+Uganda,2010,Africa,236040,33398682,5.2999999E-2
+Uganda,2011,Africa,236040,34612250,5.2000001E-2
+Ukraine,1989,Commonwealth of Independent States - European States,603700,,
+Ukraine,1990,Commonwealth of Independent States - European States,603700,,
+Ukraine,1991,Commonwealth of Independent States - European States,603700,,
+Ukraine,2001,Commonwealth of Independent States - European States,603700,48760474,5.9999999E-2
+Ukraine,2002,Commonwealth of Independent States - European States,603700,48396470,9.0000004E-2
+Ukraine,2003,Commonwealth of Independent States - European States,603700,48055439,0.048
+Ukraine,2004,Commonwealth of Independent States - European States,603700,47732079,9.3999997E-2
+Ukraine,2005,Commonwealth of Independent States - European States,603700,47425336,0.12
+Ukraine,2006,Commonwealth of Independent States - European States,603700,46710816,2.6000001E-2
+Ukraine,2007,Commonwealth of Independent States - European States,603700,46299862,7.1000002E-2
+Ukraine,2008,Commonwealth of Independent States - European States,603700,46299862,6.8999998E-2
+Ukraine,2009,Commonwealth of Independent States - European States,603700,45700395,0.021
+Ukraine,2011,Commonwealth of Independent States - European States,603700,45134707,4.1999999E-2
+United Arab Emirates,1989,Middle East,75581,2115109,
+United Arab Emirates,1990,Middle East,75581,2253624,
+United Arab Emirates,1991,Middle East,75581,2389759,0.1
+United Arab Emirates,1992,Middle East,75581,2522315,0.11
+United Arab Emirates,1993,Middle East,75581,2657013,
+United Arab Emirates,1994,Middle East,75581,2791141,9.9999998E-3
+United Arab Emirates,1996,Middle East,75581,3057337,0.033
+United Arab Emirates,1997,Middle East,75581,2262309,0.014
+United Arab Emirates,1998,Middle East,75581,2303088,5.0000001E-2
+United Arab Emirates,2000,Middle East,75581,2369153,0.025
+United Arab Emirates,2001,Middle East,75581,2407460,3.9999999E-2
+United Arab Emirates,2002,Middle East,75581,2445989,5.6000002E-2
+United Arab Emirates,2003,Middle East,75581,2484818,1.7999999E-2
+United Arab Emirates,2004,Middle East,75581,2523915,5.2000001E-2
+United Arab Emirates,2005,Middle East,75581,2563212,0.057
+United Arab Emirates,2006,Middle East,75581,2602713,0.088
+United Arab Emirates,2007,Middle East,75581,4444011,8.9000002E-2
+United Arab Emirates,2008,Middle East,75581,,
+United Arab Emirates,2009,Middle East,75581,4798491,0.077
+United Arab Emirates,2011,Middle East,75581,5148664,3.2000002E-2
+United Kingdom,1989,Europe,244820,57028169,
+United Kingdom,1990,Europe,244820,57365665,0.023
+United Kingdom,1991,Europe,244820,57515307,8.0000004E-3
+United Kingdom,1994,Europe,244820,58135110,0.021
+United Kingdom,1995,Europe,244820,58295119,4.1999999E-2
+United Kingdom,1996,Europe,244820,58489975,2.7000001E-2
+United Kingdom,1997,Europe,244820,57591677,0.024
+United Kingdom,1998,Europe,244820,58970119,0.035
+United Kingdom,1999,Europe,244820,59113439,2.6000001E-2
+United Kingdom,2000,Europe,244820,59511464,1.8999999E-2
+United Kingdom,2001,Europe,244820,59647790,2.9999999E-2
+United Kingdom,2002,Europe,244820,59778002,0.024
+United Kingdom,2003,Europe,244820,60094648,1.7999999E-2
+United Kingdom,2004,Europe,244820,60270708,0.022
+United Kingdom,2005,Europe,244820,60441457,3.2000002E-2
+United Kingdom,2006,Europe,244820,60609153,1.8999999E-2
+United Kingdom,2007,Europe,244820,60776238,2.8000001E-2
+United Kingdom,2008,Europe,244820,60776238,2.8999999E-2
+United Kingdom,2009,Europe,244820,61113205,7.0000002E-3
+United Kingdom,2011,Europe,244820,62698362,0.013
+United States,1989,North America,9372610,248231030,
+United States,1990,North America,9372610,250410000,
+United States,1991,North America,9372610,252502000,
+United States,1993,North America,9372610,258103721,0.021
+United States,1994,North America,9372610,260713585,2.9999999E-2
+United States,1995,North America,9372610,263814032,4.1000001E-2
+United States,1996,North America,9372610,266476278,0.021
+United States,1997,North America,9372610,267954764,0.024
+United States,1998,North America,9372610,270311756,3.7999999E-2
+United States,1999,North America,9372610,272639608,3.9000001E-2
+United States,2000,North America,9372610,275562673,4.1000001E-2
+United States,2001,North America,9372610,278058881,5.0000001E-2
+United States,2002,North America,9372610,280562489,0.003
+United States,2003,North America,9372610,290342554,0.024
+United States,2004,North America,9372610,293027571,3.0999999E-2
+United States,2005,North America,9372610,295734134,0.044
+United States,2006,North America,9372610,298444215,3.2000002E-2
+United States,2007,North America,9372610,301139947,3.2000002E-2
+United States,2008,North America,9372610,301139947,0.022
+United States,2009,North America,9372610,307212123,0.013
+United States,2011,North America,9372610,313232044,2.8000001E-2
+Uruguay,1989,South America,176220,2988813,9.9999998E-3
+Uruguay,1990,South America,176220,3036660,9.9999998E-3
+Uruguay,1991,South America,176220,3121101,9.9999998E-3
+Uruguay,1992,South America,176220,3141533,0.023
+Uruguay,1993,South America,176220,3175050,7.9999998E-2
+Uruguay,1994,South America,176220,3198910,0.02
+Uruguay,1995,South America,176220,3222716,3.9999999E-2
+Uruguay,1997,South America,176220,3270707,4.8999999E-2
+Uruguay,1998,South America,176220,3284841,5.0999999E-2
+Uruguay,1999,South America,176220,3308523,2.9999999E-2
+Uruguay,2004,South America,176220,3399237,0.025
+Uruguay,2005,South America,176220,3415920,0.102
+Uruguay,2006,South America,176220,3431932,6.8000004E-2
+Uruguay,2007,South America,176220,3460607,0.07
+Uruguay,2008,South America,176220,3460607,7.1999997E-2
+Uruguay,2009,South America,176220,3494382,8.5000001E-2
+Uruguay,2010,South America,176220,3510386,2.8999999E-2
+Uruguay,2011,South America,176220,3308535,8.5000001E-2
+Uzbekistan,1989,Commonwealth of Independent States - Central Asian States,447400,,
+Uzbekistan,1990,Commonwealth of Independent States - Central Asian States,447400,,
+Uzbekistan,1991,Commonwealth of Independent States - Central Asian States,447400,,
+Uzbekistan,1997,Commonwealth of Independent States - Central Asian States,447400,23467724,1.6000001E-2
+Uzbekistan,1998,Commonwealth of Independent States - Central Asian States,447400,23784321,0.024
+Uzbekistan,1999,Commonwealth of Independent States - Central Asian States,447400,24102473,9.9999998E-3
+Uzbekistan,2001,Commonwealth of Independent States - Central Asian States,447400,25155064,0.021
+Uzbekistan,2002,Commonwealth of Independent States - Central Asian States,447400,25563441,2.9999999E-2
+Uzbekistan,2003,Commonwealth of Independent States - Central Asian States,447400,25981647,4.1999999E-2
+Uzbekistan,2004,Commonwealth of Independent States - Central Asian States,447400,26410416,3.0999999E-2
+Uzbekistan,2005,Commonwealth of Independent States - Central Asian States,447400,26851195,0.044
+Uzbekistan,2006,Commonwealth of Independent States - Central Asian States,447400,27307134,0.07
+Uzbekistan,2007,Commonwealth of Independent States - Central Asian States,447400,27780059,7.2999999E-2
+Uzbekistan,2008,Commonwealth of Independent States - Central Asian States,447400,27780059,0.081
+Uzbekistan,2009,Commonwealth of Independent States - Central Asian States,447400,27606007,8.9000002E-2
+Uzbekistan,2010,Commonwealth of Independent States - Central Asian States,447400,27865738,0.081
+Uzbekistan,2011,Commonwealth of Independent States - Central Asian States,447400,28128600,8.5000001E-2
+Vanuatu,1990,Oceania,14760,165006,7.0000002E-3
+Vanuatu,1991,Oceania,14760,170319,4.3000001E-2
+Vanuatu,1992,Oceania,14760,174574,5.9999999E-2
+Vanuatu,1993,Oceania,14760,165876,5.9999999E-2
+Vanuatu,1994,Oceania,14760,169776,5.9999999E-2
+Vanuatu,1995,Oceania,14760,173648,
+Vanuatu,1996,Oceania,14760,177504,0.02
+Vanuatu,1997,Oceania,14760,181358,0.02
+Vanuatu,1998,Oceania,14760,185204,2.9999999E-2
+Vanuatu,1999,Oceania,14760,189036,
+Vanuatu,2000,Oceania,14760,189618,
+Vanuatu,2002,Oceania,14760,196178,2.7000001E-2
+Vanuatu,2005,Oceania,14760,205754,0.011
+Vanuatu,2006,Oceania,14760,208869,6.8000004E-2
+Vanuatu,2007,Oceania,14760,211971,6.8000004E-2
+Vanuatu,2008,Oceania,14760,211971,6.8000004E-2
+Vanuatu,2009,Oceania,14760,218519,6.3000001E-2
+Vanuatu,2010,Oceania,14760,221552,3.7999999E-2
+Vanuatu,2011,Oceania,14760,224564,0.022
+Venezuela,1989,South America,912050,19263376,4.1999999E-2
+Venezuela,1991,South America,912050,20189361,0.044
+Venezuela,1992,South America,912050,20675970,0.092
+Venezuela,1993,South America,912050,20117687,7.2999999E-2
+Venezuela,1996,South America,912050,21983188,0.022
+Venezuela,1998,South America,912050,22803409,5.0000001E-2
+Venezuela,2001,South America,912050,23916810,3.2000002E-2
+Venezuela,2002,South America,912050,24287670,2.7000001E-2
+Venezuela,2005,South America,912050,25375281,0.168
+Venezuela,2006,South America,912050,25730435,9.3000002E-2
+Venezuela,2007,South America,912050,26023528,0.103
+Venezuela,2008,South America,912050,26023528,8.2999997E-2
+Venezuela,2009,South America,912050,26814843,4.8999999E-2
+Yemen,1989,Middle East,527970,2503641,
+Yemen,1990,Middle East,527970,2585484,
+Yemen,1991,Middle East,527970,10062633,
+Yemen,1992,Middle East,527970,10394749,
+Yemen,1993,Middle East,527970,10742395,
+Yemen,1994,Middle East,527970,11105202,3.0999999E-2
+Yemen,1996,Middle East,527970,13483178,3.5999998E-2
+Yemen,1997,Middle East,527970,13972477,2.8000001E-2
+Yemen,1998,Middle East,527970,16387963,5.0000001E-2
+Yemen,1999,Middle East,527970,16942230,1.7999999E-2
+Yemen,2000,Middle East,527970,17479206,3.9999999E-2
+Yemen,2001,Middle East,527970,18078035,5.9999999E-2
+Yemen,2002,Middle East,527970,18701257,3.9999999E-2
+Yemen,2003,Middle East,527970,19349881,4.1000001E-2
+Yemen,2004,Middle East,527970,20024867,2.8000001E-2
+Yemen,2005,Middle East,527970,20727063,1.8999999E-2
+Yemen,2006,Middle East,527970,21456188,2.8000001E-2
+Yemen,2007,Middle East,527970,22230531,2.6000001E-2
+Yemen,2008,Middle East,527970,22230531,3.2000002E-2
+Yemen,2009,Middle East,527970,23822783,3.2000002E-2
+Yemen,2010,Middle East,527970,23495361,3.7999999E-2
+Yemen,2011,Middle East,527970,24133492,7.9999998E-2
+Zaire,1989,Africa,2345410,34279472,0.025
+Zaire,1990,Africa,2345410,36589468,2.8000001E-2
+Zaire,1995,Africa,2345410,44060636,3.9999999E-2
+Zaire,1997,Africa,2345410,,
+Zaire,1998,Africa,2345410,,
+Zaire,1999,Africa,2345410,,
+Zaire,2000,Africa,2345410,,
+Zaire,2001,Africa,2345410,,
+Zaire,2002,Africa,2345410,,
+Zaire,2003,Africa,2345410,,
+Zaire,2004,Africa,2345410,,
+Zaire,2005,Africa,2345410,,
+Zaire,2006,Africa,2345410,,
+Zaire,2007,Africa,2345410,,
+Zaire,2008,Africa,2345410,,
+Zaire,2009,Africa,2345410,,
+Zaire,2010,Africa,2345410,,
+Zaire,2011,Africa,2345410,,
+Zambia,1990,Africa,752610,8112782,6.7000002E-2
+Zambia,1995,Africa,752610,9445723,3.9999999E-2
+Zambia,1996,Africa,752610,9159072,
+Zambia,1997,Africa,752610,9349975,6.4000003E-2
+Zambia,1998,Africa,752610,9460736,0.035
+Zambia,2000,Africa,752610,9582418,0.015
+Zambia,2001,Africa,752610,9770199,3.9999999E-2
+Zambia,2002,Africa,752610,9959037,3.9000001E-2
+Zambia,2003,Africa,752610,10307333,0.023
+Zambia,2004,Africa,752610,10462436,3.9999999E-2
+Zambia,2005,Africa,752610,11261795,0.046
+Zambia,2006,Africa,752610,11502010,5.0000001E-2
+Zambia,2007,Africa,752610,11477447,5.7999998E-2
+Zambia,2008,Africa,752610,11477447,5.9999999E-2
+Zambia,2009,Africa,752610,11862740,5.7999998E-2
+Zambia,2010,Africa,752610,13460305,6.3000001E-2
+Zambia,2011,Africa,752610,13881336,7.5999998E-2
+Zimbabwe,1989,Africa,390580,10119037,5.9999999E-2
+Zimbabwe,1990,Africa,390580,10392161,5.2999999E-2
+Zimbabwe,1991,Africa,390580,10720459,4.1999999E-2
+Zimbabwe,1992,Africa,390580,11033376,0.035
+Zimbabwe,1994,Africa,390580,10975078,0.02
+Zimbabwe,1995,Africa,390580,11139961,0.035
+Zimbabwe,1997,Africa,390580,11423175,0.055
+Zimbabwe,1998,Africa,390580,11044147,0.081
+Zimbabwe,1999,Africa,390580,11163160,0.015
+Zimbabwe,2000,Africa,390580,11342521,0
+Zimbabwe,2011,Africa,390580,12084304,9.0000004E-2
